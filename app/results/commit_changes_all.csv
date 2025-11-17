@@ -1,0 +1,44 @@
+repo,commit,parent,commit_date,commit_message,removed_dep,version_before,version_after,cve_count,cve_ids,lines_before,lines_after,complex_before,complex_after
+trekhleb/javascript-algorithms,14c563619c300145de3d07d8e67024dc05869606,bbbfd32a45a677950554a91c4ece8976b8b31c38,2023-04-10T16:31:06Z,Fix repo build for M1 MacBooks (#1029),canvas,['2.11.0'],[],2,GHSA-73rg-x683-m3qw;GHSA-vpq5-4rc8-c222,9286,9280,1.5955,1.5937
+mrdoob/three.js,f265b19cceb299184bcc26653ad53452c4349e70,f887f89de40c9d67343d0df295f1ee7435a3dd58,2025-10-31T10:38:39Z,r181,version,['0.180.0'],['0.181.0'],0,,67234,67234,3.2757,3.2757
+vercel/next.js,a3f3c1e0d747982c4109b20beb2fe66b23700c53,617ead5753f58ce1d948927512fe3ff39a12b5b6,2025-11-15T18:50:51Z,"Upgrade React from `93fc5740-20251113` to `fb2177c1-20251114` (#86155)
+
+[diff facebook/react@93fc5740...fb2177c1](https://github.com/facebook/react/compare/93fc5740...fb2177c1)
+
+<details>
+<summary>React upstream changes</summary>
+
+- https://github.com/facebook/react/pull/35143
+- https://github.com/facebook/react/pull/35145
+- https://github.com/facebook/react/pull/35140
+- https://github.com/facebook/react/pull/35139
+- https://github.com/facebook/react/pull/35062
+- https://github.com/facebook/react/pull/35135
+- https://github.com/facebook/react/pull/35134
+
+</details>",eslint-plugin-react-hooks,['0.0.0-experimental-93fc5740-20251113'],['0.0.0-experimental-fb2177c1-20251114'],0,,8882,8882,2.5035,2.5035
+Chalarangelo/30-seconds-of-code,1744b80bd9654f07c8a807cc915ca288bb18685c,52b388c2bbe60497fbb86f3ed4f807c779164a23,2025-10-11T00:41:33Z,"Bump astro from 5.13.1 to 5.14.3
+
+Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 5.13.1 to 5.14.3.
+- [Release notes](https://github.com/withastro/astro/releases)
+- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
+- [Commits](https://github.com/withastro/astro/commits/astro@5.14.3/packages/astro)
+
+---
+updated-dependencies:
+- dependency-name: astro
+  dependency-version: 5.14.3
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>",astro,['^5.13.1'],['^5.14.3'],9,GHSA-49w6-73cw-chjr;GHSA-5ff5-9fcw-vg88;GHSA-c4pw-33h3-35xw;GHSA-cq8c-xv66-36gw;GHSA-hr2q-hp5q-x767;GHSA-m85w-3h95-hcf9;GHSA-qcpr-679q-rhm2;GHSA-w2vj-39qv-7vh7;GHSA-xf8x-j4p2-f749,8777,8777,1.4332,1.4332
+open-webui/open-webui,9b3ecb703a65a5f93f2cc629e4f167d358b6ae0c,c2c02846a8745859ea48ac8b8b8a9f746f6e659b,2025-11-06T21:37:41Z,chore: bump,version,['0.6.35'],['0.6.36'],0,,14957,14957,2.0073,2.0073
+facebook/react,17b3765244b83e4c6f7a8c9b78ea4c8fa3a35622,69f3e9d0346a04af55de05a08d7aa2df17035849,2025-10-27T22:04:48Z,"[generate-changelog] Refactor (#34993)
+
+Just a light reorganization.",generate-changelog,['node ./scripts/tasks/generate-changelog.js'],['node ./scripts/tasks/generate-changelog/index.js'],0,,58819,58819,4.704,4.704
+airbnb/javascript,18a08b862b14ec8d8fd8bd70bcba2d8e9714c93b,fd77bbebb77362ddecfef7aba3bf6abf7bdd81f2,2023-08-04T23:55:23Z,"[Dev Deps] update `markdownlint`, `markdownlint-cli`",markdownlint,['^0.28.2'],['^0.29.0'],0,,2661,2661,1.6383,1.6383
+axios/axios,08b84b52d5835d0c7b81049c365c3d271ade8bff,8d372335f5c50ecd01e8615f2468a9eb19703117,2025-11-04T20:00:13Z,"chore(release): v1.13.2 (#7207)
+
+Co-authored-by: DigitalBrainJS <12586868+DigitalBrainJS@users.noreply.github.com>",version,['1.13.1'],['1.13.2'],0,,15362,15362,1.5427,1.5427
+mui/material-ui,cd0b6427ec3fa84cc568a6a787ef062749ec790c,d2a2481ff3932f57f7258590860e998039d8583c,2025-11-17T13:39:17Z,[code-infra] Remove profiler (#47258),nx_test_karma_profile,['cross-env NODE_ENV=test karma start test/karma.conf.profile.js'],[],0,,14611,14611,1.4524,1.4524
+microsoft/Web-Dev-For-Beginners,6581c544ec17afb750f163ade533453ce5494064,82cb991b928088b1a7c270c3b144c9b11997c24d,2022-12-10T14:44:08Z,update docsify site,author,['Jen Looper and team'],['Microsoft Cloud Advocates'],0,,2971,2971,1.6152,1.6152

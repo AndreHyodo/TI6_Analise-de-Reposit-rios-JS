@@ -1,0 +1,54 @@
+2025-11-16 11:12:44,971 INFO [main] Stage: mining (batch_size=50 workers=6)
+2025-11-16 11:12:44,973 INFO [main] Total repos to mine: 50
+2025-11-16 11:12:44,973 INFO [main] Processing batch 0: 50 repos
+2025-11-16 11:12:45,381 INFO [main] Repo f/awesome-chatgpt-prompts -> 0 candidates
+2025-11-16 11:12:45,450 ERROR [main] Mining failed for airbnb/javascript: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:45,551 ERROR [main] Mining failed for trekhleb/javascript-algorithms: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:45,753 INFO [main] Repo ryanmcdermott/clean-code-javascript -> 0 candidates
+2025-11-16 11:12:45,905 ERROR [main] Mining failed for jaywcjlove/awesome-mac: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:46,250 ERROR [main] Mining failed for microsoft/Web-Dev-For-Beginners: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:46,642 INFO [main] Repo FortAwesome/Font-Awesome -> 0 candidates
+2025-11-16 11:12:46,675 ERROR [main] Mining failed for Chalarangelo/30-seconds-of-code: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:47,186 ERROR [main] Mining failed for anuraghazra/github-readme-stats: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:47,775 ERROR [main] Mining failed for mrdoob/three.js: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:47,976 ERROR [main] Mining failed for typicode/json-server: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:48,152 ERROR [main] Mining failed for hakimel/reveal.js: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:48,370 ERROR [main] Mining failed for expressjs/express: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:48,685 ERROR [main] Mining failed for sveltejs/svelte: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:48,789 ERROR [main] Mining failed for leonardomso/33-js-concepts: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,028 ERROR [main] Mining failed for axios/axios: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,164 ERROR [main] Mining failed for open-webui/open-webui: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,365 ERROR [main] Mining failed for louislam/uptime-kuma: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,413 ERROR [main] Mining failed for juliangarnier/anime: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,465 INFO [main] Repo resume/resume.github.com -> 0 candidates
+2025-11-16 11:12:49,777 ERROR [main] Mining failed for adam-p/markdown-here: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:49,927 ERROR [main] Mining failed for facebook/create-react-app: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:50,184 ERROR [main] Mining failed for gorhill/uBlock: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:50,541 ERROR [main] Mining failed for lodash/lodash: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:50,615 INFO [main] Repo scutan90/DeepLearning-500-questions -> 0 candidates
+2025-11-16 11:12:50,949 ERROR [main] Mining failed for chartjs/Chart.js: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:51,090 ERROR [main] Mining failed for mui/material-ui: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:51,336 ERROR [main] Mining failed for azl397985856/leetcode: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:51,585 ERROR [main] Mining failed for angular/angular.js: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:51,842 ERROR [main] Mining failed for jgraph/drawio-desktop: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:51,900 ERROR [main] Mining failed for h5bp/html5-boilerplate: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:52,109 ERROR [main] Mining failed for jquery/jquery: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:52,480 ERROR [main] Mining failed for Mintplex-Labs/anything-llm: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:52,558 INFO [main] Repo chinese-poetry/chinese-poetry -> 0 candidates
+2025-11-16 11:12:52,988 ERROR [main] Mining failed for Semantic-Org/Semantic-UI: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:52,991 ERROR [main] Mining failed for poteto/hiring-without-whiteboards: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:53,076 ERROR [main] Mining failed for atom/atom: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:12:53,108 ERROR [main] Mining failed for mozilla/pdf.js: cannot import name '_search_code_for_package_jsons' from 'app.scripts.github_api' (C:\code\TI6\app\scripts\github_api.py)
+2025-11-16 11:14:50,540 INFO [main] Stage: mining (batch_size=50 workers=6)
+2025-11-16 11:14:50,542 INFO [main] Total repos to mine: 50
+2025-11-16 11:14:50,542 INFO [main] Processing batch 0: 50 repos
+2025-11-16 11:14:51,260 INFO [main] Repo f/awesome-chatgpt-prompts -> 0 candidates
+2025-11-16 11:14:51,609 INFO [main] Repo ryanmcdermott/clean-code-javascript -> 0 candidates
+2025-11-16 11:15:10,678 INFO [main] Repo trekhleb/javascript-algorithms -> 1 candidates
+2025-11-16 11:15:11,298 INFO [main] Repo jaywcjlove/awesome-mac -> 1 candidates
+2025-11-16 11:18:37,899 INFO [main] Stage: mining (batch_size=50 workers=6)
+2025-11-16 11:18:37,900 INFO [main] Total repos to mine: 50
+2025-11-16 11:18:37,900 INFO [main] Processing batch 0: 50 repos
+2025-11-16 11:18:38,266 INFO [main] Repo f/awesome-chatgpt-prompts -> 0 candidates
+2025-11-16 11:18:38,619 INFO [main] Repo ryanmcdermott/clean-code-javascript -> 0 candidates
+2025-11-16 11:19:09,634 INFO [main] Repo trekhleb/javascript-algorithms -> 1 candidates

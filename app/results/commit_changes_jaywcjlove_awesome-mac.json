@@ -1,0 +1,16 @@
+[
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "commit": "061f2103e515ae4ea5fb6cc61d4bc09aa6657f9d",
+    "parent": "28af6bc46ddd87ffade12249dafa2374bc7dd8c4",
+    "removed_dep": "opencollective",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 175,
+      "avg_complexity": 1.25
+    }
+  }
+]

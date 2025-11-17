@@ -1,0 +1,688 @@
+[
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "autoprefixer",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-core",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-eslint",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-jest",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-plugin-transform-class-properties",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-plugin-transform-object-rest-spread",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-plugin-transform-react-constant-elements",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-plugin-transform-regenerator",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-plugin-transform-runtime",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-preset-latest",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-preset-react",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "babel-runtime",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "case-sensitive-paths-webpack-plugin",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "chalk",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "connect-history-api-fallback",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "cross-spawn",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "css-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "detect-port",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint-plugin-flowtype",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint-plugin-import",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint-plugin-jsx-a11y",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "eslint-plugin-react",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "extract-text-webpack-plugin",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "file-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "filesize",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "find-cache-dir",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "fs-extra",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "gzip-size",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "html-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "html-webpack-plugin",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "http-proxy-middleware",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "jest",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "json-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "object-assign",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "opn",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "path-exists",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "postcss-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "promise",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "recursive-readdir",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "rimraf",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "strip-ansi",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "style-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "url-loader",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "webpack",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "webpack-dev-server",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "commit": "26464096d5f1adf9d255b7cce693c0ee03ffe2c7",
+    "parent": "36d68680c1b70c0e89dd9c4bd6e11b45b480022b",
+    "removed_dep": "whatwg-fetch",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 2194,
+      "avg_complexity": 3.1071
+    }
+  }
+]

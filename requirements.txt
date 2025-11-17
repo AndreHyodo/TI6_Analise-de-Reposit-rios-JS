@@ -1,0 +1,16 @@
+certifi==2025.10.5
+charset-normalizer==3.4.3
+idna==3.11
+python-dotenv==1.1.1
+requests==2.32.5
+urllib3==2.5.0
+
+gitpython==3.1.43
+radon==6.0.1
+pygount==1.6.1
+pandas==2.2.3
+matplotlib==3.9.2
+pyyaml==6.0.1
+seaborn==0.13.2
+tqdm==4.66.4
+numpy==2.3.4

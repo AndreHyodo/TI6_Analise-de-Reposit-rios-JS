@@ -1,0 +1,281 @@
+[
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "commit": "14c563619c300145de3d07d8e67024dc05869606",
+    "parent": "bbbfd32a45a677950554a91c4ece8976b8b31c38",
+    "commit_message": "Fix repo build for M1 MacBooks (#1029)",
+    "commit_date": "2023-04-10T16:31:06Z",
+    "removed_dep": "canvas",
+    "removed_dep_details": {
+      "versions_before": [
+        "2.11.0"
+      ],
+      "versions_after": [],
+      "file": "package.json",
+      "cve_count": 2,
+      "cve_ids": [
+        "GHSA-73rg-x683-m3qw",
+        "GHSA-vpq5-4rc8-c222"
+      ]
+    },
+    "metrics_before": {
+      "lines_of_code": 9286,
+      "avg_complexity": 1.5955
+    },
+    "metrics_after": {
+      "lines_of_code": 9280,
+      "avg_complexity": 1.5937
+    }
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "commit": "f265b19cceb299184bcc26653ad53452c4349e70",
+    "parent": "f887f89de40c9d67343d0df295f1ee7435a3dd58",
+    "commit_message": "r181",
+    "commit_date": "2025-10-31T10:38:39Z",
+    "removed_dep": "version",
+    "removed_dep_details": {
+      "versions_before": [
+        "0.180.0"
+      ],
+      "versions_after": [
+        "0.181.0"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 67234,
+      "avg_complexity": 3.2757
+    },
+    "metrics_after": {
+      "lines_of_code": 67234,
+      "avg_complexity": 3.2757
+    }
+  },
+  {
+    "repo": "vercel/next.js",
+    "commit": "a3f3c1e0d747982c4109b20beb2fe66b23700c53",
+    "parent": "617ead5753f58ce1d948927512fe3ff39a12b5b6",
+    "commit_message": "Upgrade React from `93fc5740-20251113` to `fb2177c1-20251114` (#86155)\n\n[diff facebook/react@93fc5740...fb2177c1](https://github.com/facebook/react/compare/93fc5740...fb2177c1)\n\n<details>\n<summary>React upstream changes</summary>\n\n- https://github.com/facebook/react/pull/35143\n- https://github.com/facebook/react/pull/35145\n- https://github.com/facebook/react/pull/35140\n- https://github.com/facebook/react/pull/35139\n- https://github.com/facebook/react/pull/35062\n- https://github.com/facebook/react/pull/35135\n- https://github.com/facebook/react/pull/35134\n\n</details>",
+    "commit_date": "2025-11-15T18:50:51Z",
+    "removed_dep": "eslint-plugin-react-hooks",
+    "removed_dep_details": {
+      "versions_before": [
+        "0.0.0-experimental-93fc5740-20251113"
+      ],
+      "versions_after": [
+        "0.0.0-experimental-fb2177c1-20251114"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 8882,
+      "avg_complexity": 2.5035
+    },
+    "metrics_after": {
+      "lines_of_code": 8882,
+      "avg_complexity": 2.5035
+    }
+  },
+  {
+    "repo": "Chalarangelo/30-seconds-of-code",
+    "commit": "1744b80bd9654f07c8a807cc915ca288bb18685c",
+    "parent": "52b388c2bbe60497fbb86f3ed4f807c779164a23",
+    "commit_message": "Bump astro from 5.13.1 to 5.14.3\n\nBumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 5.13.1 to 5.14.3.\n- [Release notes](https://github.com/withastro/astro/releases)\n- [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)\n- [Commits](https://github.com/withastro/astro/commits/astro@5.14.3/packages/astro)\n\n---\nupdated-dependencies:\n- dependency-name: astro\n  dependency-version: 5.14.3\n  dependency-type: direct:development\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+    "commit_date": "2025-10-11T00:41:33Z",
+    "removed_dep": "astro",
+    "removed_dep_details": {
+      "versions_before": [
+        "^5.13.1"
+      ],
+      "versions_after": [
+        "^5.14.3"
+      ],
+      "file": "package.json",
+      "cve_count": 9,
+      "cve_ids": [
+        "GHSA-49w6-73cw-chjr",
+        "GHSA-5ff5-9fcw-vg88",
+        "GHSA-c4pw-33h3-35xw",
+        "GHSA-cq8c-xv66-36gw",
+        "GHSA-hr2q-hp5q-x767",
+        "GHSA-m85w-3h95-hcf9",
+        "GHSA-qcpr-679q-rhm2",
+        "GHSA-w2vj-39qv-7vh7",
+        "GHSA-xf8x-j4p2-f749"
+      ]
+    },
+    "metrics_before": {
+      "lines_of_code": 8777,
+      "avg_complexity": 1.4332
+    },
+    "metrics_after": {
+      "lines_of_code": 8777,
+      "avg_complexity": 1.4332
+    }
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "commit": "9b3ecb703a65a5f93f2cc629e4f167d358b6ae0c",
+    "parent": "c2c02846a8745859ea48ac8b8b8a9f746f6e659b",
+    "commit_message": "chore: bump",
+    "commit_date": "2025-11-06T21:37:41Z",
+    "removed_dep": "version",
+    "removed_dep_details": {
+      "versions_before": [
+        "0.6.35"
+      ],
+      "versions_after": [
+        "0.6.36"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 14957,
+      "avg_complexity": 2.0073
+    },
+    "metrics_after": {
+      "lines_of_code": 14957,
+      "avg_complexity": 2.0073
+    }
+  },
+  {
+    "repo": "facebook/react",
+    "commit": "17b3765244b83e4c6f7a8c9b78ea4c8fa3a35622",
+    "parent": "69f3e9d0346a04af55de05a08d7aa2df17035849",
+    "commit_message": "[generate-changelog] Refactor (#34993)\n\nJust a light reorganization.",
+    "commit_date": "2025-10-27T22:04:48Z",
+    "removed_dep": "generate-changelog",
+    "removed_dep_details": {
+      "versions_before": [
+        "node ./scripts/tasks/generate-changelog.js"
+      ],
+      "versions_after": [
+        "node ./scripts/tasks/generate-changelog/index.js"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 58819,
+      "avg_complexity": 4.704
+    },
+    "metrics_after": {
+      "lines_of_code": 58819,
+      "avg_complexity": 4.704
+    }
+  },
+  {
+    "repo": "airbnb/javascript",
+    "commit": "18a08b862b14ec8d8fd8bd70bcba2d8e9714c93b",
+    "parent": "fd77bbebb77362ddecfef7aba3bf6abf7bdd81f2",
+    "commit_message": "[Dev Deps] update `markdownlint`, `markdownlint-cli`",
+    "commit_date": "2023-08-04T23:55:23Z",
+    "removed_dep": "markdownlint",
+    "removed_dep_details": {
+      "versions_before": [
+        "^0.28.2"
+      ],
+      "versions_after": [
+        "^0.29.0"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 2661,
+      "avg_complexity": 1.6383
+    },
+    "metrics_after": {
+      "lines_of_code": 2661,
+      "avg_complexity": 1.6383
+    }
+  },
+  {
+    "repo": "axios/axios",
+    "commit": "08b84b52d5835d0c7b81049c365c3d271ade8bff",
+    "parent": "8d372335f5c50ecd01e8615f2468a9eb19703117",
+    "commit_message": "chore(release): v1.13.2 (#7207)\n\nCo-authored-by: DigitalBrainJS <12586868+DigitalBrainJS@users.noreply.github.com>",
+    "commit_date": "2025-11-04T20:00:13Z",
+    "removed_dep": "version",
+    "removed_dep_details": {
+      "versions_before": [
+        "1.13.1"
+      ],
+      "versions_after": [
+        "1.13.2"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 15362,
+      "avg_complexity": 1.5427
+    },
+    "metrics_after": {
+      "lines_of_code": 15362,
+      "avg_complexity": 1.5427
+    }
+  },
+  {
+    "repo": "mui/material-ui",
+    "commit": "cd0b6427ec3fa84cc568a6a787ef062749ec790c",
+    "parent": "d2a2481ff3932f57f7258590860e998039d8583c",
+    "commit_message": "[code-infra] Remove profiler (#47258)",
+    "commit_date": "2025-11-17T13:39:17Z",
+    "removed_dep": "nx_test_karma_profile",
+    "removed_dep_details": {
+      "versions_before": [
+        "cross-env NODE_ENV=test karma start test/karma.conf.profile.js"
+      ],
+      "versions_after": [],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 14611,
+      "avg_complexity": 1.4524
+    },
+    "metrics_after": {
+      "lines_of_code": 14611,
+      "avg_complexity": 1.4524
+    }
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "commit": "6581c544ec17afb750f163ade533453ce5494064",
+    "parent": "82cb991b928088b1a7c270c3b144c9b11997c24d",
+    "commit_message": "update docsify site",
+    "commit_date": "2022-12-10T14:44:08Z",
+    "removed_dep": "author",
+    "removed_dep_details": {
+      "versions_before": [
+        "Jen Looper and team"
+      ],
+      "versions_after": [
+        "Microsoft Cloud Advocates"
+      ],
+      "file": "package.json",
+      "cve_count": 0,
+      "cve_ids": []
+    },
+    "metrics_before": {
+      "lines_of_code": 2971,
+      "avg_complexity": 1.6152
+    },
+    "metrics_after": {
+      "lines_of_code": 2971,
+      "avg_complexity": 1.6152
+    }
+  }
+]

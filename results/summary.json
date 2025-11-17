@@ -1,0 +1,137 @@
+[
+  {
+    "repo": "facebook/react",
+    "stars": 240561,
+    "forks": 49851,
+    "size_kb": 1227497,
+    "lines_of_code": 371950,
+    "avg_complexity": 0,
+    "dependencies": 382
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "stars": 193978,
+    "forks": 30955,
+    "size_kb": 14893,
+    "lines_of_code": 12429,
+    "avg_complexity": 0,
+    "dependencies": 0
+  },
+  {
+    "repo": "airbnb/javascript",
+    "stars": 147795,
+    "forks": 26799,
+    "size_kb": 3724,
+    "lines_of_code": 735,
+    "avg_complexity": 0,
+    "dependencies": 2
+  },
+  {
+    "repo": "f/awesome-chatgpt-prompts",
+    "stars": 136481,
+    "forks": 18150,
+    "size_kb": 1700,
+    "lines_of_code": 2168,
+    "avg_complexity": 0,
+    "dependencies": 0
+  },
+  {
+    "repo": "vercel/next.js",
+    "stars": 135626,
+    "forks": 29831,
+    "size_kb": 2405392,
+    "lines_of_code": 844493,
+    "avg_complexity": 2.909090909090909,
+    "dependencies": 1558
+  },
+  {
+    "repo": "Chalarangelo/30-seconds-of-code",
+    "stars": 125759,
+    "forks": 12369,
+    "size_kb": 742571,
+    "lines_of_code": 5076,
+    "avg_complexity": 0,
+    "dependencies": 0
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "stars": 115144,
+    "forks": 16086,
+    "size_kb": 292943,
+    "lines_of_code": 56598,
+    "avg_complexity": 4.283590015932023,
+    "dependencies": 91
+  },
+  {
+    "repo": "nodejs/node",
+    "stars": 114279,
+    "forks": 33763,
+    "size_kb": 1375057,
+    "lines_of_code": 1247954,
+    "avg_complexity": 0,
+    "dependencies": 490
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "stars": 109347,
+    "forks": 36068,
+    "size_kb": 1521694,
+    "lines_of_code": 272631,
+    "avg_complexity": 0,
+    "dependencies": 0
+  },
+  {
+    "repo": "axios/axios",
+    "stars": 108217,
+    "forks": 11411,
+    "size_kb": 21782,
+    "lines_of_code": 9415,
+    "avg_complexity": 0,
+    "dependencies": 15
+  },
+  {
+    "repo": "facebook/create-react-app",
+    "stars": 103849,
+    "forks": 27162,
+    "size_kb": 25186,
+    "lines_of_code": 8375,
+    "avg_complexity": 0,
+    "dependencies": 159
+  },
+  {
+    "repo": "mui/material-ui",
+    "stars": 97283,
+    "forks": 32733,
+    "size_kb": 700366,
+    "lines_of_code": 409080,
+    "avg_complexity": 0,
+    "dependencies": 498
+  },
+  {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "stars": 94210,
+    "forks": 14679,
+    "size_kb": 1691118,
+    "lines_of_code": 2601,
+    "avg_complexity": 1.4545454545454546,
+    "dependencies": 10
+  },
+  {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "stars": 94019,
+    "forks": 12493,
+    "size_kb": 520,
+    "lines_of_code": 0,
+    "avg_complexity": 0,
+    "dependencies": 0
+  },
+  {
+    "repo": "jaywcjlove/awesome-mac",
+    "stars": 93194,
+    "forks": 7041,
+    "size_kb": 24465,
+    "lines_of_code": 0,
+    "avg_complexity": 0,
+    "dependencies": 0
+  }
+]

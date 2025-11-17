@@ -1,0 +1,14727 @@
+{
+  "accepts": [
+    0,
+    []
+  ],
+  "body-parser": [
+    1,
+    [
+      "GHSA-qwcr-r2fm-qrc7"
+    ]
+  ],
+  "content-disposition": [
+    0,
+    []
+  ],
+  "content-type": [
+    0,
+    []
+  ],
+  "cookie": [
+    1,
+    [
+      "GHSA-pxg6-pf52-xh8x"
+    ]
+  ],
+  "cookie-signature": [
+    1,
+    [
+      "GHSA-92vm-wfm5-mxvv"
+    ]
+  ],
+  "debug": [
+    4,
+    [
+      "GHSA-4x49-vf9v-38px",
+      "GHSA-9vvw-cc9w-f27h",
+      "GHSA-gxpj-cx7g-858c",
+      "MAL-2025-46974"
+    ]
+  ],
+  "depd": [
+    0,
+    []
+  ],
+  "encodeurl": [
+    0,
+    []
+  ],
+  "escape-html": [
+    0,
+    []
+  ],
+  "etag": [
+    0,
+    []
+  ],
+  "finalhandler": [
+    0,
+    []
+  ],
+  "fresh": [
+    1,
+    [
+      "GHSA-9qj9-36jm-prpv"
+    ]
+  ],
+  "http-errors": [
+    0,
+    []
+  ],
+  "merge-descriptors": [
+    0,
+    []
+  ],
+  "mime-types": [
+    0,
+    []
+  ],
+  "on-finished": [
+    0,
+    []
+  ],
+  "once": [
+    0,
+    []
+  ],
+  "parseurl": [
+    0,
+    []
+  ],
+  "proxy-addr": [
+    0,
+    []
+  ],
+  "qs": [
+    4,
+    [
+      "GHSA-f9cm-p3w6-xvr3",
+      "GHSA-gqgv-6jq5-jjj9",
+      "GHSA-hrpp-h998-j3pp",
+      "GHSA-jjv7-qpx3-h62q"
+    ]
+  ],
+  "range-parser": [
+    0,
+    []
+  ],
+  "router": [
+    0,
+    []
+  ],
+  "send": [
+    3,
+    [
+      "GHSA-jgqf-hwc5-hh37",
+      "GHSA-m6fv-jmcg-4jfg",
+      "GHSA-xwg4-93c6-3h42"
+    ]
+  ],
+  "serve-static": [
+    2,
+    [
+      "GHSA-c3x7-gjmx-r2ff",
+      "GHSA-cm22-4g7w-348p"
+    ]
+  ],
+  "statuses": [
+    0,
+    []
+  ],
+  "type-is": [
+    0,
+    []
+  ],
+  "vary": [
+    0,
+    []
+  ],
+  "remark-cli": [
+    0,
+    []
+  ],
+  "remark-lint": [
+    0,
+    []
+  ],
+  "remark-lint-alphabetize-lists": [
+    0,
+    []
+  ],
+  "remark-lint-hiring-without-whiteboards-links": [
+    0,
+    []
+  ],
+  "remark-lint-no-tabs": [
+    0,
+    []
+  ],
+  "remark-lint-no-trailing-spaces": [
+    0,
+    []
+  ],
+  "remark-lint-no-url-trailing-slash": [
+    0,
+    []
+  ],
+  "remark-lint-unordered-list-marker-style": [
+    0,
+    []
+  ],
+  "remark-preset-lint-recommended": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome-free-brands": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome-free-solid": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome-svg-core": [
+    0,
+    []
+  ],
+  "@fortawesome/react-fontawesome": [
+    0,
+    []
+  ],
+  "axios": [
+    7,
+    [
+      "GHSA-42xw-2xvc-qx8m",
+      "GHSA-4hjh-wcwx-xvwj",
+      "GHSA-4w2v-q235-vp99",
+      "GHSA-8hc4-vh64-cxmj",
+      "GHSA-cph5-m8f7-6c5x",
+      "GHSA-jr5f-v2jv-69x6",
+      "GHSA-wf5p-g6vw-rhxx"
+    ]
+  ],
+  "bluebird": [
+    0,
+    []
+  ],
+  "brace": [
+    0,
+    []
+  ],
+  "chart.js": [
+    1,
+    [
+      "GHSA-h68q-55jf-x68w"
+    ]
+  ],
+  "js-cookie": [
+    0,
+    []
+  ],
+  "node-sass": [
+    2,
+    [
+      "GHSA-9v62-24cr-58cx",
+      "GHSA-r8f7-9pfq-mjmv"
+    ]
+  ],
+  "query-string": [
+    0,
+    []
+  ],
+  "raw-loader": [
+    0,
+    []
+  ],
+  "react": [
+    2,
+    [
+      "GHSA-g53w-52xc-2j85",
+      "GHSA-hg79-j56m-fxgv"
+    ]
+  ],
+  "react-ace": [
+    0,
+    []
+  ],
+  "react-chartjs-2": [
+    0,
+    []
+  ],
+  "react-dom": [
+    1,
+    [
+      "GHSA-mvjj-gqq2-p4hw"
+    ]
+  ],
+  "react-helmet": [
+    0,
+    []
+  ],
+  "react-input-autosize": [
+    0,
+    []
+  ],
+  "react-input-range": [
+    0,
+    []
+  ],
+  "react-markdown": [
+    0,
+    []
+  ],
+  "react-redux": [
+    0,
+    []
+  ],
+  "react-router": [
+    2,
+    [
+      "GHSA-cpj6-fhp6-mr6j",
+      "GHSA-f46r-rw29-r322"
+    ]
+  ],
+  "react-router-dom": [
+    0,
+    []
+  ],
+  "react-router-redux": [
+    0,
+    []
+  ],
+  "react-scripts": [
+    0,
+    []
+  ],
+  "react-toastify": [
+    0,
+    []
+  ],
+  "redbox-react": [
+    0,
+    []
+  ],
+  "redux": [
+    0,
+    []
+  ],
+  "redux-actions": [
+    0,
+    []
+  ],
+  "remove-markdown": [
+    0,
+    []
+  ],
+  "screenfull": [
+    0,
+    []
+  ],
+  "sprintf-js": [
+    0,
+    []
+  ],
+  "uuid": [
+    0,
+    []
+  ],
+  "@testing-library/jest-dom": [
+    0,
+    []
+  ],
+  "@testing-library/react": [
+    0,
+    []
+  ],
+  "@testing-library/user-event": [
+    0,
+    []
+  ],
+  "dotenv": [
+    0,
+    []
+  ],
+  "emoji-name-map": [
+    0,
+    []
+  ],
+  "github-username-regex": [
+    0,
+    []
+  ],
+  "word-wrap": [
+    1,
+    [
+      "GHSA-j8xg-fqg3-53r7"
+    ]
+  ],
+  "confusing-browser-globals": [
+    0,
+    []
+  ],
+  "@grpc/grpc-js": [
+    2,
+    [
+      "GHSA-7v5v-9h63-cj86",
+      "GHSA-pp75-xfpw-37g9"
+    ]
+  ],
+  "@louislam/ping": [
+    0,
+    []
+  ],
+  "@louislam/sqlite3": [
+    0,
+    []
+  ],
+  "@vvo/tzdb": [
+    0,
+    []
+  ],
+  "args-parser": [
+    0,
+    []
+  ],
+  "badge-maker": [
+    0,
+    []
+  ],
+  "bcryptjs": [
+    0,
+    []
+  ],
+  "chardet": [
+    0,
+    []
+  ],
+  "check-password-strength": [
+    0,
+    []
+  ],
+  "cheerio": [
+    0,
+    []
+  ],
+  "chroma-js": [
+    0,
+    []
+  ],
+  "command-exists": [
+    1,
+    [
+      "GHSA-cff4-rrq6-h78w"
+    ]
+  ],
+  "compare-versions": [
+    0,
+    []
+  ],
+  "compression": [
+    0,
+    []
+  ],
+  "country-flag-emoji-polyfill": [
+    0,
+    []
+  ],
+  "croner": [
+    0,
+    []
+  ],
+  "dayjs": [
+    0,
+    []
+  ],
+  "dev-null": [
+    0,
+    []
+  ],
+  "express": [
+    5,
+    [
+      "GHSA-cm5g-3pgc-8rg4",
+      "GHSA-gpvr-g6gh-9mc2",
+      "GHSA-jj78-5fmv-mv28",
+      "GHSA-qw6h-vgh9-j6wx",
+      "GHSA-rv95-896h-c2vc"
+    ]
+  ],
+  "express-basic-auth": [
+    1,
+    [
+      "GHSA-c35v-qwqg-87jc"
+    ]
+  ],
+  "express-static-gzip": [
+    0,
+    []
+  ],
+  "feed": [
+    0,
+    []
+  ],
+  "form-data": [
+    1,
+    [
+      "GHSA-fjxv-7rqg-78g4"
+    ]
+  ],
+  "gamedig": [
+    0,
+    []
+  ],
+  "html-escaper": [
+    0,
+    []
+  ],
+  "http-cookie-agent": [
+    0,
+    []
+  ],
+  "http-graceful-shutdown": [
+    0,
+    []
+  ],
+  "http-proxy-agent": [
+    2,
+    [
+      "GHSA-86wf-436m-h424",
+      "GHSA-8w57-jfpm-945m"
+    ]
+  ],
+  "https-proxy-agent": [
+    2,
+    [
+      "GHSA-8g7p-74h8-hg48",
+      "GHSA-pc5p-h8pf-mvwp"
+    ]
+  ],
+  "iconv-lite": [
+    0,
+    []
+  ],
+  "is-url": [
+    1,
+    [
+      "GHSA-p9w8-2mpq-49h9"
+    ]
+  ],
+  "isomorphic-ws": [
+    0,
+    []
+  ],
+  "jsesc": [
+    0,
+    []
+  ],
+  "jsonata": [
+    1,
+    [
+      "GHSA-fqg8-vfv7-8fj8"
+    ]
+  ],
+  "jsonwebtoken": [
+    4,
+    [
+      "GHSA-8cf7-32gw-wr33",
+      "GHSA-c7hr-j4mj-j2w6",
+      "GHSA-hjrf-2m68-5959",
+      "GHSA-qwph-4952-7xr6"
+    ]
+  ],
+  "jwt-decode": [
+    0,
+    []
+  ],
+  "kafkajs": [
+    0,
+    []
+  ],
+  "knex": [
+    2,
+    [
+      "GHSA-4jv9-3563-23j3",
+      "GHSA-58v4-qwx5-7f59"
+    ]
+  ],
+  "limiter": [
+    0,
+    []
+  ],
+  "liquidjs": [
+    1,
+    [
+      "GHSA-45rm-2893-5f49"
+    ]
+  ],
+  "marked": [
+    12,
+    [
+      "GHSA-4r62-v4vq-hr96",
+      "GHSA-5v2h-r2cx-5xgj",
+      "GHSA-7px7-7xjx-hxm8",
+      "GHSA-9cw2-jqp5-7x39",
+      "GHSA-cfjh-p3g4-3q2f",
+      "GHSA-ch52-vgq2-943f",
+      "GHSA-hjcp-j389-59ff",
+      "GHSA-p9wx-2529-fp83",
+      "GHSA-rrrm-qjm4-v8hf",
+      "GHSA-vfvf-mqq8-rwqc",
+      "GHSA-x5pg-88wf-qq4p",
+      "GHSA-xf5p-87ch-gxw2"
+    ]
+  ],
+  "mitt": [
+    0,
+    []
+  ],
+  "mongodb": [
+    2,
+    [
+      "GHSA-mh5c-679w-hh4r",
+      "GHSA-vxvm-qww3-2fh7"
+    ]
+  ],
+  "mqtt": [
+    2,
+    [
+      "GHSA-h9mj-fghc-664w",
+      "GHSA-hg78-c92r-hvwr"
+    ]
+  ],
+  "mssql": [
+    0,
+    []
+  ],
+  "mysql2": [
+    5,
+    [
+      "GHSA-49j4-86m8-q2jw",
+      "GHSA-4rch-2fh8-94vw",
+      "GHSA-fpw7-j2hg-69v5",
+      "GHSA-mqr2-w7wj-jjgr",
+      "GHSA-pmh2-wpjm-fj45"
+    ]
+  ],
+  "nanoid": [
+    2,
+    [
+      "GHSA-mwcw-c2x4-8c55",
+      "GHSA-qrpm-p2h7-hrv2"
+    ]
+  ],
+  "net-snmp": [
+    0,
+    []
+  ],
+  "node-cloudflared-tunnel": [
+    0,
+    []
+  ],
+  "nodemailer": [
+    4,
+    [
+      "GHSA-48ww-j4fc-435p",
+      "GHSA-9h6g-pr28-7cqp",
+      "GHSA-hwqf-gcqm-7353",
+      "GHSA-mm7p-fcc7-pg87"
+    ]
+  ],
+  "nostr-tools": [
+    0,
+    []
+  ],
+  "notp": [
+    0,
+    []
+  ],
+  "openid-client": [
+    0,
+    []
+  ],
+  "password-hash": [
+    0,
+    []
+  ],
+  "pg": [
+    1,
+    [
+      "GHSA-wc9v-mj63-m9g5"
+    ]
+  ],
+  "pg-connection-string": [
+    0,
+    []
+  ],
+  "playwright-core": [
+    0,
+    []
+  ],
+  "prom-client": [
+    0,
+    []
+  ],
+  "prometheus-api-metrics": [
+    0,
+    []
+  ],
+  "promisify-child-process": [
+    0,
+    []
+  ],
+  "protobufjs": [
+    3,
+    [
+      "GHSA-762f-c2wg-m8c8",
+      "GHSA-g954-5hwp-pp24",
+      "GHSA-h755-8qp9-cq85"
+    ]
+  ],
+  "radius": [
+    0,
+    []
+  ],
+  "node-radius-utils": [
+    0,
+    []
+  ],
+  "redbean-node": [
+    0,
+    []
+  ],
+  "redis": [
+    1,
+    [
+      "GHSA-35q2-47q7-3pc3"
+    ]
+  ],
+  "semver": [
+    2,
+    [
+      "GHSA-c2qf-rxjj-qqgw",
+      "GHSA-x6fg-f45m-jf5q"
+    ]
+  ],
+  "socket.io": [
+    3,
+    [
+      "GHSA-25hc-qcg6-38wj",
+      "GHSA-fxwf-4rqh-v8g3",
+      "GHSA-qv2v-m59f-v5fw"
+    ]
+  ],
+  "socket.io-client": [
+    0,
+    []
+  ],
+  "socks-proxy-agent": [
+    0,
+    []
+  ],
+  "sqlstring": [
+    0,
+    []
+  ],
+  "tar": [
+    9,
+    [
+      "GHSA-29xp-372q-xqph",
+      "GHSA-3jfq-g458-7qm9",
+      "GHSA-5955-9wpr-37jh",
+      "GHSA-9r2w-394v-53qc",
+      "GHSA-f5x3-32g6-xq36",
+      "GHSA-gfjr-3jmm-4g9v",
+      "GHSA-j44m-qm6p-hp7m",
+      "GHSA-qq89-hq3f-393p",
+      "GHSA-r628-mhmh-qjhw"
+    ]
+  ],
+  "tcp-ping": [
+    0,
+    []
+  ],
+  "thirty-two": [
+    0,
+    []
+  ],
+  "tough-cookie": [
+    3,
+    [
+      "GHSA-72xf-g2v4-qvf3",
+      "GHSA-g7q5-pjjr-gqvp",
+      "GHSA-qhv9-728r-6jqg"
+    ]
+  ],
+  "ws": [
+    5,
+    [
+      "GHSA-2mhh-w6q8-5hxw",
+      "GHSA-3h5v-q93c-6h6q",
+      "GHSA-5v72-xg48-5rpm",
+      "GHSA-6663-c963-2gqg",
+      "GHSA-6fc8-4gx4-v693"
+    ]
+  ],
+  "@docusaurus/core": [
+    0,
+    []
+  ],
+  "@docusaurus/preset-classic": [
+    0,
+    []
+  ],
+  "clsx": [
+    0,
+    []
+  ],
+  "@babel/core": [
+    0,
+    []
+  ],
+  "@babel/generator": [
+    0,
+    []
+  ],
+  "@babel/parser": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-typescript": [
+    0,
+    []
+  ],
+  "@babel/plugin-transform-block-scoping": [
+    0,
+    []
+  ],
+  "@babel/plugin-transform-modules-commonjs": [
+    0,
+    []
+  ],
+  "@babel/preset-react": [
+    0,
+    []
+  ],
+  "@babel/preset-typescript": [
+    0,
+    []
+  ],
+  "@babel/traverse": [
+    1,
+    [
+      "GHSA-67hx-6x53-jw92"
+    ]
+  ],
+  "@babel/types": [
+    0,
+    []
+  ],
+  "@heroicons/react": [
+    0,
+    []
+  ],
+  "@monaco-editor/react": [
+    0,
+    []
+  ],
+  "@playwright/test": [
+    0,
+    []
+  ],
+  "@use-gesture/react": [
+    0,
+    []
+  ],
+  "hermes-eslint": [
+    0,
+    []
+  ],
+  "hermes-parser": [
+    0,
+    []
+  ],
+  "invariant": [
+    0,
+    []
+  ],
+  "lru-cache": [
+    0,
+    []
+  ],
+  "lz-string": [
+    0,
+    []
+  ],
+  "monaco-editor": [
+    0,
+    []
+  ],
+  "next": [
+    29,
+    [
+      "GHSA-223j-4rm8-mrmf",
+      "GHSA-25mp-g6fv-mqxx",
+      "GHSA-3f5c-4qxj-vmpf",
+      "GHSA-3h52-269p-cp9r",
+      "GHSA-4342-x723-ch2f",
+      "GHSA-5vj8-3v2h-h38v",
+      "GHSA-67rr-84xm-4c7r",
+      "GHSA-77r5-gw3j-2mpf",
+      "GHSA-7gfc-8cq8-jh5f",
+      "GHSA-7m27-7ghc-44w9",
+      "GHSA-9gr3-7897-pp7m",
+      "GHSA-c59h-r6p8-q9wc",
+      "GHSA-f82v-jwr5-mffw",
+      "GHSA-fmvm-x8mv-47mj",
+      "GHSA-fq54-2j52-jc42",
+      "GHSA-fq77-7p7r-83rj",
+      "GHSA-fr5h-rqp8-mj6g",
+      "GHSA-g5qg-72qw-gw5v",
+      "GHSA-g77x-44xx-532m",
+      "GHSA-gp8f-8m3g-qvj9",
+      "GHSA-m34x-wgrh-g897",
+      "GHSA-qpjv-v59x-3qc4",
+      "GHSA-qw96-mm2g-c8m7",
+      "GHSA-r2fc-ccr8-96c4",
+      "GHSA-vxf5-wxwp-m7g9",
+      "GHSA-wff4-fpwg-qqv3",
+      "GHSA-wr66-vrwm-5g5x",
+      "GHSA-x56p-c8cg-q435",
+      "GHSA-xv57-4mr9-wg8v"
+    ]
+  ],
+  "notistack": [
+    0,
+    []
+  ],
+  "prettier": [
+    0,
+    []
+  ],
+  "pretty-format": [
+    0,
+    []
+  ],
+  "re-resizable": [
+    0,
+    []
+  ],
+  "acorn": [
+    1,
+    [
+      "GHSA-6chw-6frg-f759"
+    ]
+  ],
+  "@tinyhttp/app": [
+    0,
+    []
+  ],
+  "better-console": [
+    0,
+    []
+  ],
+  "@netlify/functions": [
+    0,
+    []
+  ],
+  "@azure/msal-browser": [
+    0,
+    []
+  ],
+  "@types/eslint-scope": [
+    0,
+    []
+  ],
+  "@kurkle/color": [
+    0,
+    []
+  ],
+  "@cantoo/pdf-lib": [
+    0,
+    []
+  ],
+  "@electron/remote": [
+    0,
+    []
+  ],
+  "@atom/fuzzy-native": [
+    0,
+    []
+  ],
+  "follow-redirects": [
+    4,
+    [
+      "GHSA-74fj-2j2h-c42q",
+      "GHSA-cxjh-pqwp-8mfp",
+      "GHSA-jchw-25xp-jwwc",
+      "GHSA-pw2r-vq6v-hr8c"
+    ]
+  ],
+  "@slack/bolt": [
+    0,
+    []
+  ],
+  "@codemirror/lang-javascript": [
+    0,
+    []
+  ],
+  "@types/estree": [
+    0,
+    []
+  ],
+  "commander": [
+    0,
+    []
+  ],
+  "@hfelix/electron-localshortcut": [
+    0,
+    []
+  ],
+  "@atom/nsfw": [
+    0,
+    []
+  ],
+  "proxy-from-env": [
+    0,
+    []
+  ],
+  "@angular/compiler": [
+    0,
+    []
+  ],
+  "@codemirror/lang-python": [
+    0,
+    []
+  ],
+  "babel-plugin-transform-import-meta": [
+    0,
+    []
+  ],
+  "@types/json-schema": [
+    0,
+    []
+  ],
+  "@marktext/file-icons": [
+    0,
+    []
+  ],
+  "crc": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-cloudformation": [
+    0,
+    []
+  ],
+  "@babel/code-frame": [
+    0,
+    []
+  ],
+  "node-fetch": [
+    3,
+    [
+      "GHSA-r683-j2x4-v87g",
+      "GHSA-vp56-6g26-6827",
+      "GHSA-w7rc-rwvf-8q5r"
+    ]
+  ],
+  "@atom/source-map-support": [
+    0,
+    []
+  ],
+  "front-matter": [
+    0,
+    []
+  ],
+  "@codemirror/language-data": [
+    0,
+    []
+  ],
+  "execa": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-iot": [
+    0,
+    []
+  ],
+  "@webassemblyjs/ast": [
+    0,
+    []
+  ],
+  "@octokit/rest": [
+    0,
+    []
+  ],
+  "electron-context-menu": [
+    0,
+    []
+  ],
+  "@glimmer/syntax": [
+    0,
+    []
+  ],
+  "@atom/watcher": [
+    0,
+    []
+  ],
+  "archiver": [
+    0,
+    []
+  ],
+  "@codemirror/theme-one-dark": [
+    0,
+    []
+  ],
+  "markdown-toc": [
+    0,
+    []
+  ],
+  "@webassemblyjs/wasm-edit": [
+    0,
+    []
+  ],
+  "arg": [
+    0,
+    []
+  ],
+  "about": [
+    0,
+    []
+  ],
+  "@prettier/cli": [
+    0,
+    []
+  ],
+  "electron-log": [
+    0,
+    []
+  ],
+  "yargs": [
+    0,
+    []
+  ],
+  "karma-spec-reporter": [
+    0,
+    []
+  ],
+  "@floating-ui/dom": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-ssm": [
+    0,
+    []
+  ],
+  "@webassemblyjs/wasm-parser": [
+    0,
+    []
+  ],
+  "archive-view": [
+    0,
+    []
+  ],
+  "electron-progressbar": [
+    0,
+    []
+  ],
+  "@prettier/html-event-attributes": [
+    0,
+    []
+  ],
+  "ced": [
+    1,
+    [
+      "GHSA-27wq-qx3q-fxm9"
+    ]
+  ],
+  "clean-css": [
+    1,
+    [
+      "GHSA-wxhq-pm8v-cw75"
+    ]
+  ],
+  "@aws-sdk/client-sts": [
+    0,
+    []
+  ],
+  "patch-package": [
+    0,
+    []
+  ],
+  "@huggingface/transformers": [
+    0,
+    []
+  ],
+  "electron-store": [
+    0,
+    []
+  ],
+  "file": [
+    0,
+    []
+  ],
+  "acorn-import-phases": [
+    0,
+    []
+  ],
+  "@prettier/html-tags": [
+    0,
+    []
+  ],
+  "del": [
+    0,
+    []
+  ],
+  "async": [
+    1,
+    [
+      "GHSA-fwr7-v2mv-hh25"
+    ]
+  ],
+  "chokidar": [
+    0,
+    []
+  ],
+  "@pm2/agent": [
+    0,
+    []
+  ],
+  "@aws-sdk/credential-provider-node": [
+    0,
+    []
+  ],
+  "@joplin/turndown-plugin-gfm": [
+    0,
+    []
+  ],
+  "glob": [
+    0,
+    []
+  ],
+  "@prettier/parse-srcset": [
+    0,
+    []
+  ],
+  "atom-dark-syntax": [
+    0,
+    []
+  ],
+  "electron-updater": [
+    1,
+    [
+      "GHSA-9jxc-qjr9-vjxq"
+    ]
+  ],
+  "@tinyhttp/cors": [
+    0,
+    []
+  ],
+  "browserslist": [
+    1,
+    [
+      "GHSA-w8qv-6jwh-64r5"
+    ]
+  ],
+  "@pm2/js-api": [
+    0,
+    []
+  ],
+  "@serverless/platform-client": [
+    0,
+    []
+  ],
+  "codemirror": [
+    1,
+    [
+      "GHSA-4gw3-8f77-f72c"
+    ]
+  ],
+  "@mediapipe/tasks-vision": [
+    0,
+    []
+  ],
+  "extend": [
+    1,
+    [
+      "GHSA-qrmc-fj45-qfc2"
+    ]
+  ],
+  "@typescript-eslint/typescript-estree": [
+    0,
+    []
+  ],
+  "tslib": [
+    0,
+    []
+  ],
+  "atom-dark-ui": [
+    0,
+    []
+  ],
+  "@tinyhttp/logger": [
+    0,
+    []
+  ],
+  "@pm2/io": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome-common-types": [
+    0,
+    []
+  ],
+  "@zkochan/cmd-shim": [
+    0,
+    []
+  ],
+  "@serverless/utils": [
+    0,
+    []
+  ],
+  "chrome-trace-event": [
+    0,
+    []
+  ],
+  "dom-autoscroller": [
+    0,
+    []
+  ],
+  "@pyscript/core": [
+    0,
+    []
+  ],
+  "gulp": [
+    0,
+    []
+  ],
+  "lunr": [
+    0,
+    []
+  ],
+  "atom-keymap": [
+    0,
+    []
+  ],
+  "@typescript-eslint/visitor-keys": [
+    0,
+    []
+  ],
+  "@pm2/pm2-version-check": [
+    0,
+    []
+  ],
+  "babel-runtime": [
+    0,
+    []
+  ],
+  "chalk": [
+    1,
+    [
+      "MAL-2025-46969"
+    ]
+  ],
+  "@serverlessinc/sf-core": [
+    0,
+    []
+  ],
+  "enhanced-resolve": [
+    0,
+    []
+  ],
+  "atom-light-syntax": [
+    0,
+    []
+  ],
+  "acorn-jsx": [
+    0,
+    []
+  ],
+  "@babel/runtime": [
+    1,
+    [
+      "GHSA-968p-4wvh-cqc8"
+    ]
+  ],
+  "gulp-autoprefixer": [
+    0,
+    []
+  ],
+  "dompurify": [
+    8,
+    [
+      "GHSA-63q7-h895-m982",
+      "GHSA-8hgg-xxm5-3873",
+      "GHSA-chqj-j4fh-rw7m",
+      "GHSA-gx9m-whjm-85jf",
+      "GHSA-mjjq-c88q-qhr6",
+      "GHSA-mmhx-hmjr-r674",
+      "GHSA-p3vf-v8qc-cwcr",
+      "GHSA-vhxf-7vqr-mrjg"
+    ]
+  ],
+  "ansis": [
+    0,
+    []
+  ],
+  "bytes": [
+    0,
+    []
+  ],
+  "abort-controller": [
+    0,
+    []
+  ],
+  "phin": [
+    1,
+    [
+      "GHSA-x565-32qp-m3vf"
+    ]
+  ],
+  "@sveltejs/adapter-node": [
+    1,
+    [
+      "GHSA-g5m6-hxpp-fc49"
+    ]
+  ],
+  "es-module-lexer": [
+    0,
+    []
+  ],
+  "angular-estree-parser": [
+    0,
+    []
+  ],
+  "atom-light-ui": [
+    0,
+    []
+  ],
+  "gulp-chmod": [
+    0,
+    []
+  ],
+  "dot-prop": [
+    1,
+    [
+      "GHSA-ff7x-qrg7-qggm"
+    ]
+  ],
+  "dragula": [
+    0,
+    []
+  ],
+  "@pm2/blessed": [
+    0,
+    []
+  ],
+  "@videojs/http-streaming": [
+    0,
+    []
+  ],
+  "camelcase": [
+    0,
+    []
+  ],
+  "@sveltejs/svelte-virtual-list": [
+    0,
+    []
+  ],
+  "rimraf": [
+    0,
+    []
+  ],
+  "cors": [
+    0,
+    []
+  ],
+  "ajv": [
+    1,
+    [
+      "GHSA-v88g-cgmw-v5xw"
+    ]
+  ],
+  "atom-select-list": [
+    0,
+    []
+  ],
+  "angular-html-parser": [
+    0,
+    []
+  ],
+  "gulp-clean-css": [
+    0,
+    []
+  ],
+  "eslint-scope": [
+    1,
+    [
+      "GHSA-hxxf-q3w9-4xgw"
+    ]
+  ],
+  "electron-window-state": [
+    0,
+    []
+  ],
+  "cli-tableau": [
+    0,
+    []
+  ],
+  "@videojs/vhs-utils": [
+    0,
+    []
+  ],
+  "eta": [
+    2,
+    [
+      "GHSA-mf6x-hrgr-658f",
+      "GHSA-xrh7-m5pp-39r6"
+    ]
+  ],
+  "@tiptap/core": [
+    0,
+    []
+  ],
+  "cli-table3": [
+    0,
+    []
+  ],
+  "autocomplete-atom-api": [
+    0,
+    []
+  ],
+  "ajv-formats": [
+    0,
+    []
+  ],
+  "electron-squirrel-startup": [
+    0,
+    []
+  ],
+  "electron": [
+    30,
+    [
+      "GHSA-2q4g-w47c-4674",
+      "GHSA-3p22-ghq8-v749",
+      "GHSA-4w88-rjj3-x7wp",
+      "GHSA-56pc-6jqp-xqj8",
+      "GHSA-6h98-cf9g-vmg2",
+      "GHSA-6r2x-8pq8-9489",
+      "GHSA-6vrv-94jv-crrg",
+      "GHSA-77xc-hjv8-ww97",
+      "GHSA-7fv9-m79r-j9x8",
+      "GHSA-7m48-wc93-9g85",
+      "GHSA-7x97-j373-85x5",
+      "GHSA-8xwg-wv7v-4vqp",
+      "GHSA-995f-9x5r-2rcj",
+      "GHSA-f9mq-jph6-9mhm",
+      "GHSA-fjqr-fx3f-g4rv",
+      "GHSA-gvcj-pfq2-wxj7",
+      "GHSA-gxh7-wv9q-fwfr",
+      "GHSA-h9jc-284h-533g",
+      "GHSA-hv9c-qwqg-qj3v",
+      "GHSA-hvf8-h2qh-37m9",
+      "GHSA-j7hp-h8jx-5ppr",
+      "GHSA-m93v-9qjc-3g79",
+      "GHSA-mpjm-v997-c4h4",
+      "GHSA-mq8j-3h7h-p8g7",
+      "GHSA-p2jh-44qj-pf2v",
+      "GHSA-p7v2-p9m8-qqg7",
+      "GHSA-qqvq-6xgj-jw8g",
+      "GHSA-vmqv-hx8q-j7mg",
+      "GHSA-w222-53c6-c86p",
+      "GHSA-xw5q-g62x-2qjc"
+    ]
+  ],
+  "ci-info": [
+    0,
+    []
+  ],
+  "gulp-clone": [
+    0,
+    []
+  ],
+  "element-resize-detector": [
+    0,
+    []
+  ],
+  "@videojs/xhr": [
+    0,
+    []
+  ],
+  "enquirer": [
+    0,
+    []
+  ],
+  "@tiptap/extension-bubble-menu": [
+    0,
+    []
+  ],
+  "inflection": [
+    0,
+    []
+  ],
+  "aws-iot-device-sdk": [
+    0,
+    []
+  ],
+  "autocomplete-css": [
+    0,
+    []
+  ],
+  "electron-builder": [
+    0,
+    []
+  ],
+  "swig-templates": [
+    1,
+    [
+      "GHSA-2rq5-699j-x7p6"
+    ]
+  ],
+  "cjk-regex": [
+    0,
+    []
+  ],
+  "gulp-concat": [
+    0,
+    []
+  ],
+  "formidable": [
+    1,
+    [
+      "GHSA-75v8-2h7p-7m2m"
+    ]
+  ],
+  "element-ui": [
+    0,
+    []
+  ],
+  "aes-decrypter": [
+    0,
+    []
+  ],
+  "eventemitter2": [
+    0,
+    []
+  ],
+  "@tiptap/extension-code-block-lowlight": [
+    0,
+    []
+  ],
+  "death": [
+    0,
+    []
+  ],
+  "eventemitter3": [
+    0,
+    []
+  ],
+  "autocomplete-html": [
+    0,
+    []
+  ],
+  "electron-rebuild": [
+    0,
+    []
+  ],
+  "gulp-concat-css": [
+    0,
+    []
+  ],
+  "collapse-white-space": [
+    0,
+    []
+  ],
+  "aws-sdk": [
+    1,
+    [
+      "GHSA-rrc9-gqf8-8rwg"
+    ]
+  ],
+  "json5": [
+    1,
+    [
+      "GHSA-9c47-m6qq-7p4h"
+    ]
+  ],
+  "global": [
+    0,
+    []
+  ],
+  "execall": [
+    0,
+    []
+  ],
+  "@tiptap/extension-drag-handle": [
+    0,
+    []
+  ],
+  "fclone": [
+    0,
+    []
+  ],
+  "deep-equal": [
+    0,
+    []
+  ],
+  "http": [
+    1,
+    [
+      "MAL-2025-22760"
+    ]
+  ],
+  "autocomplete-plus": [
+    0,
+    []
+  ],
+  "gulp-copy": [
+    0,
+    []
+  ],
+  "css-units-list": [
+    0,
+    []
+  ],
+  "cachedir": [
+    0,
+    []
+  ],
+  "lowdb": [
+    0,
+    []
+  ],
+  "events": [
+    0,
+    []
+  ],
+  "node-abi": [
+    0,
+    []
+  ],
+  "m3u8-parser": [
+    0,
+    []
+  ],
+  "markdown-it": [
+    2,
+    [
+      "GHSA-6vfc-qv3f-vr6c",
+      "GHSA-j5p7-jf4q-742q"
+    ]
+  ],
+  "fast-deep-equal": [
+    0,
+    []
+  ],
+  "@tiptap/extension-file-handler": [
+    0,
+    []
+  ],
+  "mkdirp": [
+    0,
+    []
+  ],
+  "detect-indent": [
+    0,
+    []
+  ],
+  "autocomplete-snippets": [
+    0,
+    []
+  ],
+  "gulp-dedupe": [
+    0,
+    []
+  ],
+  "node-json-minify": [
+    0,
+    []
+  ],
+  "child-process-ext": [
+    0,
+    []
+  ],
+  "glob-to-regexp": [
+    0,
+    []
+  ],
+  "dashify": [
+    0,
+    []
+  ],
+  "milliparsec": [
+    0,
+    []
+  ],
+  "multer": [
+    4,
+    [
+      "GHSA-44fp-w29j-9vj5",
+      "GHSA-4pg4-qvpc-4q3h",
+      "GHSA-fjgf-rc76-4x9p",
+      "GHSA-g5hg-p3ph-g8qg"
+    ]
+  ],
+  "mpd-parser": [
+    0,
+    []
+  ],
+  "flowchart.js": [
+    0,
+    []
+  ],
+  "@tiptap/extension-floating-menu": [
+    0,
+    []
+  ],
+  "needle": [
+    0,
+    []
+  ],
+  "showdown": [
+    1,
+    [
+      "GHSA-h6mq-3cj6-h738"
+    ]
+  ],
+  "dnscache": [
+    0,
+    []
+  ],
+  "autoflow": [
+    0,
+    []
+  ],
+  "cli-progress-footer": [
+    0,
+    []
+  ],
+  "gulp-flatten": [
+    0,
+    []
+  ],
+  "graceful-fs": [
+    0,
+    []
+  ],
+  "node-window-manager": [
+    0,
+    []
+  ],
+  "mux.js": [
+    0,
+    []
+  ],
+  "sirv": [
+    0,
+    []
+  ],
+  "terser": [
+    1,
+    [
+      "GHSA-4wf5-vphf-c2xc"
+    ]
+  ],
+  "deno-path-from-file-url": [
+    0,
+    []
+  ],
+  "fontmanager-redux": [
+    0,
+    []
+  ],
+  "@tiptap/extension-highlight": [
+    0,
+    []
+  ],
+  "bmp-js": [
+    0,
+    []
+  ],
+  "gunzip-maybe": [
+    0,
+    []
+  ],
+  "autosave": [
+    0,
+    []
+  ],
+  "pidusage": [
+    2,
+    [
+      "GHSA-h2p3-h48h-9jj7",
+      "GHSA-hfq9-rfpv-j8r8"
+    ]
+  ],
+  "d": [
+    0,
+    []
+  ],
+  "gulp-header": [
+    0,
+    []
+  ],
+  "videojs-contrib-quality-levels": [
+    0,
+    []
+  ],
+  "json-parse-even-better-errors": [
+    0,
+    []
+  ],
+  "selenium-webdriver": [
+    0,
+    []
+  ],
+  "boxen": [
+    0,
+    []
+  ],
+  "sort-on": [
+    0,
+    []
+  ],
+  "idb-keyval": [
+    0,
+    []
+  ],
+  "@tiptap/extension-image": [
+    0,
+    []
+  ],
+  "hash-for-dep": [
+    0,
+    []
+  ],
+  "babel-core": [
+    0,
+    []
+  ],
+  "fs-extra": [
+    0,
+    []
+  ],
+  "pm2-axon": [
+    0,
+    []
+  ],
+  "gulp-if": [
+    0,
+    []
+  ],
+  "diff": [
+    1,
+    [
+      "GHSA-h6ch-v84p-w6p9"
+    ]
+  ],
+  "videojs-font": [
+    0,
+    []
+  ],
+  "loader-runner": [
+    0,
+    []
+  ],
+  "decompress": [
+    1,
+    [
+      "GHSA-qgfr-5hqp-vrw9"
+    ]
+  ],
+  "default-pager": [
+    0,
+    []
+  ],
+  "@anthropic-ai/sdk": [
+    0,
+    []
+  ],
+  "background-tips": [
+    0,
+    []
+  ],
+  "@tiptap/extension-link": [
+    0,
+    []
+  ],
+  "imports-loader": [
+    0,
+    []
+  ],
+  "xlsx": [
+    5,
+    [
+      "GHSA-3x9f-74h4-2fqr",
+      "GHSA-4r6h-8v6p-xvw6",
+      "GHSA-5pgg-2g8v-p4x9",
+      "GHSA-8vcr-vxm8-293m",
+      "GHSA-g973-978j-2c3p"
+    ]
+  ],
+  "opencollective-postinstall": [
+    0,
+    []
+  ],
+  "pm2-axon-rpc": [
+    0,
+    []
+  ],
+  "fuzzaldrin": [
+    0,
+    []
+  ],
+  "gulp-json-editor": [
+    0,
+    []
+  ],
+  "editorconfig": [
+    0,
+    []
+  ],
+  "videojs-vtt.js": [
+    0,
+    []
+  ],
+  "dotenv-expand": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-secrets-manager": [
+    0,
+    []
+  ],
+  "meow": [
+    0,
+    []
+  ],
+  "@tiptap/extension-list": [
+    0,
+    []
+  ],
+  "base16-tomorrow-dark-theme": [
+    0,
+    []
+  ],
+  "crx": [
+    0,
+    []
+  ],
+  "regenerator-runtime": [
+    0,
+    []
+  ],
+  "pm2-deploy": [
+    0,
+    []
+  ],
+  "github-markdown-css": [
+    0,
+    []
+  ],
+  "@modelcontextprotocol/sdk": [
+    0,
+    []
+  ],
+  "gulp-less": [
+    0,
+    []
+  ],
+  "neo-async": [
+    0,
+    []
+  ],
+  "ini": [
+    1,
+    [
+      "GHSA-qqgx-2p2h-9c37"
+    ]
+  ],
+  "emoji-regex": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-sns": [
+    0,
+    []
+  ],
+  "msee": [
+    0,
+    []
+  ],
+  "@tiptap/extension-mention": [
+    0,
+    []
+  ],
+  "crx3": [
+    0,
+    []
+  ],
+  "esbuild": [
+    1,
+    [
+      "GHSA-67mh-4wv8-2f99"
+    ]
+  ],
+  "pm2-multimeter": [
+    0,
+    []
+  ],
+  "tesseract.js-core": [
+    0,
+    []
+  ],
+  "base16-tomorrow-light-theme": [
+    0,
+    []
+  ],
+  "html-tags": [
+    0,
+    []
+  ],
+  "@types/express": [
+    0,
+    []
+  ],
+  "inquirer": [
+    0,
+    []
+  ],
+  "schema-utils": [
+    0,
+    []
+  ],
+  "@google/genai": [
+    0,
+    []
+  ],
+  "gulp-notify": [
+    0,
+    []
+  ],
+  "through2": [
+    0,
+    []
+  ],
+  "escape-string-regexp": [
+    0,
+    []
+  ],
+  "@tiptap/extension-table": [
+    0,
+    []
+  ],
+  "essentials": [
+    0,
+    []
+  ],
+  "wasm-feature-detect": [
+    0,
+    []
+  ],
+  "promptly": [
+    0,
+    []
+  ],
+  "bookmarks": [
+    0,
+    []
+  ],
+  "iso-639-1": [
+    0,
+    []
+  ],
+  "tapable": [
+    0,
+    []
+  ],
+  "is-builtin-module": [
+    0,
+    []
+  ],
+  "@heyputer/putility": [
+    0,
+    []
+  ],
+  "gulp-plumber": [
+    0,
+    []
+  ],
+  "espree": [
+    0,
+    []
+  ],
+  "update-notifier": [
+    0,
+    []
+  ],
+  "ext": [
+    0,
+    []
+  ],
+  "@tiptap/extension-typography": [
+    0,
+    []
+  ],
+  "source-map-support": [
+    0,
+    []
+  ],
+  "zlibjs": [
+    0,
+    []
+  ],
+  "bracket-matcher": [
+    0,
+    []
+  ],
+  "is-ci": [
+    0,
+    []
+  ],
+  "joplin-turndown-plugin-gfm": [
+    0,
+    []
+  ],
+  "terser-webpack-plugin": [
+    0,
+    []
+  ],
+  "gulp-print": [
+    0,
+    []
+  ],
+  "@typescript-eslint/eslint-plugin": [
+    0,
+    []
+  ],
+  "fast-glob": [
+    0,
+    []
+  ],
+  "@paralleldrive/cuid2": [
+    0,
+    []
+  ],
+  "jquery": [
+    8,
+    [
+      "GHSA-2pqj-h3vj-pqgw",
+      "GHSA-579v-mp3v-rrw5",
+      "GHSA-6c3j-c64m-qhgq",
+      "GHSA-gxr4-xjj5-5px2",
+      "GHSA-jpcq-cgw6-v4j6",
+      "GHSA-mhpp-875w-9cpv",
+      "GHSA-q4m3-2j7h-f7xw",
+      "GHSA-rmxg-73gg-4p98"
+    ]
+  ],
+  "@next/bundle-analyzer": [
+    0,
+    []
+  ],
+  "@tiptap/extension-youtube": [
+    0,
+    []
+  ],
+  "fastest-levenshtein": [
+    0,
+    []
+  ],
+  "chai": [
+    0,
+    []
+  ],
+  "vizion": [
+    0,
+    []
+  ],
+  "watchpack": [
+    0,
+    []
+  ],
+  "gulp-rename": [
+    0,
+    []
+  ],
+  "is-webpack-bundle": [
+    0,
+    []
+  ],
+  "undici": [
+    15,
+    [
+      "GHSA-3787-6prv-h9w3",
+      "GHSA-3cvr-822r-rqcc",
+      "GHSA-3g92-w8c5-73pq",
+      "GHSA-5r9g-qh6m-jxff",
+      "GHSA-8qr4-xgw6-wmr3",
+      "GHSA-9f24-jqhm-jfcw",
+      "GHSA-9qxr-qj54-h672",
+      "GHSA-c76h-2ccp-4975",
+      "GHSA-cxrh-j4jr-qwg3",
+      "GHSA-f772-66g8-q5h3",
+      "GHSA-m4v8-wqvr-p9f7",
+      "GHSA-pgw7-wx7w-2w33",
+      "GHSA-q768-x9m6-m9qp",
+      "GHSA-r6ch-mqf9-qc9w",
+      "GHSA-wqq4-5wpv-mx2g"
+    ]
+  ],
+  "katex": [
+    5,
+    [
+      "GHSA-3wc5-fcw2-2329",
+      "GHSA-64fm-8hw2-v72w",
+      "GHSA-cg87-wmx4-v546",
+      "GHSA-cvr6-37gx-v8wc",
+      "GHSA-f98w-7cxr-ff2h"
+    ]
+  ],
+  "eslint-config-prettier": [
+    2,
+    [
+      "GHSA-f29h-pxvx-f335",
+      "MAL-2025-6022"
+    ]
+  ],
+  "@reach/visually-hidden": [
+    0,
+    []
+  ],
+  "clear-cut": [
+    0,
+    []
+  ],
+  "gulp-replace": [
+    0,
+    []
+  ],
+  "@tiptap/extensions": [
+    0,
+    []
+  ],
+  "webpack-sources": [
+    0,
+    []
+  ],
+  "fast-json-stable-stringify": [
+    0,
+    []
+  ],
+  "js-yaml": [
+    4,
+    [
+      "GHSA-2pr6-76vf-7546",
+      "GHSA-8j8c-7jfh-h6hx",
+      "GHSA-mh29-5h37-fv8m",
+      "GHSA-xxvw-45rp-3mj2"
+    ]
+  ],
+  "keytar": [
+    0,
+    []
+  ],
+  "actionsack": [
+    0,
+    []
+  ],
+  "coffee-script": [
+    0,
+    []
+  ],
+  "zod": [
+    1,
+    [
+      "GHSA-m95q-7qp3-xv42"
+    ]
+  ],
+  "gulp-rtlcss": [
+    0,
+    []
+  ],
+  "celeste": [
+    0,
+    []
+  ],
+  "@tiptap/pm": [
+    0,
+    []
+  ],
+  "leven": [
+    0,
+    []
+  ],
+  "cookies": [
+    0,
+    []
+  ],
+  "rollup-plugin-alias": [
+    0,
+    []
+  ],
+  "filesize": [
+    0,
+    []
+  ],
+  "@dbml/core": [
+    0,
+    []
+  ],
+  "@stylistic/eslint-plugin-js": [
+    0,
+    []
+  ],
+  "@tiptap/starter-kit": [
+    0,
+    []
+  ],
+  "@fastify/ajv-compiler": [
+    0,
+    []
+  ],
+  "gulp-uglify": [
+    0,
+    []
+  ],
+  "file-entry-cache": [
+    0,
+    []
+  ],
+  "mermaid": [
+    7,
+    [
+      "GHSA-4f6x-49g2-99fm",
+      "GHSA-7rqq-prvp-x9jh",
+      "GHSA-8gwm-58g9-j8pw",
+      "GHSA-m4gq-x24j-jpmf",
+      "GHSA-p3rp-vmj9-gv6v",
+      "GHSA-w32g-5hqp-gg6q",
+      "GHSA-x3vm-38hw-55wf"
+    ]
+  ],
+  "color": [
+    2,
+    [
+      "GHSA-qrmh-qg46-72pp",
+      "MAL-2025-46985"
+    ]
+  ],
+  "@fortawesome/fontawesome-free": [
+    0,
+    []
+  ],
+  "find-cache-directory": [
+    0,
+    []
+  ],
+  "@dnd-kit/core": [
+    0,
+    []
+  ],
+  "get-stdin": [
+    0,
+    []
+  ],
+  "rollup-plugin-css-only": [
+    0,
+    []
+  ],
+  "dedent": [
+    0,
+    []
+  ],
+  "loud-rejection": [
+    0,
+    []
+  ],
+  "delegates": [
+    0,
+    []
+  ],
+  "map-stream": [
+    0,
+    []
+  ],
+  "@tiptap/suggestion": [
+    0,
+    []
+  ],
+  "@fastify/error": [
+    0,
+    []
+  ],
+  "command-palette": [
+    0,
+    []
+  ],
+  "minizlib": [
+    0,
+    []
+  ],
+  "@googleapis/drive": [
+    0,
+    []
+  ],
+  "rollup-plugin-import-css": [
+    0,
+    []
+  ],
+  "destroy": [
+    0,
+    []
+  ],
+  "@googleapis/sheets": [
+    0,
+    []
+  ],
+  "dalek": [
+    0,
+    []
+  ],
+  "express-xml-bodyparser": [
+    0,
+    []
+  ],
+  "@dnd-kit/sortable": [
+    0,
+    []
+  ],
+  "@xyflow/svelte": [
+    0,
+    []
+  ],
+  "globby": [
+    0,
+    []
+  ],
+  "micromatch": [
+    1,
+    [
+      "GHSA-952p-6rrq-rcjv"
+    ]
+  ],
+  "@dnd-kit/utilities": [
+    0,
+    []
+  ],
+  "@huggingface/inference": [
+    0,
+    []
+  ],
+  "is-docker": [
+    0,
+    []
+  ],
+  "http-assert": [
+    0,
+    []
+  ],
+  "rollup-plugin-vue": [
+    0,
+    []
+  ],
+  "ioredis": [
+    0,
+    []
+  ],
+  "alpinejs": [
+    0,
+    []
+  ],
+  "deprecation-cop": [
+    0,
+    []
+  ],
+  "node-emoji": [
+    0,
+    []
+  ],
+  "@douyinfe/semi-ui": [
+    0,
+    []
+  ],
+  "chrome-aws-lambda": [
+    0,
+    []
+  ],
+  "javascript-time-ago": [
+    0,
+    []
+  ],
+  "bits-ui": [
+    0,
+    []
+  ],
+  "koa-compose": [
+    0,
+    []
+  ],
+  "json-colorizer": [
+    0,
+    []
+  ],
+  "dev-live-reload": [
+    0,
+    []
+  ],
+  "vue": [
+    1,
+    [
+      "GHSA-5j4c-8p2g-v4jx"
+    ]
+  ],
+  "@langchain/community": [
+    1,
+    [
+      "GHSA-6m59-8fmv-m5f9"
+    ]
+  ],
+  "flow-parser": [
+    0,
+    []
+  ],
+  "@fastify/fast-json-stringify-compiler": [
+    0,
+    []
+  ],
+  "@lexical/react": [
+    0,
+    []
+  ],
+  "normalize-url": [
+    1,
+    [
+      "GHSA-px4h-xg32-q955"
+    ]
+  ],
+  "cm-show-invisibles": [
+    0,
+    []
+  ],
+  "codemirror-lang-elixir": [
+    0,
+    []
+  ],
+  "json-cycle": [
+    0,
+    []
+  ],
+  "devtron": [
+    0,
+    []
+  ],
+  "@langchain/core": [
+    0,
+    []
+  ],
+  "@fastify/proxy-addr": [
+    0,
+    []
+  ],
+  "vue-template-compiler": [
+    1,
+    [
+      "GHSA-g3ch-rx76-35fx"
+    ]
+  ],
+  "npm-logical-tree": [
+    0,
+    []
+  ],
+  "get-east-asian-width": [
+    0,
+    []
+  ],
+  "merge-stream": [
+    0,
+    []
+  ],
+  "native-keymap": [
+    0,
+    []
+  ],
+  "codemirror-graphql": [
+    0,
+    []
+  ],
+  "codemirror-lang-hcl": [
+    0,
+    []
+  ],
+  "json-refs": [
+    0,
+    []
+  ],
+  "document-register-element": [
+    0,
+    []
+  ],
+  "open": [
+    1,
+    [
+      "GHSA-28xh-wpgr-7fm8"
+    ]
+  ],
+  "@langchain/mongodb": [
+    0,
+    []
+  ],
+  "prompt-sui": [
+    0,
+    []
+  ],
+  "webextension-polyfill": [
+    0,
+    []
+  ],
+  "codemirror-mode-elixir": [
+    0,
+    []
+  ],
+  "abstract-logging": [
+    0,
+    []
+  ],
+  "graphql": [
+    1,
+    [
+      "GHSA-9pv7-vfvm-6vr7"
+    ]
+  ],
+  "crc-32": [
+    0,
+    []
+  ],
+  "@langchain/textsplitters": [
+    0,
+    []
+  ],
+  "object-path": [
+    3,
+    [
+      "GHSA-8v63-cqqc-6r2c",
+      "GHSA-cwx2-736x-mf6w",
+      "GHSA-v39p-96qg-c8rf"
+    ]
+  ],
+  "electron-notarize": [
+    0,
+    []
+  ],
+  "parse-domain": [
+    0,
+    []
+  ],
+  "plist": [
+    1,
+    [
+      "GHSA-4cpg-3vgw-4877"
+    ]
+  ],
+  "replace-ext": [
+    0,
+    []
+  ],
+  "webextension-polyfill-ts": [
+    0,
+    []
+  ],
+  "codemirror-solidity": [
+    0,
+    []
+  ],
+  "avvio": [
+    0,
+    []
+  ],
+  "lodash": [
+    7,
+    [
+      "GHSA-29mw-wpgm-hmr9",
+      "GHSA-35jh-r3h4-6jhm",
+      "GHSA-4xc9-xhrj-v574",
+      "GHSA-fvqr-27wr-82fm",
+      "GHSA-jf85-cpcp-j695",
+      "GHSA-p6mc-m468-83gw",
+      "GHSA-x5rq-j2xg-h7qm"
+    ]
+  ],
+  "proper-lockfile": [
+    0,
+    []
+  ],
+  "@lob/lob-typescript-sdk": [
+    0,
+    []
+  ],
+  "html-element-attributes": [
+    0,
+    []
+  ],
+  "eventsource-parser": [
+    0,
+    []
+  ],
+  "require-dot-file": [
+    0,
+    []
+  ],
+  "good-listener": [
+    0,
+    []
+  ],
+  "popper.js": [
+    0,
+    []
+  ],
+  "electron-osx-sign": [
+    0,
+    []
+  ],
+  "cn": [
+    0,
+    []
+  ],
+  "memoizee": [
+    0,
+    []
+  ],
+  "simple-git": [
+    4,
+    [
+      "GHSA-28xr-mwxg-3qc8",
+      "GHSA-3f95-r44v-8mrg",
+      "GHSA-9p95-fxvg-qgq2",
+      "GHSA-9w5j-4mwv-2wj8"
+    ]
+  ],
+  "fast-json-stringify": [
+    0,
+    []
+  ],
+  "date-fns": [
+    0,
+    []
+  ],
+  "@node-rs/bcrypt": [
+    0,
+    []
+  ],
+  "@vercel/analytics": [
+    0,
+    []
+  ],
+  "puka": [
+    0,
+    []
+  ],
+  "html-ua-styles": [
+    0,
+    []
+  ],
+  "encoding-selector": [
+    0,
+    []
+  ],
+  "wrench-sui": [
+    0,
+    []
+  ],
+  "file-saver": [
+    0,
+    []
+  ],
+  "select": [
+    0,
+    []
+  ],
+  "npm-registry-utilities": [
+    0,
+    []
+  ],
+  "string-template": [
+    0,
+    []
+  ],
+  "downshift": [
+    0,
+    []
+  ],
+  "prismjs": [
+    6,
+    [
+      "GHSA-3949-f494-cm99",
+      "GHSA-gj77-59wh-66hg",
+      "GHSA-h4hr-7fg3-h35w",
+      "GHSA-hqhp-5p83-hx96",
+      "GHSA-wvhm-4hhf-97x9",
+      "GHSA-x7hr-w5r2-h6wg"
+    ]
+  ],
+  "@vercel/speed-insights": [
+    0,
+    []
+  ],
+  "@passport-js/passport-twitter": [
+    0,
+    []
+  ],
+  "ignore": [
+    0,
+    []
+  ],
+  "read": [
+    0,
+    []
+  ],
+  "yamljs": [
+    0,
+    []
+  ],
+  "etch": [
+    0,
+    []
+  ],
+  "focus-trap": [
+    0,
+    []
+  ],
+  "find-my-way": [
+    2,
+    [
+      "GHSA-jgrh-5m3h-9c5f",
+      "GHSA-rrr8-f88r-h8q6"
+    ]
+  ],
+  "css-box-model": [
+    0,
+    []
+  ],
+  "dropperx": [
+    0,
+    []
+  ],
+  "classnames": [
+    0,
+    []
+  ],
+  "object-hash": [
+    0,
+    []
+  ],
+  "@popperjs/core": [
+    0,
+    []
+  ],
+  "snabbdom": [
+    0,
+    []
+  ],
+  "import-meta-resolve": [
+    0,
+    []
+  ],
+  "fuse.js": [
+    0,
+    []
+  ],
+  "event-kit": [
+    0,
+    []
+  ],
+  "request": [
+    2,
+    [
+      "GHSA-7xfp-9c55-5vqj",
+      "GHSA-p8p7-x288-28g6"
+    ]
+  ],
+  "memoize-one": [
+    0,
+    []
+  ],
+  "light-my-request": [
+    0,
+    []
+  ],
+  "highlight.js": [
+    2,
+    [
+      "GHSA-7wwv-vh3v-89cq",
+      "GHSA-vfrc-7r7c-w9mx"
+    ]
+  ],
+  "eitherx": [
+    0,
+    []
+  ],
+  "p-limit": [
+    0,
+    []
+  ],
+  "index-to-position": [
+    0,
+    []
+  ],
+  "dexie": [
+    1,
+    [
+      "GHSA-3xgx-r9j4-qw9w"
+    ]
+  ],
+  "heic2any": [
+    0,
+    []
+  ],
+  "raf-schd": [
+    0,
+    []
+  ],
+  "pino": [
+    0,
+    []
+  ],
+  "request-capture-har": [
+    0,
+    []
+  ],
+  "email-validator": [
+    0,
+    []
+  ],
+  "rehype": [
+    0,
+    []
+  ],
+  "p-map": [
+    0,
+    []
+  ],
+  "tiny-emitter": [
+    0,
+    []
+  ],
+  "is-es5-identifier-name": [
+    0,
+    []
+  ],
+  "dexie-react-hooks": [
+    0,
+    []
+  ],
+  "@qii404/json-bigint": [
+    0,
+    []
+  ],
+  "html-entities": [
+    0,
+    []
+  ],
+  "bootstrap": [
+    9,
+    [
+      "GHSA-3mgp-fx93-9xv5",
+      "GHSA-3wqf-4x89-9g79",
+      "GHSA-4p24-vmcr-4gqj",
+      "GHSA-7mvr-5x2g-wfc8",
+      "GHSA-9v3m-8fp8-mj99",
+      "GHSA-ph58-4vrj-w6hr",
+      "GHSA-pj7m-g53m-7638",
+      "GHSA-q58r-hwc8-rm9j",
+      "GHSA-vxmc-5x29-h64v"
+    ]
+  ],
+  "snabbdom-to-html": [
+    0,
+    []
+  ],
+  "use-memo-one": [
+    0,
+    []
+  ],
+  "exception-reporting": [
+    0,
+    []
+  ],
+  "process-warning": [
+    0,
+    []
+  ],
+  "p-map-series": [
+    0,
+    []
+  ],
+  "escape-goat": [
+    0,
+    []
+  ],
+  "anymatch": [
+    0,
+    []
+  ],
+  "jest-docblock": [
+    0,
+    []
+  ],
+  "ssri": [
+    2,
+    [
+      "GHSA-325j-24f4-qv5x",
+      "GHSA-vx3p-948g-6vhq"
+    ]
+  ],
+  "framer-motion": [
+    0,
+    []
+  ],
+  "rehype-external-links": [
+    0,
+    []
+  ],
+  "html2canvas-pro": [
+    0,
+    []
+  ],
+  "@qii404/redis-splitargs": [
+    0,
+    []
+  ],
+  "bootstrap-social": [
+    0,
+    []
+  ],
+  "turndown": [
+    0,
+    []
+  ],
+  "@astronautlabs/amf": [
+    0,
+    []
+  ],
+  "find-and-replace": [
+    0,
+    []
+  ],
+  "rfdc": [
+    0,
+    []
+  ],
+  "p-reduce": [
+    0,
+    []
+  ],
+  "linguist-languages": [
+    0,
+    []
+  ],
+  "rehype-unwrap-images": [
+    0,
+    []
+  ],
+  "@qii404/vue-easy-tree": [
+    0,
+    []
+  ],
+  "html-to-image": [
+    0,
+    []
+  ],
+  "bowser": [
+    0,
+    []
+  ],
+  "firebase": [
+    1,
+    [
+      "GHSA-3wf4-68gx-mph8"
+    ]
+  ],
+  "@babel/polyfill": [
+    0,
+    []
+  ],
+  "i18next": [
+    2,
+    [
+      "GHSA-cmh5-qc8w-xvcq",
+      "GHSA-f89g-whpf-6q9m"
+    ]
+  ],
+  "secure-json-parse": [
+    0,
+    []
+  ],
+  "find-parent-dir": [
+    0,
+    []
+  ],
+  "decompress-zip": [
+    1,
+    [
+      "GHSA-73v8-v6g4-vrpm"
+    ]
+  ],
+  "p-try": [
+    0,
+    []
+  ],
+  "underscore": [
+    1,
+    [
+      "GHSA-cf4h-3jhx-xvhq"
+    ]
+  ],
+  "strip-ansi": [
+    1,
+    [
+      "MAL-2025-46980"
+    ]
+  ],
+  "meriyah": [
+    0,
+    []
+  ],
+  "connect-mongo": [
+    0,
+    []
+  ],
+  "lodash.debounce": [
+    0,
+    []
+  ],
+  "algo-msgpack-with-bigint": [
+    0,
+    []
+  ],
+  "tailwind-merge": [
+    0,
+    []
+  ],
+  "@blu3r4y/lzma": [
+    0,
+    []
+  ],
+  "first-mate": [
+    0,
+    []
+  ],
+  "i18next-browser-languagedetector": [
+    0,
+    []
+  ],
+  "path2": [
+    0,
+    []
+  ],
+  "unsplash-js": [
+    0,
+    []
+  ],
+  "strip-bom": [
+    0,
+    []
+  ],
+  "errorhandler": [
+    0,
+    []
+  ],
+  "lodash.omitby": [
+    0,
+    []
+  ],
+  "toad-cache": [
+    0,
+    []
+  ],
+  "npm": [
+    8,
+    [
+      "GHSA-4328-8hgf-7wjr",
+      "GHSA-93f3-23rq-pjfp",
+      "GHSA-hj9c-8jmm-8c52",
+      "GHSA-m5h6-hr3q-22h5",
+      "GHSA-m6cx-g6qm-p2cx",
+      "GHSA-ph34-pc88-72gc",
+      "GHSA-v3jv-wrf4-5845",
+      "GHSA-x8qc-rrcw-4r46"
+    ]
+  ],
+  "minimist": [
+    2,
+    [
+      "GHSA-vh95-rmgr-6w4m",
+      "GHSA-xvch-5gv4-984h"
+    ]
+  ],
+  "font-awesome": [
+    0,
+    []
+  ],
+  "vfile-message": [
+    0,
+    []
+  ],
+  "@wavesenterprise/crypto-gost-js": [
+    0,
+    []
+  ],
+  "fs-admin": [
+    0,
+    []
+  ],
+  "i18next-resources-to-backend": [
+    0,
+    []
+  ],
+  "process-utils": [
+    0,
+    []
+  ],
+  "express-rate-limit": [
+    0,
+    []
+  ],
+  "glob-watcher": [
+    0,
+    []
+  ],
+  "n-readlines": [
+    0,
+    []
+  ],
+  "match-sorter": [
+    0,
+    []
+  ],
+  "tar-fs": [
+    4,
+    [
+      "GHSA-8cj5-5rvv-wf4v",
+      "GHSA-pq67-2wwv-3xjx",
+      "GHSA-vj76-c3g6-qr5v",
+      "GHSA-x2mc-8fgj-3wmr"
+    ]
+  ],
+  "opn": [
+    0,
+    []
+  ],
+  "getopts": [
+    0,
+    []
+  ],
+  "jsonschema": [
+    0,
+    []
+  ],
+  "fs-plus": [
+    0,
+    []
+  ],
+  "vega": [
+    8,
+    [
+      "GHSA-4vq7-882g-wcg4",
+      "GHSA-7f2v-3qq3-vvjf",
+      "GHSA-963h-3v39-3pqf",
+      "GHSA-cp47-r258-q626",
+      "GHSA-mp7w-mhcv-673j",
+      "GHSA-r2qc-w64x-6j54",
+      "GHSA-rcw3-wmx7-cphr",
+      "GHSA-w5m3-xh75-mp55"
+    ]
+  ],
+  "idb": [
+    0,
+    []
+  ],
+  "promise-queue": [
+    0,
+    []
+  ],
+  "@xmldom/xmldom": [
+    2,
+    [
+      "GHSA-5fg8-2547-mr8q",
+      "GHSA-crh6-fp67-6883"
+    ]
+  ],
+  "yaml": [
+    1,
+    [
+      "GHSA-f9xv-q969-pqx4"
+    ]
+  ],
+  "express-session": [
+    0,
+    []
+  ],
+  "outdent": [
+    0,
+    []
+  ],
+  "gulp-cli": [
+    0,
+    []
+  ],
+  "tar-stream": [
+    0,
+    []
+  ],
+  "morphmorph": [
+    0,
+    []
+  ],
+  "java-object-serialization": [
+    0,
+    []
+  ],
+  "temp": [
+    0,
+    []
+  ],
+  "argon2-browser": [
+    0,
+    []
+  ],
+  "vega-embed": [
+    0,
+    []
+  ],
+  "require-from-string": [
+    0,
+    []
+  ],
+  "js-sha256": [
+    0,
+    []
+  ],
+  "youtube-transcript": [
+    0,
+    []
+  ],
+  "oxc-parser": [
+    0,
+    []
+  ],
+  "jspdf": [
+    5,
+    [
+      "GHSA-3q6f-8grx-pr4v",
+      "GHSA-57f3-gghm-9mhc",
+      "GHSA-8mvj-3j78-4qmw",
+      "GHSA-vh59-v9r5-4mh4",
+      "GHSA-w532-jxjh-hjhj"
+    ]
+  ],
+  "undertaker": [
+    0,
+    []
+  ],
+  "keymaster": [
+    0,
+    []
+  ],
+  "langchain": [
+    1,
+    [
+      "GHSA-hc5w-c9f8-9cc4"
+    ]
+  ],
+  "ms": [
+    2,
+    [
+      "GHSA-3fx5-fwvr-xrjg",
+      "GHSA-w9mr-4mfr-499f"
+    ]
+  ],
+  "arrive": [
+    0,
+    []
+  ],
+  "vega-lite": [
+    0,
+    []
+  ],
+  "signal-exit": [
+    0,
+    []
+  ],
+  "backbone": [
+    1,
+    [
+      "GHSA-j6p2-cx3w-6jcp"
+    ]
+  ],
+  "@img/colour": [
+    0,
+    []
+  ],
+  "vinyl-fs": [
+    0,
+    []
+  ],
+  "node-version-compare": [
+    0,
+    []
+  ],
+  "parse-json": [
+    0,
+    []
+  ],
+  "jszip": [
+    2,
+    [
+      "GHSA-36fh-84j7-cv5h",
+      "GHSA-jg8v-48h5-wgxg"
+    ]
+  ],
+  "lastfm": [
+    0,
+    []
+  ],
+  "next-pwa": [
+    0,
+    []
+  ],
+  "vscode-ripgrep": [
+    0,
+    []
+  ],
+  "avsc": [
+    0,
+    []
+  ],
+  "flux": [
+    0,
+    []
+  ],
+  "fstream": [
+    1,
+    [
+      "GHSA-xf7w-r453-m56c"
+    ]
+  ],
+  "@chakra-ui/icons": [
+    0,
+    []
+  ],
+  "detect-libc": [
+    0,
+    []
+  ],
+  "lexical": [
+    0,
+    []
+  ],
+  "supports-color": [
+    1,
+    [
+      "MAL-2025-46981"
+    ]
+  ],
+  "lusca": [
+    0,
+    []
+  ],
+  "picocolors": [
+    0,
+    []
+  ],
+  "php-serialize": [
+    0,
+    []
+  ],
+  "puppeteer-core": [
+    0,
+    []
+  ],
+  "kokoro-js": [
+    0,
+    []
+  ],
+  "vue-electron": [
+    0,
+    []
+  ],
+  "@chakra-ui/react": [
+    0,
+    []
+  ],
+  "fuzzy-finder": [
+    0,
+    []
+  ],
+  "bignumber.js": [
+    0,
+    []
+  ],
+  "fflate": [
+    0,
+    []
+  ],
+  "react-click-outside": [
+    0,
+    []
+  ],
+  "please-upgrade-node": [
+    0,
+    []
+  ],
+  "pickleparser": [
+    0,
+    []
+  ],
+  "leaflet": [
+    0,
+    []
+  ],
+  "v8-compile-cache": [
+    0,
+    []
+  ],
+  "jquery-ui": [
+    7,
+    [
+      "GHSA-9gj3-hwp5-pmwc",
+      "GHSA-gpqq-952q-5327",
+      "GHSA-h6gj-6jjq-h8g9",
+      "GHSA-hpcf-8vf9-q4gj",
+      "GHSA-j7qv-pgf6-hvh4",
+      "GHSA-qqxp-xp9v-vvx6",
+      "GHSA-wcm2-9c89-wmfm"
+    ]
+  ],
+  "mailchecker": [
+    0,
+    []
+  ],
+  "timers-ext": [
+    0,
+    []
+  ],
+  "luxon": [
+    1,
+    [
+      "GHSA-3xq5-wjfh-ppjc"
+    ]
+  ],
+  "vue-router": [
+    0,
+    []
+  ],
+  "git-diff": [
+    0,
+    []
+  ],
+  "fast-png": [
+    0,
+    []
+  ],
+  "@emotion/react": [
+    0,
+    []
+  ],
+  "blakejs": [
+    0,
+    []
+  ],
+  "lowlight": [
+    0,
+    []
+  ],
+  "validate-npm-package-license": [
+    0,
+    []
+  ],
+  "rawproto": [
+    0,
+    []
+  ],
+  "prop-types": [
+    0,
+    []
+  ],
+  "react-codemirror2": [
+    0,
+    []
+  ],
+  "toml": [
+    0,
+    []
+  ],
+  "node-sql-parser": [
+    0,
+    []
+  ],
+  "vuex": [
+    0,
+    []
+  ],
+  "postcss": [
+    3,
+    [
+      "GHSA-566m-qj78-rww5",
+      "GHSA-7fh5-64p2-3v2j",
+      "GHSA-hwj9-h5mp-3pm3"
+    ]
+  ],
+  "git-utils": [
+    0,
+    []
+  ],
+  "bootstrap-colorpicker": [
+    0,
+    []
+  ],
+  "@gsap/react": [
+    0,
+    []
+  ],
+  "moment": [
+    4,
+    [
+      "GHSA-446m-mv8f-q348",
+      "GHSA-87vv-r9j6-g5qv",
+      "GHSA-8hfj-j24r-96c4",
+      "GHSA-wc69-rhjr-hc9g"
+    ]
+  ],
+  "yn": [
+    0,
+    []
+  ],
+  "paneforge": [
+    0,
+    []
+  ],
+  "esm": [
+    1,
+    [
+      "GHSA-qx4v-6gc5-f2vv"
+    ]
+  ],
+  "q": [
+    0,
+    []
+  ],
+  "sortablejs": [
+    0,
+    []
+  ],
+  "react-color": [
+    0,
+    []
+  ],
+  "ts-node": [
+    0,
+    []
+  ],
+  "postcss-less": [
+    0,
+    []
+  ],
+  "webfontloader": [
+    0,
+    []
+  ],
+  "github": [
+    0,
+    []
+  ],
+  "bootstrap-material-design": [
+    0,
+    []
+  ],
+  "@react-three/drei": [
+    0,
+    []
+  ],
+  "panzoom": [
+    0,
+    []
+  ],
+  "husky": [
+    0,
+    []
+  ],
+  "raphael": [
+    0,
+    []
+  ],
+  "postcss-media-query-parser": [
+    0,
+    []
+  ],
+  "mongoose": [
+    7,
+    [
+      "GHSA-8687-vv9j-hgph",
+      "GHSA-9m93-w8w6-76hh",
+      "GHSA-f825-f98c-gj3g",
+      "GHSA-h8hf-x3f4-xwgp",
+      "GHSA-m7xq-9374-9rvx",
+      "GHSA-r5xw-q988-826m",
+      "GHSA-vg7j-7cwx-8wgw"
+    ]
+  ],
+  "tunnel-ssh": [
+    0,
+    []
+  ],
+  "@silentbot1/nat-api": [
+    0,
+    []
+  ],
+  "react-image-crop": [
+    0,
+    []
+  ],
+  "browserify-zlib": [
+    0,
+    []
+  ],
+  "@react-three/fiber": [
+    0,
+    []
+  ],
+  "go-to-line": [
+    0,
+    []
+  ],
+  "type": [
+    0,
+    []
+  ],
+  "lint-md-cli": [
+    0,
+    []
+  ],
+  "@paulirish/trace_engine": [
+    0,
+    []
+  ],
+  "pdfjs-dist": [
+    2,
+    [
+      "GHSA-7jg2-jgv3-fmr4",
+      "GHSA-wgrm-67xf-hhpq"
+    ]
+  ],
+  "@thaunknown/simple-peer": [
+    0,
+    []
+  ],
+  "tohash": [
+    0,
+    []
+  ],
+  "@react-three/postprocessing": [
+    0,
+    []
+  ],
+  "grammar-selector": [
+    0,
+    []
+  ],
+  "untildify": [
+    0,
+    []
+  ],
+  "vue-i18n": [
+    4,
+    [
+      "GHSA-9r9m-ffp6-9x4v",
+      "GHSA-hjwq-mjwj-4x6c",
+      "GHSA-p2ph-7g93-hw3m",
+      "GHSA-x8qp-wqqm-57ph"
+    ]
+  ],
+  "bson": [
+    3,
+    [
+      "GHSA-4jwp-vfvf-657p",
+      "GHSA-8462-q7x7-g2x4",
+      "GHSA-v8w9-2789-6hhr"
+    ]
+  ],
+  "prosemirror-collab": [
+    0,
+    []
+  ],
+  "@sentry/node": [
+    1,
+    [
+      "GHSA-r5w7-f542-q2j4"
+    ]
+  ],
+  "@webtorrent/http-node": [
+    0,
+    []
+  ],
+  "grim": [
+    0,
+    []
+  ],
+  "@react-three/rapier": [
+    0,
+    []
+  ],
+  "yaml-ast-parser": [
+    0,
+    []
+  ],
+  "oracle-sql-parser": [
+    0,
+    []
+  ],
+  "postcss-scss": [
+    0,
+    []
+  ],
+  "buffer": [
+    0,
+    []
+  ],
+  "prosemirror-commands": [
+    0,
+    []
+  ],
+  "vxe-table": [
+    2,
+    [
+      "GHSA-2qjp-fg8c-g878",
+      "GHSA-89fp-f5mx-748x"
+    ]
+  ],
+  "axe-core": [
+    0,
+    []
+  ],
+  "addr-to-ip-port": [
+    0,
+    []
+  ],
+  "image-view": [
+    0,
+    []
+  ],
+  "@tailwindcss/vite": [
+    0,
+    []
+  ],
+  "connected-react-router": [
+    0,
+    []
+  ],
+  "react-hotkeys-hook": [
+    0,
+    []
+  ],
+  "cbor": [
+    0,
+    []
+  ],
+  "postcss-selector-parser": [
+    0,
+    []
+  ],
+  "prosemirror-example-setup": [
+    0,
+    []
+  ],
+  "bitfield": [
+    0,
+    []
+  ],
+  "eslint": [
+    0,
+    []
+  ],
+  "incompatible-packages": [
+    0,
+    []
+  ],
+  "class-variance-authority": [
+    0,
+    []
+  ],
+  "cross-env": [
+    0,
+    []
+  ],
+  "chrome-launcher": [
+    1,
+    [
+      "GHSA-gp2j-mg4w-2rh5"
+    ]
+  ],
+  "react-i18next": [
+    0,
+    []
+  ],
+  "postcss-values-parser": [
+    0,
+    []
+  ],
+  "morgan": [
+    1,
+    [
+      "GHSA-gwg9-rgvj-4h5j"
+    ]
+  ],
+  "chi-squared": [
+    0,
+    []
+  ],
+  "prosemirror-history": [
+    0,
+    []
+  ],
+  "fontfaceobserver": [
+    0,
+    []
+  ],
+  "face-api.js": [
+    0,
+    []
+  ],
+  "jasmine-json": [
+    0,
+    []
+  ],
+  "eslint-config-standard": [
+    0,
+    []
+  ],
+  "core-js": [
+    0,
+    []
+  ],
+  "configstore": [
+    0,
+    []
+  ],
+  "bittorrent-dht": [
+    1,
+    [
+      "GHSA-77g4-36jp-5v3m"
+    ]
+  ],
+  "react-tweet": [
+    0,
+    []
+  ],
+  "regexp-util": [
+    0,
+    []
+  ],
+  "codepage": [
+    0,
+    []
+  ],
+  "prosemirror-keymap": [
+    0,
+    []
+  ],
+  "custom-event-polyfill": [
+    0,
+    []
+  ],
+  "eslint-config-standard-jsx": [
+    0,
+    []
+  ],
+  "jasmine-reporters": [
+    0,
+    []
+  ],
+  "gl-matrix": [
+    0,
+    []
+  ],
+  "bittorrent-protocol": [
+    0,
+    []
+  ],
+  "url": [
+    0,
+    []
+  ],
+  "history": [
+    0,
+    []
+  ],
+  "csp_evaluator": [
+    0,
+    []
+  ],
+  "medium-zoom": [
+    0,
+    []
+  ],
+  "crypto-api": [
+    0,
+    []
+  ],
+  "prosemirror-markdown": [
+    0,
+    []
+  ],
+  "jasmine-tagged": [
+    0,
+    []
+  ],
+  "loadjs": [
+    0,
+    []
+  ],
+  "cache-chunk-store": [
+    0,
+    []
+  ],
+  "eslint-plugin-import": [
+    0,
+    []
+  ],
+  "hoist-non-react-statics": [
+    0,
+    []
+  ],
+  "usehooks-ts": [
+    0,
+    []
+  ],
+  "tinydate": [
+    0,
+    []
+  ],
+  "crypto-browserify": [
+    0,
+    []
+  ],
+  "devtools-protocol": [
+    0,
+    []
+  ],
+  "prosemirror-model": [
+    0,
+    []
+  ],
+  "gsap": [
+    1,
+    [
+      "GHSA-6g8v-hpgw-h2v7"
+    ]
+  ],
+  "mime": [
+    1,
+    [
+      "GHSA-wrvr-8mpx-r7pp"
+    ]
+  ],
+  "key-path-helpers": [
+    0,
+    []
+  ],
+  "rangetouch": [
+    0,
+    []
+  ],
+  "chunk-store-iterator": [
+    0,
+    []
+  ],
+  "eslint-plugin-n": [
+    0,
+    []
+  ],
+  "@vue/devtools-api": [
+    0,
+    []
+  ],
+  "prosemirror-schema-basic": [
+    0,
+    []
+  ],
+  "http-link-header": [
+    0,
+    []
+  ],
+  "mocha": [
+    0,
+    []
+  ],
+  "@babel/runtime-corejs3": [
+    1,
+    [
+      "GHSA-968p-4wvh-cqc8"
+    ]
+  ],
+  "immer": [
+    3,
+    [
+      "GHSA-33f9-j839-rf8h",
+      "GHSA-9qmh-276g-x5pj",
+      "GHSA-c36v-fmgq-m8hx"
+    ]
+  ],
+  "lenis": [
+    0,
+    []
+  ],
+  "keybinding-resolver": [
+    0,
+    []
+  ],
+  "cpus": [
+    0,
+    []
+  ],
+  "url-polyfill": [
+    0,
+    []
+  ],
+  "crypto-js": [
+    2,
+    [
+      "GHSA-3w3w-pxmm-2w2j",
+      "GHSA-xwcq-pm8m-c4vf"
+    ]
+  ],
+  "eslint-plugin-promise": [
+    0,
+    []
+  ],
+  "clipboard": [
+    0,
+    []
+  ],
+  "prosemirror-schema-list": [
+    0,
+    []
+  ],
+  "intl": [
+    0,
+    []
+  ],
+  "static-here": [
+    0,
+    []
+  ],
+  "intl-messageformat": [
+    0,
+    []
+  ],
+  "lucide-react": [
+    0,
+    []
+  ],
+  "language-c": [
+    0,
+    []
+  ],
+  "create-torrent": [
+    0,
+    []
+  ],
+  "@scarf/scarf": [
+    0,
+    []
+  ],
+  "ctph.js": [
+    0,
+    []
+  ],
+  "remark-footnotes": [
+    0,
+    []
+  ],
+  "eslint-plugin-react": [
+    0,
+    []
+  ],
+  "clone": [
+    0,
+    []
+  ],
+  "prosemirror-state": [
+    0,
+    []
+  ],
+  "oauth": [
+    0,
+    []
+  ],
+  "traceur": [
+    0,
+    []
+  ],
+  "d3": [
+    0,
+    []
+  ],
+  "language-clojure": [
+    0,
+    []
+  ],
+  "maath": [
+    0,
+    []
+  ],
+  "cross-fetch-ponyfill": [
+    0,
+    []
+  ],
+  "base64-js": [
+    0,
+    []
+  ],
+  "remark-math": [
+    0,
+    []
+  ],
+  "jpeg-js": [
+    2,
+    [
+      "GHSA-w7q9-p3jq-fmhm",
+      "GHSA-xvf7-4v9q-58w6"
+    ]
+  ],
+  "standard-engine": [
+    0,
+    []
+  ],
+  "ip": [
+    2,
+    [
+      "GHSA-2p57-rm9w-gvfp",
+      "GHSA-78xj-cgh5-2h22"
+    ]
+  ],
+  "do-bulma": [
+    0,
+    []
+  ],
+  "prosemirror-tables": [
+    0,
+    []
+  ],
+  "classlist-polyfill": [
+    0,
+    []
+  ],
+  "d3-hexbin": [
+    0,
+    []
+  ],
+  "remark-parse": [
+    0,
+    []
+  ],
+  "fs-chunk-store": [
+    0,
+    []
+  ],
+  "language-coffee-script": [
+    0,
+    []
+  ],
+  "js-library-detector": [
+    0,
+    []
+  ],
+  "css.escape": [
+    0,
+    []
+  ],
+  "version-guard": [
+    0,
+    []
+  ],
+  "react-intl": [
+    0,
+    []
+  ],
+  "mathjs": [
+    3,
+    [
+      "GHSA-pv8x-p9hq-j328",
+      "GHSA-vx5c-87qx-cv6c",
+      "GHSA-x2fc-mxcx-w4mf"
+    ]
+  ],
+  "do-vue": [
+    0,
+    []
+  ],
+  "prosemirror-view": [
+    0,
+    []
+  ],
+  "passport": [
+    1,
+    [
+      "GHSA-v923-w3x8-wh69"
+    ]
+  ],
+  "lodash.throttle": [
+    0,
+    []
+  ],
+  "es6-promisify": [
+    0,
+    []
+  ],
+  "sdbm": [
+    0,
+    []
+  ],
+  "lighthouse-logger": [
+    0,
+    []
+  ],
+  "fsa-chunk-store": [
+    0,
+    []
+  ],
+  "language-csharp": [
+    0,
+    []
+  ],
+  "redux-saga": [
+    0,
+    []
+  ],
+  "ajv-i18n": [
+    0,
+    []
+  ],
+  "files-diff": [
+    0,
+    []
+  ],
+  "matter-js": [
+    0,
+    []
+  ],
+  "deep-extend": [
+    1,
+    [
+      "GHSA-hr2v-3952-633q"
+    ]
+  ],
+  "passport-facebook": [
+    0,
+    []
+  ],
+  "pyodide": [
+    0,
+    []
+  ],
+  "escodegen": [
+    0,
+    []
+  ],
+  "search-closest": [
+    0,
+    []
+  ],
+  "reselect": [
+    0,
+    []
+  ],
+  "language-css": [
+    0,
+    []
+  ],
+  "immediate-chunk-store": [
+    0,
+    []
+  ],
+  "json-to-pretty-yaml": [
+    0,
+    []
+  ],
+  "copy-to-clipboard": [
+    0,
+    []
+  ],
+  "ieee754": [
+    0,
+    []
+  ],
+  "lighthouse-stack-packs": [
+    0,
+    []
+  ],
+  "passport-github2": [
+    0,
+    []
+  ],
+  "svelte-sonner": [
+    0,
+    []
+  ],
+  "meshline": [
+    0,
+    []
+  ],
+  "esprima": [
+    0,
+    []
+  ],
+  "language-gfm": [
+    0,
+    []
+  ],
+  "sanitize.css": [
+    0,
+    []
+  ],
+  "join-async-iterator": [
+    0,
+    []
+  ],
+  "memory-tar-create": [
+    0,
+    []
+  ],
+  "@douyinfe/semi-icons": [
+    0,
+    []
+  ],
+  "passport-google-oauth": [
+    0,
+    []
+  ],
+  "tippy.js": [
+    0,
+    []
+  ],
+  "kareem": [
+    0,
+    []
+  ],
+  "immutable": [
+    0,
+    []
+  ],
+  "smol-toml": [
+    1,
+    [
+      "GHSA-pqhp-25j4-6hq9"
+    ]
+  ],
+  "exif-parser": [
+    0,
+    []
+  ],
+  "cpu-load": [
+    0,
+    []
+  ],
+  "motion": [
+    0,
+    []
+  ],
+  "language-git": [
+    0,
+    []
+  ],
+  "lodash-es": [
+    5,
+    [
+      "GHSA-29mw-wpgm-hmr9",
+      "GHSA-35jh-r3h4-6jhm",
+      "GHSA-jf85-cpcp-j695",
+      "GHSA-p6mc-m468-83gw",
+      "GHSA-x5rq-j2xg-h7qm"
+    ]
+  ],
+  "load-ip-set": [
+    0,
+    []
+  ],
+  "pretty-checkbox-vue": [
+    0,
+    []
+  ],
+  "@visactor/react-vchart": [
+    0,
+    []
+  ],
+  "styled-components": [
+    0,
+    []
+  ],
+  "passport-local": [
+    0,
+    []
+  ],
+  "turndown-plugin-gfm": [
+    0,
+    []
+  ],
+  "to-fast-properties": [
+    0,
+    []
+  ],
+  "fernet": [
+    0,
+    []
+  ],
+  "deref": [
+    0,
+    []
+  ],
+  "js-file-download": [
+    0,
+    []
+  ],
+  "language-go": [
+    0,
+    []
+  ],
+  "next-themes": [
+    0,
+    []
+  ],
+  "lookup-closest-locale": [
+    0,
+    []
+  ],
+  "mpath": [
+    2,
+    [
+      "GHSA-h466-j336-74wx",
+      "GHSA-p92x-r36w-9395"
+    ]
+  ],
+  "lt_donthave": [
+    0,
+    []
+  ],
+  "@visactor/vchart": [
+    0,
+    []
+  ],
+  "passport-oauth": [
+    0,
+    []
+  ],
+  "easy-json-schema": [
+    0,
+    []
+  ],
+  "simple-js-sha2-256": [
+    0,
+    []
+  ],
+  "ogl": [
+    0,
+    []
+  ],
+  "randexp": [
+    0,
+    []
+  ],
+  "vite-plugin-static-copy": [
+    1,
+    [
+      "GHSA-pp7p-q8fx-2968"
+    ]
+  ],
+  "language-html": [
+    0,
+    []
+  ],
+  "flat": [
+    1,
+    [
+      "GHSA-2j2x-2gpw-g8fm"
+    ]
+  ],
+  "mquery": [
+    1,
+    [
+      "GHSA-45q2-34rf-mr94"
+    ]
+  ],
+  "generate-schema": [
+    0,
+    []
+  ],
+  "memory-chunk-store": [
+    0,
+    []
+  ],
+  "@visactor/vchart-semi-theme": [
+    0,
+    []
+  ],
+  "vue-select": [
+    0,
+    []
+  ],
+  "passport-oauth2-refresh": [
+    0,
+    []
+  ],
+  "postprocessing": [
+    0,
+    []
+  ],
+  "randombytes": [
+    0,
+    []
+  ],
+  "language-hyperlink": [
+    0,
+    []
+  ],
+  "y-prosemirror": [
+    0,
+    []
+  ],
+  "geodesy": [
+    0,
+    []
+  ],
+  "sift": [
+    0,
+    []
+  ],
+  "webpack-require-from": [
+    0,
+    []
+  ],
+  "react-dropzone": [
+    0,
+    []
+  ],
+  "js-base64": [
+    0,
+    []
+  ],
+  "parse-torrent": [
+    0,
+    []
+  ],
+  "passport-openidconnect": [
+    0,
+    []
+  ],
+  "language-java": [
+    0,
+    []
+  ],
+  "react-confetti": [
+    0,
+    []
+  ],
+  "react-copy-to-clipboard": [
+    0,
+    []
+  ],
+  "dom-helpers": [
+    0,
+    []
+  ],
+  "yjs": [
+    0,
+    []
+  ],
+  "handlebars": [
+    11,
+    [
+      "GHSA-2cf5-4w76-r9qv",
+      "GHSA-3cqr-58rm-57f8",
+      "GHSA-62gr-4qp9-h98f",
+      "GHSA-765h-qjxv-5f44",
+      "GHSA-9prh-257w-9277",
+      "GHSA-f2jv-r9rf-7988",
+      "GHSA-f52g-6jhx-586p",
+      "GHSA-g9r4-xpmj-mj65",
+      "GHSA-q2c6-c6pm-g3gh",
+      "GHSA-q42p-pg8m-cqh6",
+      "GHSA-w457-6q6x-cgp9"
+    ]
+  ],
+  "react-fireworks": [
+    0,
+    []
+  ],
+  "json-schema-faker": [
+    0,
+    []
+  ],
+  "pump": [
+    0,
+    []
+  ],
+  "passport-steam-openid": [
+    0,
+    []
+  ],
+  "language-javascript": [
+    0,
+    []
+  ],
+  "react-haiku": [
+    0,
+    []
+  ],
+  "react-debounce-input": [
+    0,
+    []
+  ],
+  "loose-envify": [
+    0,
+    []
+  ],
+  "trim-newlines": [
+    1,
+    [
+      "GHSA-7p7h-4mm5-852v"
+    ]
+  ],
+  "hash-wasm": [
+    0,
+    []
+  ],
+  "react-telegram-login": [
+    0,
+    []
+  ],
+  "json-schema-ref-parser": [
+    0,
+    []
+  ],
+  "language-json": [
+    0,
+    []
+  ],
+  "react-icons": [
+    0,
+    []
+  ],
+  "queue-microtask": [
+    0,
+    []
+  ],
+  "react-lifecycles-compat": [
+    0,
+    []
+  ],
+  "pug": [
+    2,
+    [
+      "GHSA-3965-hpx2-q597",
+      "GHSA-p493-635q-r6gr"
+    ]
+  ],
+  "jimp": [
+    0,
+    []
+  ],
+  "typescript": [
+    0,
+    []
+  ],
+  "language-less": [
+    0,
+    []
+  ],
+  "react-turnstile": [
+    0,
+    []
+  ],
+  "random-iterate": [
+    0,
+    []
+  ],
+  "react-syntax-highlighter": [
+    0,
+    []
+  ],
+  "jsondiffpatch": [
+    1,
+    [
+      "GHSA-33vc-wfww-vjfv"
+    ]
+  ],
+  "react-immutable-proptypes": [
+    0,
+    []
+  ],
+  "@headlessui/react": [
+    0,
+    []
+  ],
+  "unicode-regex": [
+    0,
+    []
+  ],
+  "sass": [
+    0,
+    []
+  ],
+  "jq-web": [
+    0,
+    []
+  ],
+  "semantic-ui-css": [
+    0,
+    []
+  ],
+  "run-parallel": [
+    0,
+    []
+  ],
+  "language-make": [
+    0,
+    []
+  ],
+  "react-virtualized": [
+    0,
+    []
+  ],
+  "react-immutable-pure-component": [
+    0,
+    []
+  ],
+  "@kubernetes/client-node": [
+    0,
+    []
+  ],
+  "ignore-by-default": [
+    0,
+    []
+  ],
+  "unified": [
+    0,
+    []
+  ],
+  "stripe": [
+    0,
+    []
+  ],
+  "jsrsasign": [
+    8,
+    [
+      "GHSA-27fj-mc8w-j9wg",
+      "GHSA-3fvg-4v2m-98jf",
+      "GHSA-g753-jx37-7xwh",
+      "GHSA-h87q-g2wp-47pj",
+      "GHSA-p8c3-7rj8-q963",
+      "GHSA-q3gh-5r98-j4h3",
+      "GHSA-rh63-9qcf-83gf",
+      "GHSA-xxxq-chmp-67g4"
+    ]
+  ],
+  "sonner": [
+    0,
+    []
+  ],
+  "run-parallel-limit": [
+    0,
+    []
+  ],
+  "language-mustache": [
+    0,
+    []
+  ],
+  "semantic-ui-react": [
+    0,
+    []
+  ],
+  "js-sha3": [
+    0,
+    []
+  ],
+  "robots-parser": [
+    0,
+    []
+  ],
+  "react-inspector": [
+    0,
+    []
+  ],
+  "dockerode": [
+    0,
+    []
+  ],
+  "url-or-path": [
+    0,
+    []
+  ],
+  "twilio": [
+    0,
+    []
+  ],
+  "minimatch": [
+    2,
+    [
+      "GHSA-f8q6-p94x-37v3",
+      "GHSA-hxm2-r34f-qmc5"
+    ]
+  ],
+  "@emotion/cache": [
+    0,
+    []
+  ],
+  "speed-limiter": [
+    0,
+    []
+  ],
+  "language-objective-c": [
+    0,
+    []
+  ],
+  "redux-immutable": [
+    0,
+    []
+  ],
+  "speedline-core": [
+    0,
+    []
+  ],
+  "jsonpath-plus": [
+    2,
+    [
+      "GHSA-hw8r-x6gr-5gjp",
+      "GHSA-pppg-cpfq-h7wr"
+    ]
+  ],
+  "koa": [
+    4,
+    [
+      "GHSA-593f-38f6-jp5m",
+      "GHSA-g8mr-fgfg-5qpc",
+      "GHSA-jgmv-j7ww-jx2x",
+      "GHSA-x2rg-q646-7m2v"
+    ]
+  ],
+  "vnopts": [
+    0,
+    []
+  ],
+  "ical.js": [
+    0,
+    []
+  ],
+  "twitch-passport": [
+    0,
+    []
+  ],
+  "pstree.remy": [
+    0,
+    []
+  ],
+  "tailwindcss": [
+    0,
+    []
+  ],
+  "language-perl": [
+    0,
+    []
+  ],
+  "streamx": [
+    0,
+    []
+  ],
+  "@emotion/styled": [
+    0,
+    []
+  ],
+  "third-party-web": [
+    0,
+    []
+  ],
+  "jsqr": [
+    0,
+    []
+  ],
+  "wcwidth.js": [
+    0,
+    []
+  ],
+  "koa-body": [
+    0,
+    []
+  ],
+  "json-rpc-2.0": [
+    0,
+    []
+  ],
+  "remarkable": [
+    4,
+    [
+      "GHSA-36m4-6v6m-4vpr",
+      "GHSA-f9vc-q3hh-qhfv",
+      "GHSA-mrmf-qwxg-7c3h",
+      "GHSA-q22g-8fr4-qpj4"
+    ]
+  ],
+  "simple-update-notifier": [
+    0,
+    []
+  ],
+  "validator": [
+    9,
+    [
+      "GHSA-552w-rqg8-gxxm",
+      "GHSA-79mx-88w7-8f7q",
+      "GHSA-9965-vmph-33xx",
+      "GHSA-f5w6-r7rg-mcgq",
+      "GHSA-q4qq-fm7q-cwp5",
+      "GHSA-qgmg-gppg-76g5",
+      "GHSA-qpjp-7rp2-9c3f",
+      "GHSA-rh6c-q938-3r9q",
+      "GHSA-xx4c-jj58-r7x6"
+    ]
+  ],
+  "language-php": [
+    0,
+    []
+  ],
+  "three": [
+    1,
+    [
+      "GHSA-fq6p-x6j3-cmmq"
+    ]
+  ],
+  "@mui/icons-material": [
+    0,
+    []
+  ],
+  "throughput": [
+    0,
+    []
+  ],
+  "yaml-unist-parser": [
+    0,
+    []
+  ],
+  "kbpgp": [
+    0,
+    []
+  ],
+  "koa-bodyparser": [
+    0,
+    []
+  ],
+  "memory-cache": [
+    0,
+    []
+  ],
+  "serialize-error": [
+    0,
+    []
+  ],
+  "touch": [
+    0,
+    []
+  ],
+  "@eslint-community/eslint-utils": [
+    0,
+    []
+  ],
+  "github-slugger": [
+    0,
+    []
+  ],
+  "language-property-list": [
+    0,
+    []
+  ],
+  "torrent-discovery": [
+    0,
+    []
+  ],
+  "@mui/lab": [
+    0,
+    []
+  ],
+  "koa-multer": [
+    0,
+    []
+  ],
+  "minecraftstatuspinger": [
+    0,
+    []
+  ],
+  "@eslint-community/regexpp": [
+    0,
+    []
+  ],
+  "sha.js": [
+    1,
+    [
+      "GHSA-95m3-7q98-8xr5"
+    ]
+  ],
+  "libbzip2-wasm": [
+    0,
+    []
+  ],
+  "undefsafe": [
+    1,
+    [
+      "GHSA-332q-7ff2-57h2"
+    ]
+  ],
+  "language-python": [
+    0,
+    []
+  ],
+  "torrent-piece": [
+    0,
+    []
+  ],
+  "@mui/material": [
+    0,
+    []
+  ],
+  "doctrine": [
+    0,
+    []
+  ],
+  "koa-mysql-session": [
+    0,
+    []
+  ],
+  "tldts-icann": [
+    0,
+    []
+  ],
+  "@eslint/config-array": [
+    0,
+    []
+  ],
+  "swagger-client": [
+    0,
+    []
+  ],
+  "next-i18next": [
+    0,
+    []
+  ],
+  "uint8-util": [
+    0,
+    []
+  ],
+  "libyara-wasm": [
+    0,
+    []
+  ],
+  "lie": [
+    0,
+    []
+  ],
+  "language-ruby": [
+    0,
+    []
+  ],
+  "@mui/system": [
+    0,
+    []
+  ],
+  "@renovatebot/pep440": [
+    0,
+    []
+  ],
+  "@eslint/config-helpers": [
+    0,
+    []
+  ],
+  "requirejs": [
+    1,
+    [
+      "GHSA-x3m3-4wpv-5vgc"
+    ]
+  ],
+  "ping": [
+    0,
+    []
+  ],
+  "koa-router": [
+    0,
+    []
+  ],
+  "aws-sign2": [
+    0,
+    []
+  ],
+  "unordered-array-remove": [
+    0,
+    []
+  ],
+  "yargs-parser": [
+    1,
+    [
+      "GHSA-p9pc-299p-vxgp"
+    ]
+  ],
+  "@mui/utils": [
+    0,
+    []
+  ],
+  "loglevel": [
+    0,
+    []
+  ],
+  "@renovatebot/ruby-semver": [
+    0,
+    []
+  ],
+  "language-ruby-on-rails": [
+    0,
+    []
+  ],
+  "url-parse": [
+    8,
+    [
+      "GHSA-46c4-8wrp-j99v",
+      "GHSA-8v38-pw62-9cw2",
+      "GHSA-9m6j-fcg5-2442",
+      "GHSA-hgjh-723h-mx2j",
+      "GHSA-hh27-ffr2-f2jc",
+      "GHSA-jf5r-8hm2-f872",
+      "GHSA-pv4c-p2j5-38j4",
+      "GHSA-rqff-837h-mm52"
+    ]
+  ],
+  "@eslint/core": [
+    0,
+    []
+  ],
+  "pretty-bytes": [
+    0,
+    []
+  ],
+  "aws4": [
+    0,
+    []
+  ],
+  "ut_metadata": [
+    0,
+    []
+  ],
+  "koa-send": [
+    0,
+    []
+  ],
+  "@shields_io/camp": [
+    0,
+    []
+  ],
+  "@mui/x-date-pickers": [
+    0,
+    []
+  ],
+  "loglevel-message-prefix": [
+    0,
+    []
+  ],
+  "xml": [
+    0,
+    []
+  ],
+  "language-rust-bundled": [
+    0,
+    []
+  ],
+  "raw-body": [
+    0,
+    []
+  ],
+  "caseless": [
+    0,
+    []
+  ],
+  "koa-session-minimal": [
+    0,
+    []
+  ],
+  "@eslint/plugin-kit": [
+    2,
+    [
+      "GHSA-7q7g-4xm8-89cq",
+      "GHSA-xffm-g5w8-qvg7"
+    ]
+  ],
+  "@tabler/icons-react": [
+    0,
+    []
+  ],
+  "lz4js": [
+    0,
+    []
+  ],
+  "byte-size": [
+    0,
+    []
+  ],
+  "ut_pex": [
+    0,
+    []
+  ],
+  "language-sass": [
+    0,
+    []
+  ],
+  "xml-but-prettier": [
+    0,
+    []
+  ],
+  "@aws-sdk/client-s3": [
+    0,
+    []
+  ],
+  "recharts": [
+    0,
+    []
+  ],
+  "combined-stream": [
+    0,
+    []
+  ],
+  "koa-static": [
+    0,
+    []
+  ],
+  "@humanfs/node": [
+    0,
+    []
+  ],
+  "@vssue/api-github-v4": [
+    0,
+    []
+  ],
+  "zenscroll": [
+    0,
+    []
+  ],
+  "check-node-version": [
+    0,
+    []
+  ],
+  "language-shellscript": [
+    0,
+    []
+  ],
+  "apexcharts": [
+    1,
+    [
+      "GHSA-w46j-8hm6-h8mm"
+    ]
+  ],
+  "moment-timezone": [
+    2,
+    [
+      "GHSA-56x4-j7p9-fcf9",
+      "GHSA-v78c-4p63-2j6c"
+    ]
+  ],
+  "swr": [
+    0,
+    []
+  ],
+  "forever-agent": [
+    0,
+    []
+  ],
+  "adm-zip": [
+    1,
+    [
+      "GHSA-3v6h-hqm4-2rg6"
+    ]
+  ],
+  "koa-websocket": [
+    0,
+    []
+  ],
+  "@humanwhocodes/module-importer": [
+    0,
+    []
+  ],
+  "cloudflare-middleware": [
+    0,
+    []
+  ],
+  "into-stream": [
+    0,
+    []
+  ],
+  "language-source": [
+    0,
+    []
+  ],
+  "formik": [
+    0,
+    []
+  ],
+  "ngeohash": [
+    0,
+    []
+  ],
+  "@humanwhocodes/retry": [
+    0,
+    []
+  ],
+  "har-validator": [
+    0,
+    []
+  ],
+  "basic-ftp": [
+    0,
+    []
+  ],
+  "ldapjs": [
+    0,
+    []
+  ],
+  "is-core-module": [
+    0,
+    []
+  ],
+  "systeminformation": [
+    9,
+    [
+      "GHSA-2m8v-572m-ff2v",
+      "GHSA-4v2w-h9jm-mqjg",
+      "GHSA-8j36-q8x7-pm6q",
+      "GHSA-94xh-2fmc-xf5j",
+      "GHSA-cvv5-9h9w-qp2m",
+      "GHSA-fj59-f6c3-3vw4",
+      "GHSA-gx6r-qc2v-3p3v",
+      "GHSA-jff2-qjw8-5476",
+      "GHSA-m57p-p67h-mq74"
+    ]
+  ],
+  "config": [
+    0,
+    []
+  ],
+  "language-sql": [
+    0,
+    []
+  ],
+  "@vssue/vuepress-plugin-vssue": [
+    0,
+    []
+  ],
+  "markdown-it-anchor": [
+    0,
+    []
+  ],
+  "multistream": [
+    0,
+    []
+  ],
+  "urbackup-server-api": [
+    0,
+    []
+  ],
+  "node-forge": [
+    8,
+    [
+      "GHSA-2r2c-g63r-vccr",
+      "GHSA-5rrq-pxf6-6jx5",
+      "GHSA-8fr3-hfg3-gpgp",
+      "GHSA-92xj-mqp7-vmcj",
+      "GHSA-cfm4-qjh2-4765",
+      "GHSA-gf8q-jrpm-jvxq",
+      "GHSA-wxgw-qj99-44c2",
+      "GHSA-x4jg-mjrx-434g"
+    ]
+  ],
+  "better-sqlite3": [
+    0,
+    []
+  ],
+  "http-signature": [
+    1,
+    [
+      "GHSA-q257-vv4p-fg92"
+    ]
+  ],
+  "decamelize": [
+    1,
+    [
+      "GHSA-q5c4-39f5-m68j"
+    ]
+  ],
+  "language-text": [
+    0,
+    []
+  ],
+  "@vuepress/plugin-active-header-links": [
+    0,
+    []
+  ],
+  "markdown-it-table-of-contents": [
+    0,
+    []
+  ],
+  "cross-spawn": [
+    1,
+    [
+      "GHSA-3xgq-45jj-v275"
+    ]
+  ],
+  "pkg-fetch": [
+    0,
+    []
+  ],
+  "winston": [
+    0,
+    []
+  ],
+  "copy-text-to-clipboard": [
+    0,
+    []
+  ],
+  "is-typedarray": [
+    0,
+    []
+  ],
+  "emojic": [
+    0,
+    []
+  ],
+  "language-todo": [
+    0,
+    []
+  ],
+  "@vuepress/plugin-back-to-top": [
+    0,
+    []
+  ],
+  "node-md6": [
+    0,
+    []
+  ],
+  "md5": [
+    0,
+    []
+  ],
+  "eslint-visitor-keys": [
+    0,
+    []
+  ],
+  "prebuild-install": [
+    0,
+    []
+  ],
+  "xml-js": [
+    0,
+    []
+  ],
+  "isstream": [
+    0,
+    []
+  ],
+  "electron-is-dev": [
+    0,
+    []
+  ],
+  "language-toml": [
+    0,
+    []
+  ],
+  "@vuepress/plugin-google-analytics": [
+    0,
+    []
+  ],
+  "nodom": [
+    0,
+    []
+  ],
+  "esquery": [
+    0,
+    []
+  ],
+  "mockjs": [
+    1,
+    [
+      "GHSA-mh8j-9jvh-gjf6"
+    ]
+  ],
+  "@dabh/diagnostics": [
+    0,
+    []
+  ],
+  "resolve": [
+    0,
+    []
+  ],
+  "hammerjs": [
+    0,
+    []
+  ],
+  "json-stringify-safe": [
+    0,
+    []
+  ],
+  "fast-xml-parser": [
+    4,
+    [
+      "GHSA-6w63-h3fj-q4vw",
+      "GHSA-gpv5-7x3g-ghjv",
+      "GHSA-mpg4-rc92-vx8v",
+      "GHSA-x3cc-x39p-42qx"
+    ]
+  ],
+  "notepack.io": [
+    0,
+    []
+  ],
+  "language-typescript": [
+    0,
+    []
+  ],
+  "@vuepress/plugin-medium-zoom": [
+    0,
+    []
+  ],
+  "esutils": [
+    0,
+    []
+  ],
+  "mongoose-auto-increment": [
+    0,
+    []
+  ],
+  "@colors/colors": [
+    0,
+    []
+  ],
+  "stream-meter": [
+    0,
+    []
+  ],
+  "howler": [
+    0,
+    []
+  ],
+  "global-agent": [
+    0,
+    []
+  ],
+  "oauth-sign": [
+    0,
+    []
+  ],
+  "ntlm": [
+    0,
+    []
+  ],
+  "language-xml": [
+    0,
+    []
+  ],
+  "@vuepress/plugin-nprogress": [
+    0,
+    []
+  ],
+  "find-up": [
+    0,
+    []
+  ],
+  "moox": [
+    0,
+    []
+  ],
+  "is-stream": [
+    0,
+    []
+  ],
+  "gitbook-plugin-exercises": [
+    0,
+    []
+  ],
+  "performance-now": [
+    0,
+    []
+  ],
+  "js-untar": [
+    0,
+    []
+  ],
+  "language-yaml": [
+    0,
+    []
+  ],
+  "got": [
+    1,
+    [
+      "GHSA-pfrx-2q88-qq97"
+    ]
+  ],
+  "animated-number-vue": [
+    0,
+    []
+  ],
+  "node-schedule": [
+    0,
+    []
+  ],
+  "logform": [
+    0,
+    []
+  ],
+  "gitbook-plugin-include-codeblock": [
+    0,
+    []
+  ],
+  "localforage": [
+    0,
+    []
+  ],
+  "safe-buffer": [
+    0,
+    []
+  ],
+  "nwmatcher": [
+    1,
+    [
+      "GHSA-6394-6h9h-cfjg"
+    ]
+  ],
+  "glob-parent": [
+    2,
+    [
+      "GHSA-cj88-88mr-972w",
+      "GHSA-ww39-953v-wcq6"
+    ]
+  ],
+  "graphql-tag": [
+    0,
+    []
+  ],
+  "less-cache": [
+    0,
+    []
+  ],
+  "aos": [
+    0,
+    []
+  ],
+  "os": [
+    0,
+    []
+  ],
+  "one-time": [
+    0,
+    []
+  ],
+  "imurmurhash": [
+    0,
+    []
+  ],
+  "@ai-sdk/amazon-bedrock": [
+    0,
+    []
+  ],
+  "mammoth": [
+    1,
+    [
+      "GHSA-rmjr-87wv-gf87"
+    ]
+  ],
+  "tunnel-agent": [
+    1,
+    [
+      "GHSA-xc7v-wxcw-j472"
+    ]
+  ],
+  "joi": [
+    0,
+    []
+  ],
+  "line-ending-selector": [
+    0,
+    []
+  ],
+  "material-ui-popup-state": [
+    0,
+    []
+  ],
+  "async-validator": [
+    0,
+    []
+  ],
+  "safeify": [
+    0,
+    []
+  ],
+  "otpauth": [
+    1,
+    [
+      "GHSA-rmmc-8cqj-hfp3"
+    ]
+  ],
+  "readable-stream": [
+    0,
+    []
+  ],
+  "is-glob": [
+    0,
+    []
+  ],
+  "@ai-sdk/anthropic": [
+    0,
+    []
+  ],
+  "megajs": [
+    0,
+    []
+  ],
+  "passport-strategy": [
+    0,
+    []
+  ],
+  "joi-extension-semver": [
+    0,
+    []
+  ],
+  "line-top-index": [
+    0,
+    []
+  ],
+  "react-apexcharts": [
+    0,
+    []
+  ],
+  "sha1": [
+    0,
+    []
+  ],
+  "babel-plugin-component": [
+    0,
+    []
+  ],
+  "safe-stable-stringify": [
+    0,
+    []
+  ],
+  "json-stable-stringify-without-jsonify": [
+    0,
+    []
+  ],
+  "es6-promise": [
+    0,
+    []
+  ],
+  "@ai-sdk/azure": [
+    0,
+    []
+  ],
+  "path": [
+    0,
+    []
+  ],
+  "mhtml2html": [
+    0,
+    []
+  ],
+  "react-device-detect": [
+    0,
+    []
+  ],
+  "pause": [
+    0,
+    []
+  ],
+  "lodash.countby": [
+    0,
+    []
+  ],
+  "link": [
+    0,
+    []
+  ],
+  "stack-trace": [
+    0,
+    []
+  ],
+  "natural-compare": [
+    0,
+    []
+  ],
+  "vm2": [
+    12,
+    [
+      "GHSA-4w2j-2rg4-5mjw",
+      "GHSA-6pw2-5hjv-9pf7",
+      "GHSA-7jxr-cg7f-gpgv",
+      "GHSA-cchq-frgv-rjh5",
+      "GHSA-ch3r-j5x3-6q2m",
+      "GHSA-g644-9gfx-q4q4",
+      "GHSA-mrgp-mrhc-5jrq",
+      "GHSA-p5gc-c584-jj6v",
+      "GHSA-rjf2-j2r6-q8gr",
+      "GHSA-wf5x-cr3r-xr77",
+      "GHSA-whpj-8f3w-67p5",
+      "GHSA-xj72-wvfv-8985"
+    ]
+  ],
+  "bootstrap-vue": [
+    1,
+    [
+      "GHSA-c7pp-x73h-4m2v"
+    ]
+  ],
+  "webworkify-webpack": [
+    0,
+    []
+  ],
+  "@ai-sdk/google": [
+    0,
+    []
+  ],
+  "process": [
+    0,
+    []
+  ],
+  "react-perfect-scrollbar": [
+    0,
+    []
+  ],
+  "utils-merge": [
+    0,
+    []
+  ],
+  "node-machine-id": [
+    0,
+    []
+  ],
+  "matcher": [
+    0,
+    []
+  ],
+  "markdown-preview": [
+    0,
+    []
+  ],
+  "triple-beam": [
+    0,
+    []
+  ],
+  "@sanity/client": [
+    0,
+    []
+  ],
+  "optionator": [
+    0,
+    []
+  ],
+  "@ai-sdk/google-vertex": [
+    0,
+    []
+  ],
+  "yapi-plugin-qsso": [
+    0,
+    []
+  ],
+  "qr-image": [
+    0,
+    []
+  ],
+  "mvncmp": [
+    0,
+    []
+  ],
+  "reduce-css-calc": [
+    1,
+    [
+      "GHSA-4662-j96g-mv46"
+    ]
+  ],
+  "yup": [
+    0,
+    []
+  ],
+  "metrics": [
+    0,
+    []
+  ],
+  "rangy": [
+    1,
+    [
+      "GHSA-65rp-mhqf-8gj3"
+    ]
+  ],
+  "@semantic-release/commit-analyzer": [
+    0,
+    []
+  ],
+  "winston-transport": [
+    0,
+    []
+  ],
+  "co": [
+    0,
+    []
+  ],
+  "fbjs": [
+    0,
+    []
+  ],
+  "reflect-metadata": [
+    0,
+    []
+  ],
+  "node-pg-migrate": [
+    0,
+    []
+  ],
+  "@ai-sdk/groq": [
+    0,
+    []
+  ],
+  "browser-stdout": [
+    0,
+    []
+  ],
+  "react-hot-toast": [
+    0,
+    []
+  ],
+  "mocha-junit-reporter": [
+    0,
+    []
+  ],
+  "vue-clipboard2": [
+    0,
+    []
+  ],
+  "@semantic-release/error": [
+    0,
+    []
+  ],
+  "concat-md": [
+    0,
+    []
+  ],
+  "@sailshq/lodash": [
+    0,
+    []
+  ],
+  "rison": [
+    0,
+    []
+  ],
+  "object-assign": [
+    0,
+    []
+  ],
+  "@ai-sdk/mistral": [
+    0,
+    []
+  ],
+  "he": [
+    0,
+    []
+  ],
+  "parse-link-header": [
+    1,
+    [
+      "GHSA-q674-xm3x-2926"
+    ]
+  ],
+  "react-sortablejs": [
+    0,
+    []
+  ],
+  "vue-codemirror": [
+    0,
+    []
+  ],
+  "@semantic-release/github": [
+    0,
+    []
+  ],
+  "mocha-multi-reporters": [
+    0,
+    []
+  ],
+  "@sailshq/router": [
+    0,
+    []
+  ],
+  "@fontsource/roboto": [
+    0,
+    []
+  ],
+  "scryptsy": [
+    0,
+    []
+  ],
+  "is-path-inside": [
+    0,
+    []
+  ],
+  "@ai-sdk/openai": [
+    0,
+    []
+  ],
+  "hexo": [
+    2,
+    [
+      "GHSA-q54r-r9pr-w7qv",
+      "GHSA-x2jc-989c-47q4"
+    ]
+  ],
+  "vue2-animate": [
+    0,
+    []
+  ],
+  "@semantic-release/npm": [
+    0,
+    []
+  ],
+  "react-tooltip": [
+    0,
+    []
+  ],
+  "captains-log": [
+    0,
+    []
+  ],
+  "@vue/test-utils": [
+    0,
+    []
+  ],
+  "path-to-regexp": [
+    2,
+    [
+      "GHSA-9wv6-86v2-598j",
+      "GHSA-rhx6-c78j-4q9w"
+    ]
+  ],
+  "mock-spawn": [
+    0,
+    []
+  ],
+  "@fontsource/roboto-condensed": [
+    0,
+    []
+  ],
+  "log-symbols": [
+    0,
+    []
+  ],
+  "snackbarjs": [
+    0,
+    []
+  ],
+  "@ai-sdk/openai-compatible": [
+    0,
+    []
+  ],
+  "@ember/edition-utils": [
+    0,
+    []
+  ],
+  "hexo-admonition": [
+    0,
+    []
+  ],
+  "vuepress": [
+    0,
+    []
+  ],
+  "sse.js": [
+    0,
+    []
+  ],
+  "@semantic-release/release-notes-generator": [
+    0,
+    []
+  ],
+  "normalize-package-data": [
+    0,
+    []
+  ],
+  "common-js-file-extensions": [
+    0,
+    []
+  ],
+  "animate.css": [
+    0,
+    []
+  ],
+  "abcjs": [
+    0,
+    []
+  ],
+  "split.js": [
+    0,
+    []
+  ],
+  "@ai-sdk/perplexity": [
+    0,
+    []
+  ],
+  "@embroider/addon-shim": [
+    0,
+    []
+  ],
+  "hexo-cli": [
+    0,
+    []
+  ],
+  "serialize-javascript": [
+    3,
+    [
+      "GHSA-76p7-773f-r4q5",
+      "GHSA-h9rv-jmmf-4pgx",
+      "GHSA-hxcc-f52p-wc94"
+    ]
+  ],
+  "ssh2-sftp-client": [
+    0,
+    []
+  ],
+  "priorityqueuejs": [
+    0,
+    []
+  ],
+  "vuepress-plugin-baidu-autopush": [
+    0,
+    []
+  ],
+  "aggregate-error": [
+    0,
+    []
+  ],
+  "notifications": [
+    0,
+    []
+  ],
+  "console-stamp": [
+    0,
+    []
+  ],
+  "bezier-easing": [
+    0,
+    []
+  ],
+  "ssdeep.js": [
+    0,
+    []
+  ],
+  "connect": [
+    3,
+    [
+      "GHSA-3fw8-66wf-pr7m",
+      "GHSA-6w62-83g6-rfhj",
+      "GHSA-rch9-xh7r-mqgw"
+    ]
+  ],
+  "hexo-deployer-git": [
+    0,
+    []
+  ],
+  "@ai-sdk/provider": [
+    0,
+    []
+  ],
+  "@glimmer/compiler": [
+    0,
+    []
+  ],
+  "webdav": [
+    0,
+    []
+  ],
+  "strip-json-comments": [
+    0,
+    []
+  ],
+  "re2": [
+    0,
+    []
+  ],
+  "nslog": [
+    0,
+    []
+  ],
+  "cosmiconfig": [
+    0,
+    []
+  ],
+  "vuepress-plugin-code-copy": [
+    0,
+    []
+  ],
+  "diff-match-patch": [
+    0,
+    []
+  ],
+  "envsub": [
+    0,
+    []
+  ],
+  "stream-browserify": [
+    0,
+    []
+  ],
+  "cookie-parser": [
+    0,
+    []
+  ],
+  "@glimmer/destroyable": [
+    0,
+    []
+  ],
+  "@ai-sdk/provider-utils": [
+    0,
+    []
+  ],
+  "simple-icons": [
+    0,
+    []
+  ],
+  "miniraf": [
+    0,
+    []
+  ],
+  "workerpool": [
+    0,
+    []
+  ],
+  "env-ci": [
+    0,
+    []
+  ],
+  "one-dark-syntax": [
+    0,
+    []
+  ],
+  "vuepress-plugin-code-switcher": [
+    0,
+    []
+  ],
+  "express-ipfilter": [
+    0,
+    []
+  ],
+  "google-id-token-verifier": [
+    0,
+    []
+  ],
+  "@sailshq/csurf": [
+    0,
+    []
+  ],
+  "@glimmer/global-context": [
+    0,
+    []
+  ],
+  "tesseract.js": [
+    1,
+    [
+      "GHSA-83rx-c8cr-6j8q"
+    ]
+  ],
+  "@ai-sdk/xai": [
+    0,
+    []
+  ],
+  "svg-path-bbox": [
+    0,
+    []
+  ],
+  "rematrix": [
+    0,
+    []
+  ],
+  "yargs-unparser": [
+    0,
+    []
+  ],
+  "vuepress-plugin-named-chunks": [
+    0,
+    []
+  ],
+  "feedme": [
+    0,
+    []
+  ],
+  "one-dark-ui": [
+    0,
+    []
+  ],
+  "indexeddbshim": [
+    0,
+    []
+  ],
+  "figures": [
+    0,
+    []
+  ],
+  "tealight": [
+    0,
+    []
+  ],
+  "@aws-sdk/credential-providers": [
+    0,
+    []
+  ],
+  "svgpath": [
+    0,
+    []
+  ],
+  "ejs": [
+    5,
+    [
+      "GHSA-3w5v-p54c-f74x",
+      "GHSA-6x77-rpqf-j6mw",
+      "GHSA-ghr5-ch3p-vcr6",
+      "GHSA-hwcf-pp87-7x6p",
+      "GHSA-phwq-j96m-2c2q"
+    ]
+  ],
+  "vuepress-plugin-reading-progress": [
+    0,
+    []
+  ],
+  "caniuse-lite": [
+    0,
+    []
+  ],
+  "one-light-syntax": [
+    0,
+    []
+  ],
+  "helmet": [
+    0,
+    []
+  ],
+  "ua-parser-js": [
+    5,
+    [
+      "GHSA-394c-5j6w-4xmx",
+      "GHSA-662x-fhqg-9p8v",
+      "GHSA-78cj-fxph-m83p",
+      "GHSA-fhg7-m89q-25r3",
+      "GHSA-pjwm-rvh2-c87w"
+    ]
+  ],
+  "find-versions": [
+    0,
+    []
+  ],
+  "markdown-it-abbr": [
+    0,
+    []
+  ],
+  "@glimmer/interfaces": [
+    0,
+    []
+  ],
+  "@kayvan/markdown-tree-parser": [
+    0,
+    []
+  ],
+  "flaverr": [
+    0,
+    []
+  ],
+  "@inquirer/search": [
+    0,
+    []
+  ],
+  "webextension-store-meta": [
+    0,
+    []
+  ],
+  "vuepress-plugin-seo": [
+    0,
+    []
+  ],
+  "fraction.js": [
+    0,
+    []
+  ],
+  "one-light-ui": [
+    0,
+    []
+  ],
+  "unorm": [
+    0,
+    []
+  ],
+  "get-stream": [
+    0,
+    []
+  ],
+  "html-to-text": [
+    0,
+    []
+  ],
+  "@glimmer/manager": [
+    0,
+    []
+  ],
+  "markdown-it-deflist": [
+    0,
+    []
+  ],
+  "@openrouter/ai-sdk-provider": [
+    0,
+    []
+  ],
+  "i18n-2": [
+    0,
+    []
+  ],
+  "vuepress-plugin-sitemap": [
+    0,
+    []
+  ],
+  "xpath": [
+    0,
+    []
+  ],
+  "normalize-range": [
+    0,
+    []
+  ],
+  "utf8": [
+    0,
+    []
+  ],
+  "csv-parse": [
+    1,
+    [
+      "GHSA-582f-p4pg-xc74"
+    ]
+  ],
+  "git-log-parser": [
+    0,
+    []
+  ],
+  "markdown-it-emoji": [
+    0,
+    []
+  ],
+  "module-alias": [
+    0,
+    []
+  ],
+  "@glimmer/node": [
+    0,
+    []
+  ],
+  "acorn-walk": [
+    0,
+    []
+  ],
+  "open-on-github": [
+    0,
+    []
+  ],
+  "postcss-value-parser": [
+    0,
+    []
+  ],
+  "@streamparser/json": [
+    0,
+    []
+  ],
+  "steno": [
+    0,
+    []
+  ],
+  "include-all": [
+    0,
+    []
+  ],
+  "vkbeautify": [
+    0,
+    []
+  ],
+  "figlet": [
+    0,
+    []
+  ],
+  "@glimmer/opcode-compiler": [
+    0,
+    []
+  ],
+  "hook-std": [
+    0,
+    []
+  ],
+  "markdown-it-footnote": [
+    0,
+    []
+  ],
+  "node-ical": [
+    0,
+    []
+  ],
+  "package-generator": [
+    0,
+    []
+  ],
+  "async-mutex": [
+    0,
+    []
+  ],
+  "contra": [
+    0,
+    []
+  ],
+  "css-select": [
+    0,
+    []
+  ],
+  "machine": [
+    0,
+    []
+  ],
+  "xregexp": [
+    0,
+    []
+  ],
+  "@supabase/supabase-js": [
+    0,
+    []
+  ],
+  "ora": [
+    0,
+    []
+  ],
+  "@glimmer/owner": [
+    0,
+    []
+  ],
+  "markdown-it-imsize": [
+    0,
+    []
+  ],
+  "machine-as-action": [
+    0,
+    []
+  ],
+  "basic-auth": [
+    0,
+    []
+  ],
+  "css-tree": [
+    0,
+    []
+  ],
+  "crossvent": [
+    0,
+    []
+  ],
+  "pathwatcher": [
+    0,
+    []
+  ],
+  "raf": [
+    0,
+    []
+  ],
+  "nunjucks": [
+    2,
+    [
+      "GHSA-f7ph-p5rv-phw2",
+      "GHSA-x77j-w7wf-fjmw"
+    ]
+  ],
+  "hexo-footnote": [
+    0,
+    []
+  ],
+  "hosted-git-info": [
+    1,
+    [
+      "GHSA-43f8-2h32-f4cj"
+    ]
+  ],
+  "ai": [
+    1,
+    [
+      "GHSA-rwvc-j5jr-mgvh"
+    ]
+  ],
+  "@glimmer/program": [
+    0,
+    []
+  ],
+  "wrap-ansi": [
+    1,
+    [
+      "MAL-2025-46983"
+    ]
+  ],
+  "markdown-it-mark": [
+    0,
+    []
+  ],
+  "machinepack-process": [
+    0,
+    []
+  ],
+  "fast-equals": [
+    0,
+    []
+  ],
+  "import-from-esm": [
+    0,
+    []
+  ],
+  "openurl": [
+    0,
+    []
+  ],
+  "ai-sdk-provider-claude-code": [
+    0,
+    []
+  ],
+  "pm2": [
+    1,
+    [
+      "GHSA-x5gf-qvw8-r2rm"
+    ]
+  ],
+  "@glimmer/reference": [
+    0,
+    []
+  ],
+  "property-accessors": [
+    0,
+    []
+  ],
+  "css-what": [
+    2,
+    [
+      "GHSA-p28h-cc7q-c4fg",
+      "GHSA-q8pj-2vqx-8ggc"
+    ]
+  ],
+  "hexo-fs": [
+    0,
+    []
+  ],
+  "cronosjs": [
+    0,
+    []
+  ],
+  "react-draggable": [
+    0,
+    []
+  ],
+  "machinepack-redis": [
+    0,
+    []
+  ],
+  "markdown-it-pandoc-renderer": [
+    0,
+    []
+  ],
+  "xml2js": [
+    1,
+    [
+      "GHSA-776f-qx25-q3cc"
+    ]
+  ],
+  "marked-terminal": [
+    0,
+    []
+  ],
+  "ai-sdk-provider-codex-cli": [
+    0,
+    []
+  ],
+  "suncalc": [
+    0,
+    []
+  ],
+  "@glimmer/runtime": [
+    0,
+    []
+  ],
+  "csso": [
+    0,
+    []
+  ],
+  "scandal": [
+    0,
+    []
+  ],
+  "denque": [
+    0,
+    []
+  ],
+  "hexo-generator-archive": [
+    0,
+    []
+  ],
+  "react-resizable": [
+    0,
+    []
+  ],
+  "markdown-it-sub": [
+    0,
+    []
+  ],
+  "merge-defaults": [
+    0,
+    []
+  ],
+  "p-each-series": [
+    0,
+    []
+  ],
+  "ai-sdk-provider-gemini-cli": [
+    0,
+    []
+  ],
+  "@glimmer/util": [
+    0,
+    []
+  ],
+  "scoped-property-store": [
+    0,
+    []
+  ],
+  "weathericons": [
+    0,
+    []
+  ],
+  "hash-sum": [
+    0,
+    []
+  ],
+  "resize-observer-polyfill": [
+    0,
+    []
+  ],
+  "merge-dictionaries": [
+    0,
+    []
+  ],
+  "markdown-it-sup": [
+    0,
+    []
+  ],
+  "cli-highlight": [
+    0,
+    []
+  ],
+  "read-package-up": [
+    0,
+    []
+  ],
+  "@vant/weapp": [
+    0,
+    []
+  ],
+  "hpagent": [
+    0,
+    []
+  ],
+  "scrollbar-style": [
+    0,
+    []
+  ],
+  "@acemir/cssom": [
+    0,
+    []
+  ],
+  "@glimmer/validator": [
+    0,
+    []
+  ],
+  "cli-progress": [
+    0,
+    []
+  ],
+  "resolve-from": [
+    0,
+    []
+  ],
+  "parley": [
+    0,
+    []
+  ],
+  "sax": [
+    0,
+    []
+  ],
+  "mousetrap": [
+    0,
+    []
+  ],
+  "@asamuzakjp/dom-selector": [
+    0,
+    []
+  ],
+  "is-utf8": [
+    0,
+    []
+  ],
+  "apifm-wxapi": [
+    0,
+    []
+  ],
+  "@glimmer/vm": [
+    0,
+    []
+  ],
+  "semver-diff": [
+    0,
+    []
+  ],
+  "fastmcp": [
+    0,
+    []
+  ],
+  "normalize-scss": [
+    0,
+    []
+  ],
+  "@hapi/address": [
+    0,
+    []
+  ],
+  "pluralize": [
+    0,
+    []
+  ],
+  "cssstyle": [
+    0,
+    []
+  ],
+  "@glimmer/vm-babel-plugins": [
+    0,
+    []
+  ],
+  "mp-html": [
+    0,
+    []
+  ],
+  "lodash.clonedeep": [
+    0,
+    []
+  ],
+  "@iarna/toml": [
+    0,
+    []
+  ],
+  "gpt-tokens": [
+    0,
+    []
+  ],
+  "signale": [
+    0,
+    []
+  ],
+  "@simple-dom/interface": [
+    0,
+    []
+  ],
+  "wxa-plugin-canvas": [
+    0,
+    []
+  ],
+  "data-urls": [
+    0,
+    []
+  ],
+  "@hapi/formula": [
+    0,
+    []
+  ],
+  "media-typer": [
+    0,
+    []
+  ],
+  "tmp": [
+    1,
+    [
+      "GHSA-52f5-9888-hmc6"
+    ]
+  ],
+  "hexo-generator-category": [
+    0,
+    []
+  ],
+  "@apollo/server": [
+    3,
+    [
+      "GHSA-68jh-rf6x-836f",
+      "GHSA-8r69-3cvp-wxc3",
+      "GHSA-j5g3-5c8r-7qfx"
+    ]
+  ],
+  "otb-ttc-bundle": [
+    0,
+    []
+  ],
+  "gradient-string": [
+    0,
+    []
+  ],
+  "decimal.js": [
+    0,
+    []
+  ],
+  "backburner.js": [
+    0,
+    []
+  ],
+  "memorystore": [
+    0,
+    []
+  ],
+  "@vercel/nft": [
+    0,
+    []
+  ],
+  "hexo-generator-index": [
+    0,
+    []
+  ],
+  "verda": [
+    0,
+    []
+  ],
+  "@babel/eslint-parser": [
+    0,
+    []
+  ],
+  "wxbarcode": [
+    0,
+    []
+  ],
+  "jsonc-parser": [
+    0,
+    []
+  ],
+  "html-encoding-sniffer": [
+    0,
+    []
+  ],
+  "broccoli-file-creator": [
+    0,
+    []
+  ],
+  "hexo-generator-search": [
+    0,
+    []
+  ],
+  "mustache": [
+    1,
+    [
+      "GHSA-w3w8-37jv-2c58"
+    ]
+  ],
+  "@graphql-tools/merge": [
+    0,
+    []
+  ],
+  "which": [
+    0,
+    []
+  ],
+  "@mapbox/node-pre-gyp": [
+    0,
+    []
+  ],
+  "season": [
+    0,
+    []
+  ],
+  "ansi-styles": [
+    1,
+    [
+      "MAL-2025-46967"
+    ]
+  ],
+  "jsonrepair": [
+    0,
+    []
+  ],
+  "is-potential-custom-element-name": [
+    0,
+    []
+  ],
+  "broccoli-funnel": [
+    0,
+    []
+  ],
+  "hexo-generator-sitemap": [
+    0,
+    []
+  ],
+  "node-red-admin": [
+    0,
+    []
+  ],
+  "@meteorjs/reify": [
+    0,
+    []
+  ],
+  "@graphql-tools/schema": [
+    0,
+    []
+  ],
+  "service-hub": [
+    0,
+    []
+  ],
+  "arrgv": [
+    0,
+    []
+  ],
+  "ollama-ai-provider-v2": [
+    0,
+    []
+  ],
+  "broccoli-merge-trees": [
+    0,
+    []
+  ],
+  "node-watch": [
+    0,
+    []
+  ],
+  "@rwap/jquery-ui-touch-punch": [
+    0,
+    []
+  ],
+  "settings-view": [
+    0,
+    []
+  ],
+  "@graphql-tools/utils": [
+    0,
+    []
+  ],
+  "parse5": [
+    0,
+    []
+  ],
+  "arrify": [
+    0,
+    []
+  ],
+  "ember-cli-babel": [
+    0,
+    []
+  ],
+  "argparse": [
+    0,
+    []
+  ],
+  "nopt": [
+    0,
+    []
+  ],
+  "hexo-generator-tag": [
+    0,
+    []
+  ],
+  "prompt": [
+    0,
+    []
+  ],
+  "sinon": [
+    0,
+    []
+  ],
+  "@wekanteam/dragscroll": [
+    0,
+    []
+  ],
+  "@parse/fs-files-adapter": [
+    0,
+    []
+  ],
+  "saxes": [
+    0,
+    []
+  ],
+  "callsites": [
+    0,
+    []
+  ],
+  "ember-cli-get-component-path-option": [
+    0,
+    []
+  ],
+  "oauth2orize": [
+    0,
+    []
+  ],
+  "hexo-include": [
+    0,
+    []
+  ],
+  "entities": [
+    0,
+    []
+  ],
+  "@wekanteam/exceljs": [
+    0,
+    []
+  ],
+  "snippets": [
+    0,
+    []
+  ],
+  "symbol-tree": [
+    0,
+    []
+  ],
+  "@parse/push-adapter": [
+    0,
+    []
+  ],
+  "ember-cli-is-package-missing": [
+    0,
+    []
+  ],
+  "hexo-insert-markdown": [
+    0,
+    []
+  ],
+  "chunkd": [
+    0,
+    []
+  ],
+  "linkify-it": [
+    0,
+    []
+  ],
+  "solarized-dark-syntax": [
+    0,
+    []
+  ],
+  "sqlite3": [
+    2,
+    [
+      "GHSA-9qrh-qjmc-5w2p",
+      "GHSA-jqv5-7xpx-qj74"
+    ]
+  ],
+  "@wekanteam/html-to-markdown": [
+    0,
+    []
+  ],
+  "@hapi/hoek": [
+    2,
+    [
+      "GHSA-22h7-7wwg-qmgg",
+      "GHSA-c429-5p7v-vgjp"
+    ]
+  ],
+  "deepcopy": [
+    0,
+    []
+  ],
+  "rc": [
+    1,
+    [
+      "GHSA-g2q5-5433-rhrf"
+    ]
+  ],
+  "ember-cli-normalize-entity-name": [
+    0,
+    []
+  ],
+  "hexo-ipynb": [
+    0,
+    []
+  ],
+  "ci-parallel-vars": [
+    0,
+    []
+  ],
+  "mdurl": [
+    0,
+    []
+  ],
+  "solarized-light-syntax": [
+    0,
+    []
+  ],
+  "@tailwindcss/typography": [
+    0,
+    []
+  ],
+  "@hapi/pinpoint": [
+    0,
+    []
+  ],
+  "@wekanteam/meteor-globals": [
+    0,
+    []
+  ],
+  "graphql-list-fields": [
+    0,
+    []
+  ],
+  "ember-cli-path-utils": [
+    0,
+    []
+  ],
+  "rttc": [
+    0,
+    []
+  ],
+  "hexo-jupyter-notebook": [
+    0,
+    []
+  ],
+  "cli-truncate": [
+    0,
+    []
+  ],
+  "punycode.js": [
+    0,
+    []
+  ],
+  "spell-check": [
+    0,
+    []
+  ],
+  "@types/node": [
+    0,
+    []
+  ],
+  "@hapi/tlds": [
+    0,
+    []
+  ],
+  "@wekanteam/meteor-reactive-cache": [
+    0,
+    []
+  ],
+  "graphql-relay": [
+    0,
+    []
+  ],
+  "ember-cli-string-utils": [
+    0,
+    []
+  ],
+  "hexo-renderer-ejs": [
+    0,
+    []
+  ],
+  "sails-generate": [
+    0,
+    []
+  ],
+  "code-excerpt": [
+    0,
+    []
+  ],
+  "status-bar": [
+    0,
+    []
+  ],
+  "uc.micro": [
+    0,
+    []
+  ],
+  "@types/react": [
+    0,
+    []
+  ],
+  "@hapi/topo": [
+    0,
+    []
+  ],
+  "graphql-upload": [
+    0,
+    []
+  ],
+  "fibers": [
+    0,
+    []
+  ],
+  "ember-cli-typescript-blueprint-polyfill": [
+    0,
+    []
+  ],
+  "sails-stringfile": [
+    0,
+    []
+  ],
+  "hexo-renderer-marked": [
+    0,
+    []
+  ],
+  "common-path-prefix": [
+    0,
+    []
+  ],
+  "lib0": [
+    0,
+    []
+  ],
+  "@types/react-dom": [
+    0,
+    []
+  ],
+  "@standard-schema/spec": [
+    0,
+    []
+  ],
+  "ember-cli-version-checker": [
+    0,
+    []
+  ],
+  "intersect": [
+    0,
+    []
+  ],
+  "styleguide": [
+    0,
+    []
+  ],
+  "serve-favicon": [
+    0,
+    []
+  ],
+  "concordance": [
+    0,
+    []
+  ],
+  "hexo-renderer-stylus": [
+    0,
+    []
+  ],
+  "file-type": [
+    1,
+    [
+      "GHSA-mhxj-85r3-2x55"
+    ]
+  ],
+  "normalize.css": [
+    0,
+    []
+  ],
+  "colorette": [
+    0,
+    []
+  ],
+  "jwks-rsa": [
+    0,
+    []
+  ],
+  "ember-router-generator": [
+    0,
+    []
+  ],
+  "superstring": [
+    0,
+    []
+  ],
+  "skipper": [
+    0,
+    []
+  ],
+  "@types/react-syntax-highlighter": [
+    0,
+    []
+  ],
+  "hexo-server": [
+    0,
+    []
+  ],
+  "i18next-sprintf-postprocessor": [
+    0,
+    []
+  ],
+  "nprogress": [
+    0,
+    []
+  ],
+  "ethereumjs-util": [
+    0,
+    []
+  ],
+  "escalade": [
+    0,
+    []
+  ],
+  "route-recognizer": [
+    0,
+    []
+  ],
+  "symbols-view": [
+    0,
+    []
+  ],
+  "markdown-it-mathjax3": [
+    0,
+    []
+  ],
+  "node-html-parser": [
+    0,
+    []
+  ],
+  "parse": [
+    3,
+    [
+      "GHSA-9f2h-7v79-mxw3",
+      "GHSA-9g8m-v378-pcg3",
+      "GHSA-wvh7-5p38-2qfc"
+    ]
+  ],
+  "autoprefixer": [
+    0,
+    []
+  ],
+  "@pedroslopez/moduleraid": [
+    0,
+    []
+  ],
+  "sort-route-addresses": [
+    0,
+    []
+  ],
+  "get-package-type": [
+    0,
+    []
+  ],
+  "w3c-xmlserializer": [
+    0,
+    []
+  ],
+  "on-headers": [
+    1,
+    [
+      "GHSA-76c9-3jph-rj3q"
+    ]
+  ],
+  "vue-resource": [
+    0,
+    []
+  ],
+  "router_js": [
+    0,
+    []
+  ],
+  "tabs": [
+    0,
+    []
+  ],
+  "meteor-accounts-t9n": [
+    0,
+    []
+  ],
+  "currently-unhandled": [
+    0,
+    []
+  ],
+  "pg-monitor": [
+    0,
+    []
+  ],
+  "save": [
+    0,
+    []
+  ],
+  "uid-safe": [
+    0,
+    []
+  ],
+  "fluent-ffmpeg": [
+    0,
+    []
+  ],
+  "silent-error": [
+    0,
+    []
+  ],
+  "@adobe/css-tools": [
+    2,
+    [
+      "GHSA-hpx4-r86g-5jrg",
+      "GHSA-prr3-c3m5-p7q2"
+    ]
+  ],
+  "interpret": [
+    0,
+    []
+  ],
+  "webidl-conversions": [
+    0,
+    []
+  ],
+  "passport-http-bearer": [
+    0,
+    []
+  ],
+  "text-buffer": [
+    0,
+    []
+  ],
+  "meteor-node-stubs": [
+    0,
+    []
+  ],
+  "vuetify": [
+    1,
+    [
+      "GHSA-q4q5-c5cv-2p68"
+    ]
+  ],
+  "emittery": [
+    0,
+    []
+  ],
+  "mobx": [
+    0,
+    []
+  ],
+  "whelk": [
+    0,
+    []
+  ],
+  "node-webpmux": [
+    0,
+    []
+  ],
+  "rechoir": [
+    0,
+    []
+  ],
+  "whatwg-encoding": [
+    0,
+    []
+  ],
+  "simple-html-tokenizer": [
+    0,
+    []
+  ],
+  "timecop": [
+    0,
+    []
+  ],
+  "@agnai/sentencepiece-js": [
+    0,
+    []
+  ],
+  "mobx-react": [
+    0,
+    []
+  ],
+  "indent-string": [
+    0,
+    []
+  ],
+  "papaparse": [
+    1,
+    [
+      "GHSA-qvjc-g5vr-mfgr"
+    ]
+  ],
+  "tarn": [
+    0,
+    []
+  ],
+  "whatwg-mimetype": [
+    0,
+    []
+  ],
+  "deep-defaults": [
+    1,
+    [
+      "GHSA-h6xg-rg33-9mf4"
+    ]
+  ],
+  "web3": [
+    1,
+    [
+      "GHSA-27v7-qhfv-rqq8"
+    ]
+  ],
+  "@agnai/web-tokenizers": [
+    0,
+    []
+  ],
+  "is-plain-object": [
+    0,
+    []
+  ],
+  "passport-oauth2-client-password": [
+    0,
+    []
+  ],
+  "mobx-react-lite": [
+    0,
+    []
+  ],
+  "tree-sitter": [
+    0,
+    []
+  ],
+  "tildify": [
+    0,
+    []
+  ],
+  "whatwg-url": [
+    0,
+    []
+  ],
+  "pg-promise": [
+    1,
+    [
+      "GHSA-ff9h-848c-4xfj"
+    ]
+  ],
+  "pretty-ms": [
+    0,
+    []
+  ],
+  "web3-shh": [
+    0,
+    []
+  ],
+  "puppeteer": [
+    1,
+    [
+      "GHSA-c2gp-86p4-5935"
+    ]
+  ],
+  "defaults": [
+    0,
+    []
+  ],
+  "is-promise": [
+    0,
+    []
+  ],
+  "tree-view": [
+    0,
+    []
+  ],
+  "mobx-state-tree": [
+    0,
+    []
+  ],
+  "xml-name-validator": [
+    0,
+    []
+  ],
+  "punycode": [
+    0,
+    []
+  ],
+  "ethereumjs-wallet": [
+    0,
+    []
+  ],
+  "hamt_plus": [
+    0,
+    []
+  ],
+  "uglify-js": [
+    2,
+    [
+      "GHSA-34r7-q49f-h37c",
+      "GHSA-c9f4-xj24-8jqx"
+    ]
+  ],
+  "memoize": [
+    0,
+    []
+  ],
+  "simpl-schema": [
+    1,
+    [
+      "GHSA-9mx2-prfp-8hqp"
+    ]
+  ],
+  "single-file-core": [
+    0,
+    []
+  ],
+  "pako": [
+    0,
+    []
+  ],
+  "typescript-simple": [
+    0,
+    []
+  ],
+  "@fortawesome/free-brands-svg-icons": [
+    0,
+    []
+  ],
+  "rate-limit-redis": [
+    0,
+    []
+  ],
+  "truffle-wallet-provider": [
+    0,
+    []
+  ],
+  "kebab-case": [
+    0,
+    []
+  ],
+  "transit-js": [
+    0,
+    []
+  ],
+  "package-config": [
+    0,
+    []
+  ],
+  "to-buffer": [
+    0,
+    []
+  ],
+  "react-beautiful-dnd": [
+    0,
+    []
+  ],
+  "@11ty/dependency-tree": [
+    0,
+    []
+  ],
+  "@fortawesome/free-regular-svg-icons": [
+    0,
+    []
+  ],
+  "subscriptions-transport-ws": [
+    0,
+    []
+  ],
+  "zeppelin-solidity": [
+    0,
+    []
+  ],
+  "update-package-dependencies": [
+    0,
+    []
+  ],
+  "picomatch": [
+    0,
+    []
+  ],
+  "react-datepicker": [
+    0,
+    []
+  ],
+  "@11ty/dependency-tree-esm": [
+    0,
+    []
+  ],
+  "tv4": [
+    0,
+    []
+  ],
+  "@fortawesome/free-solid-svg-icons": [
+    0,
+    []
+  ],
+  "welcome": [
+    0,
+    []
+  ],
+  "unique-names-generator": [
+    0,
+    []
+  ],
+  "@iconfu/svg-inject": [
+    0,
+    []
+  ],
+  "plur": [
+    0,
+    []
+  ],
+  "openzeppelin-solidity": [
+    1,
+    [
+      "GHSA-7grf-83vw-6f5x"
+    ]
+  ],
+  "react-virtualized-auto-sizer": [
+    0,
+    []
+  ],
+  "@11ty/eleventy-dev-server": [
+    0,
+    []
+  ],
+  "winston-daily-rotate-file": [
+    0,
+    []
+  ],
+  "@fortawesome/vue-fontawesome": [
+    0,
+    []
+  ],
+  "cli-table": [
+    0,
+    []
+  ],
+  "ethereumjs-tx": [
+    0,
+    []
+  ],
+  "whitespace": [
+    0,
+    []
+  ],
+  "@emotion/babel-preset-css-prop": [
+    0,
+    []
+  ],
+  "enqueue": [
+    0,
+    []
+  ],
+  "@jimp/core": [
+    0,
+    []
+  ],
+  "react-window": [
+    0,
+    []
+  ],
+  "resolve-cwd": [
+    0,
+    []
+  ],
+  "@seald-io/nedb": [
+    0,
+    []
+  ],
+  "@11ty/eleventy-plugin-bundle": [
+    0,
+    []
+  ],
+  "dom7": [
+    0,
+    []
+  ],
+  "winreg": [
+    0,
+    []
+  ],
+  "ajv-errors": [
+    0,
+    []
+  ],
+  "function-source": [
+    0,
+    []
+  ],
+  "react-window-infinite-loader": [
+    0,
+    []
+  ],
+  "@jimp/js-bmp": [
+    0,
+    []
+  ],
+  "colors": [
+    2,
+    [
+      "GHSA-5rqg-jm4f-cqx7",
+      "GHSA-gh88-3pxp-6fm8"
+    ]
+  ],
+  "rlp": [
+    0,
+    []
+  ],
+  "autolinker": [
+    0,
+    []
+  ],
+  "htm": [
+    0,
+    []
+  ],
+  "@11ty/eleventy-utils": [
+    0,
+    []
+  ],
+  "stack-utils": [
+    0,
+    []
+  ],
+  "wrap-guide": [
+    0,
+    []
+  ],
+  "ajv-keywords": [
+    0,
+    []
+  ],
+  "@ant-design/colors": [
+    0,
+    []
+  ],
+  "@jimp/js-gif": [
+    0,
+    []
+  ],
+  "minstache": [
+    0,
+    []
+  ],
+  "@swc/helpers": [
+    0,
+    []
+  ],
+  "express-async-errors": [
+    0,
+    []
+  ],
+  "@handlebars/parser": [
+    0,
+    []
+  ],
+  "bgutils-js": [
+    0,
+    []
+  ],
+  "@11ty/gray-matter": [
+    0,
+    []
+  ],
+  "skeleton-elements": [
+    0,
+    []
+  ],
+  "supertap": [
+    0,
+    []
+  ],
+  "browserify": [
+    0,
+    []
+  ],
+  "@ant-design/icons": [
+    0,
+    []
+  ],
+  "@jimp/js-tiff": [
+    0,
+    []
+  ],
+  "multiline": [
+    0,
+    []
+  ],
+  "source-map": [
+    0,
+    []
+  ],
+  "franc": [
+    0,
+    []
+  ],
+  "shaka-player": [
+    0,
+    []
+  ],
+  "@11ty/lodash-custom": [
+    0,
+    []
+  ],
+  "ssr-window": [
+    0,
+    []
+  ],
+  "just-extend": [
+    1,
+    [
+      "GHSA-675m-85rw-j3w4"
+    ]
+  ],
+  "emotion": [
+    0,
+    []
+  ],
+  "temp-dir": [
+    0,
+    []
+  ],
+  "@humansignal/audio-file-decoder": [
+    0,
+    []
+  ],
+  "@jimp/plugin-blit": [
+    0,
+    []
+  ],
+  "sliced": [
+    0,
+    []
+  ],
+  "geckodriver": [
+    0,
+    []
+  ],
+  "@11ty/parse-date-strings": [
+    0,
+    []
+  ],
+  "eslint-plugin-babel": [
+    0,
+    []
+  ],
+  "swiper": [
+    1,
+    [
+      "GHSA-p3hc-fv2j-rp68"
+    ]
+  ],
+  "generic-pool": [
+    0,
+    []
+  ],
+  "write-file-atomic": [
+    0,
+    []
+  ],
+  "@thi.ng/rle-pack": [
+    0,
+    []
+  ],
+  "split2": [
+    0,
+    []
+  ],
+  "@jimp/plugin-circle": [
+    0,
+    []
+  ],
+  "jws": [
+    1,
+    [
+      "GHSA-gjcw-v447-2w7q"
+    ]
+  ],
+  "generatorics": [
+    0,
+    []
+  ],
+  "@11ty/posthtml-urls": [
+    0,
+    []
+  ],
+  "vue-observe-visibility": [
+    0,
+    []
+  ],
+  "lerna": [
+    0,
+    []
+  ],
+  "@plotly/d3": [
+    0,
+    []
+  ],
+  "@babel/helper-module-imports": [
+    0,
+    []
+  ],
+  "antd": [
+    0,
+    []
+  ],
+  "@jimp/plugin-color": [
+    0,
+    []
+  ],
+  "@babel/plugin-transform-react-jsx": [
+    0,
+    []
+  ],
+  "lodash.includes": [
+    0,
+    []
+  ],
+  "ixora": [
+    0,
+    []
+  ],
+  "@11ty/recursive-copy": [
+    0,
+    []
+  ],
+  "youtubei.js": [
+    0,
+    []
+  ],
+  "@plotly/d3-sankey": [
+    0,
+    []
+  ],
+  "fbemitter": [
+    0,
+    []
+  ],
+  "@jimp/plugin-contain": [
+    0,
+    []
+  ],
+  "@mediapipe/selfie_segmentation": [
+    0,
+    []
+  ],
+  "lodash.isboolean": [
+    0,
+    []
+  ],
+  "react-fast-compare": [
+    0,
+    []
+  ],
+  "langs": [
+    0,
+    []
+  ],
+  "@sindresorhus/slugify": [
+    0,
+    []
+  ],
+  "double-ended-queue": [
+    0,
+    []
+  ],
+  "colormap": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-class-properties": [
+    0,
+    []
+  ],
+  "deep-assign": [
+    0,
+    []
+  ],
+  "@plotly/d3-sankey-circular": [
+    0,
+    []
+  ],
+  "@jimp/plugin-cover": [
+    0,
+    []
+  ],
+  "@radix-ui/react-alert-dialog": [
+    0,
+    []
+  ],
+  "lodash.isinteger": [
+    0,
+    []
+  ],
+  "react-side-effect": [
+    0,
+    []
+  ],
+  "most-common-words-by-language": [
+    0,
+    []
+  ],
+  "string-width": [
+    0,
+    []
+  ],
+  "bcp-47-normalize": [
+    0,
+    []
+  ],
+  "insert-after": [
+    0,
+    []
+  ],
+  "fetch-cookie": [
+    0,
+    []
+  ],
+  "load-bmfont": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-jsx": [
+    0,
+    []
+  ],
+  "@plotly/mapbox-gl": [
+    0,
+    []
+  ],
+  "@radix-ui/react-collapsible": [
+    0,
+    []
+  ],
+  "lodash.isnumber": [
+    0,
+    []
+  ],
+  "@jimp/plugin-crop": [
+    0,
+    []
+  ],
+  "cz-conventional-changelog": [
+    0,
+    []
+  ],
+  "@enyaxu/markdown-it-anchor": [
+    0,
+    []
+  ],
+  "dependency-graph": [
+    0,
+    []
+  ],
+  "konva": [
+    0,
+    []
+  ],
+  "fruitdown": [
+    0,
+    []
+  ],
+  "stats-gl": [
+    0,
+    []
+  ],
+  "n": [
+    0,
+    []
+  ],
+  "@babel/preset-env": [
+    0,
+    []
+  ],
+  "@plotly/regl": [
+    0,
+    []
+  ],
+  "@radix-ui/react-dropdown-menu": [
+    0,
+    []
+  ],
+  "lodash.isplainobject": [
+    0,
+    []
+  ],
+  "@jimp/plugin-displace": [
+    0,
+    []
+  ],
+  "import-module-string": [
+    0,
+    []
+  ],
+  "pleasejs": [
+    0,
+    []
+  ],
+  "level": [
+    0,
+    []
+  ],
+  "@hikerpig/markdown-it-toc-and-anchor": [
+    0,
+    []
+  ],
+  "find-node-modules": [
+    0,
+    []
+  ],
+  "super-animejs": [
+    0,
+    []
+  ],
+  "@turf/area": [
+    0,
+    []
+  ],
+  "@babel/register": [
+    0,
+    []
+  ],
+  "pretty-error": [
+    0,
+    []
+  ],
+  "lodash.isstring": [
+    0,
+    []
+  ],
+  "@radix-ui/react-popover": [
+    0,
+    []
+  ],
+  "@jimp/plugin-fisheye": [
+    0,
+    []
+  ],
+  "kleur": [
+    0,
+    []
+  ],
+  "level-codec": [
+    0,
+    []
+  ],
+  "rc-tree": [
+    0,
+    []
+  ],
+  "three-bmfont-text": [
+    0,
+    []
+  ],
+  "find-root": [
+    0,
+    []
+  ],
+  "@rokt33r/js-sequence-diagrams": [
+    0,
+    []
+  ],
+  "@turf/bbox": [
+    0,
+    []
+  ],
+  "@changesets/changelog-github": [
+    0,
+    []
+  ],
+  "lodash.once": [
+    0,
+    []
+  ],
+  "@radix-ui/react-select": [
+    0,
+    []
+  ],
+  "@jimp/plugin-flip": [
+    0,
+    []
+  ],
+  "moo": [
+    0,
+    []
+  ],
+  "sanitize-html": [
+    8,
+    [
+      "GHSA-3j7m-hmh3-9jmp",
+      "GHSA-cgfm-xwp7-2cvr",
+      "GHSA-mjxr-4v3x-q3m4",
+      "GHSA-qhxp-v273-g94h",
+      "GHSA-rjqq-98f6-6j3r",
+      "GHSA-rm97-x556-q36h",
+      "GHSA-wg96-3933-j2w5",
+      "GHSA-xc6g-ggrc-qq4r"
+    ]
+  ],
+  "level-write-stream": [
+    0,
+    []
+  ],
+  "@turf/centroid": [
+    0,
+    []
+  ],
+  "react-konva": [
+    0,
+    []
+  ],
+  "@rokt33r/markdown-it-math": [
+    0,
+    []
+  ],
+  "atomic-sleep": [
+    0,
+    []
+  ],
+  "@radix-ui/react-slider": [
+    0,
+    []
+  ],
+  "@changesets/cli": [
+    0,
+    []
+  ],
+  "@jimp/plugin-mask": [
+    0,
+    []
+  ],
+  "@electron/packager": [
+    1,
+    [
+      "GHSA-34h3-8mw4-qw57"
+    ]
+  ],
+  "node-retrieve-globals": [
+    0,
+    []
+  ],
+  "slash": [
+    0,
+    []
+  ],
+  "leveldown": [
+    0,
+    []
+  ],
+  "base64-arraybuffer": [
+    0,
+    []
+  ],
+  "react-konva-utils": [
+    0,
+    []
+  ],
+  "@rokt33r/season": [
+    0,
+    []
+  ],
+  "@radix-ui/react-switch": [
+    0,
+    []
+  ],
+  "on-exit-leak-free": [
+    0,
+    []
+  ],
+  "@jimp/plugin-quantize": [
+    0,
+    []
+  ],
+  "posthtml": [
+    0,
+    []
+  ],
+  "@manypkg/cli": [
+    0,
+    []
+  ],
+  "string-similarity": [
+    0,
+    []
+  ],
+  "levelup": [
+    0,
+    []
+  ],
+  "canvas-fit": [
+    0,
+    []
+  ],
+  "@susisu/mte-kernel": [
+    0,
+    []
+  ],
+  "@radix-ui/react-tabs": [
+    0,
+    []
+  ],
+  "pino-abstract-transport": [
+    0,
+    []
+  ],
+  "webfft": [
+    0,
+    []
+  ],
+  "@types/better-sqlite3": [
+    0,
+    []
+  ],
+  "posthtml-match-helper": [
+    0,
+    []
+  ],
+  "@jimp/plugin-resize": [
+    0,
+    []
+  ],
+  "@preconstruct/cli": [
+    0,
+    []
+  ],
+  "wink-tokenizer": [
+    0,
+    []
+  ],
+  "color-alpha": [
+    0,
+    []
+  ],
+  "localstorage-down": [
+    0,
+    []
+  ],
+  "aws-sdk-mobile-analytics": [
+    0,
+    []
+  ],
+  "xpath-range": [
+    0,
+    []
+  ],
+  "@types/debug": [
+    0,
+    []
+  ],
+  "pino-std-serializers": [
+    0,
+    []
+  ],
+  "@jimp/plugin-rotate": [
+    0,
+    []
+  ],
+  "tinyglobby": [
+    0,
+    []
+  ],
+  "@types/jest": [
+    0,
+    []
+  ],
+  "wordsninja": [
+    0,
+    []
+  ],
+  "fractional": [
+    0,
+    []
+  ],
+  "electron-config": [
+    0,
+    []
+  ],
+  "ltgt": [
+    0,
+    []
+  ],
+  "@radix-ui/react-accordion": [
+    0,
+    []
+  ],
+  "@types/deep-extend": [
+    0,
+    []
+  ],
+  "quick-format-unescaped": [
+    0,
+    []
+  ],
+  "color-normalize": [
+    0,
+    []
+  ],
+  "@jimp/plugin-threshold": [
+    0,
+    []
+  ],
+  "@typescript-eslint/parser": [
+    0,
+    []
+  ],
+  "component-emitter": [
+    0,
+    []
+  ],
+  "memdown": [
+    0,
+    []
+  ],
+  "electron-gh-releases": [
+    0,
+    []
+  ],
+  "@types/enzyme": [
+    0,
+    []
+  ],
+  "real-require": [
+    0,
+    []
+  ],
+  "@radix-ui/react-toast": [
+    0,
+    []
+  ],
+  "@radix-ui/react-radio-group": [
+    0,
+    []
+  ],
+  "@jimp/wasm-avif": [
+    0,
+    []
+  ],
+  "color-parse": [
+    0,
+    []
+  ],
+  "babel-check-duplicated-nodes": [
+    0,
+    []
+  ],
+  "file-uri-to-path": [
+    0,
+    []
+  ],
+  "spark-md5": [
+    0,
+    []
+  ],
+  "@radix-ui/react-dialog": [
+    0,
+    []
+  ],
+  "@radix-ui/react-toggle": [
+    0,
+    []
+  ],
+  "@pinojs/redact": [
+    0,
+    []
+  ],
+  "@types/enzyme-adapter-react-16": [
+    0,
+    []
+  ],
+  "color-rgba": [
+    0,
+    []
+  ],
+  "cookiejar": [
+    1,
+    [
+      "GHSA-h452-7996-h45h"
+    ]
+  ],
+  "@jimp/wasm-jpeg": [
+    0,
+    []
+  ],
+  "flatpickr": [
+    0,
+    []
+  ],
+  "babel-eslint": [
+    0,
+    []
+  ],
+  "vuvuzela": [
+    0,
+    []
+  ],
+  "@radix-ui/react-slot": [
+    0,
+    []
+  ],
+  "file-url": [
+    0,
+    []
+  ],
+  "@radix-ui/react-toggle-group": [
+    0,
+    []
+  ],
+  "country-regex": [
+    0,
+    []
+  ],
+  "fast-safe-stringify": [
+    0,
+    []
+  ],
+  "@types/event-kit": [
+    0,
+    []
+  ],
+  "@jimp/wasm-png": [
+    0,
+    []
+  ],
+  "numeral": [
+    0,
+    []
+  ],
+  "babel-jest": [
+    0,
+    []
+  ],
+  "literalify": [
+    0,
+    []
+  ],
+  "sonic-boom": [
+    0,
+    []
+  ],
+  "@radix-ui/react-toolbar": [
+    0,
+    []
+  ],
+  "d3-force": [
+    0,
+    []
+  ],
+  "@types/fs-plus": [
+    0,
+    []
+  ],
+  "methods": [
+    0,
+    []
+  ],
+  "@jimp/wasm-webp": [
+    0,
+    []
+  ],
+  "filenamify": [
+    0,
+    []
+  ],
+  "@tanstack/query-core": [
+    0,
+    []
+  ],
+  "babel-plugin-codegen": [
+    0,
+    []
+  ],
+  "cron-parser": [
+    0,
+    []
+  ],
+  "GDJS_EXTENSION_NPM_DEPENDENCY": [
+    0,
+    []
+  ],
+  "thread-stream": [
+    0,
+    []
+  ],
+  "@radix-ui/react-tooltip": [
+    0,
+    []
+  ],
+  "d3-format": [
+    0,
+    []
+  ],
+  "@types/graceful-fs": [
+    0,
+    []
+  ],
+  "balloon-css": [
+    0,
+    []
+  ],
+  "invert-color": [
+    0,
+    []
+  ],
+  "@tanstack/react-query": [
+    0,
+    []
+  ],
+  "@mozilla/readability": [
+    1,
+    [
+      "GHSA-3p6v-hrg8-8qj7"
+    ]
+  ],
+  "get-port": [
+    0,
+    []
+  ],
+  "@kangc/v-md-editor": [
+    0,
+    []
+  ],
+  "babel-plugin-jsx-pragmatic": [
+    0,
+    []
+  ],
+  "promise-polyfill": [
+    0,
+    []
+  ],
+  "expect.js": [
+    0,
+    []
+  ],
+  "jsonlint-mod": [
+    0,
+    []
+  ],
+  "@homebridge/node-pty-prebuilt-multiarch": [
+    0,
+    []
+  ],
+  "d3-geo": [
+    0,
+    []
+  ],
+  "@sentry/browser": [
+    1,
+    [
+      "GHSA-593m-55hh-j8gv"
+    ]
+  ],
+  "@types/jasmine": [
+    0,
+    []
+  ],
+  "@tanstack/react-table": [
+    0,
+    []
+  ],
+  "@zeldafan0225/ai_horde": [
+    0,
+    []
+  ],
+  "@langchain/anthropic": [
+    0,
+    []
+  ],
+  "benchmark": [
+    0,
+    []
+  ],
+  "@types/offscreencanvas": [
+    0,
+    []
+  ],
+  "lodash-move": [
+    0,
+    []
+  ],
+  "d3-geo-projection": [
+    0,
+    []
+  ],
+  "async-promises": [
+    0,
+    []
+  ],
+  "@types/lru-cache": [
+    0,
+    []
+  ],
+  "@tensorflow-models/body-segmentation": [
+    0,
+    []
+  ],
+  "msgpackr": [
+    1,
+    [
+      "GHSA-7hpj-7hhx-2fgx"
+    ]
+  ],
+  "cmdk": [
+    0,
+    []
+  ],
+  "@langchain/cohere": [
+    0,
+    []
+  ],
+  "bolt-check": [
+    0,
+    []
+  ],
+  "bing-translate-api": [
+    0,
+    []
+  ],
+  "markdown-it-admonition": [
+    0,
+    []
+  ],
+  "d3-hierarchy": [
+    0,
+    []
+  ],
+  "@types/mkdirp": [
+    0,
+    []
+  ],
+  "pixi.js": [
+    0,
+    []
+  ],
+  "@tensorflow/tfjs-backend-webgl": [
+    0,
+    []
+  ],
+  "cookie-session": [
+    0,
+    []
+  ],
+  "@langchain/google-genai": [
+    0,
+    []
+  ],
+  "deepmerge": [
+    0,
+    []
+  ],
+  "@nextui-org/react": [
+    0,
+    []
+  ],
+  "markdown-it-kbd": [
+    0,
+    []
+  ],
+  "d3-color": [
+    1,
+    [
+      "GHSA-36jr-mh4h-2g58"
+    ]
+  ],
+  "bundlesize": [
+    0,
+    []
+  ],
+  "d3-interpolate": [
+    0,
+    []
+  ],
+  "@blueprintjs/core": [
+    0,
+    []
+  ],
+  "@types/moment-round": [
+    0,
+    []
+  ],
+  "@tensorflow/tfjs-converter": [
+    0,
+    []
+  ],
+  "csrf-sync": [
+    0,
+    []
+  ],
+  "@langchain/groq": [
+    0,
+    []
+  ],
+  "fft.js": [
+    0,
+    []
+  ],
+  "@nextui-org/theme": [
+    0,
+    []
+  ],
+  "gif-encoder": [
+    0,
+    []
+  ],
+  "markdown-it-multimd-table": [
+    0,
+    []
+  ],
+  "d3-time": [
+    0,
+    []
+  ],
+  "@blueprintjs/icons": [
+    0,
+    []
+  ],
+  "@types/mousetrap": [
+    0,
+    []
+  ],
+  "codecov": [
+    3,
+    [
+      "GHSA-5q88-cjfq-g2mh",
+      "GHSA-mh2h-6j8q-x246",
+      "GHSA-xp63-6vf5-xf3v"
+    ]
+  ],
+  "@tensorflow/tfjs-core": [
+    0,
+    []
+  ],
+  "ansi-term": [
+    0,
+    []
+  ],
+  "droll": [
+    0,
+    []
+  ],
+  "html-react-parser": [
+    0,
+    []
+  ],
+  "@react-spring/web": [
+    0,
+    []
+  ],
+  "@langchain/openai": [
+    0,
+    []
+  ],
+  "pngjs": [
+    0,
+    []
+  ],
+  "markdown-it-plantuml": [
+    0,
+    []
+  ],
+  "d3-time-format": [
+    0,
+    []
+  ],
+  "@lingui/react": [
+    0,
+    []
+  ],
+  "cssjanus": [
+    0,
+    []
+  ],
+  "@types/node-emoji": [
+    0,
+    []
+  ],
+  "@uiw/color-convert": [
+    0,
+    []
+  ],
+  "drawille-canvas-blessed-contrib": [
+    0,
+    []
+  ],
+  "jotai": [
+    0,
+    []
+  ],
+  "@tauri-apps/api": [
+    0,
+    []
+  ],
+  "env-paths": [
+    0,
+    []
+  ],
+  "progress": [
+    0,
+    []
+  ],
+  "markdown-it-smartarrows": [
+    0,
+    []
+  ],
+  "@langchain/xai": [
+    0,
+    []
+  ],
+  "fast-isnumeric": [
+    0,
+    []
+  ],
+  "@types/optimist": [
+    0,
+    []
+  ],
+  "@material-ui/core": [
+    0,
+    []
+  ],
+  "enzyme": [
+    0,
+    []
+  ],
+  "map-canvas": [
+    0,
+    []
+  ],
+  "@uiw/react-color-wheel": [
+    0,
+    []
+  ],
+  "mousetrap-global-bind": [
+    0,
+    []
+  ],
+  "flag-icons": [
+    0,
+    []
+  ],
+  "@mdi/font": [
+    0,
+    []
+  ],
+  "jotai-tanstack-query": [
+    0,
+    []
+  ],
+  "google-translate-api-browser": [
+    1,
+    [
+      "GHSA-4233-7q5q-m7p6"
+    ]
+  ],
+  "require-dir": [
+    0,
+    []
+  ],
+  "@material-ui/icons": [
+    0,
+    []
+  ],
+  "gl-mat4": [
+    0,
+    []
+  ],
+  "enzyme-adapter-react-16": [
+    0,
+    []
+  ],
+  "@types/proxyquire": [
+    0,
+    []
+  ],
+  "concurrently": [
+    0,
+    []
+  ],
+  "memory-streams": [
+    0,
+    []
+  ],
+  "string-argv": [
+    0,
+    []
+  ],
+  "@vueuse/rxjs": [
+    0,
+    []
+  ],
+  "react-joyride": [
+    0,
+    []
+  ],
+  "gl-text": [
+    0,
+    []
+  ],
+  "google-translate-api-x": [
+    0,
+    []
+  ],
+  "@material-ui/lab": [
+    0,
+    []
+  ],
+  "node-ipc": [
+    3,
+    [
+      "GHSA-3mpp-xfvh-qh37",
+      "GHSA-8gr3-2gjw-jj7g",
+      "GHSA-97m3-w2cp-4xx6"
+    ]
+  ],
+  "fabric": [
+    0,
+    []
+  ],
+  "jose": [
+    3,
+    [
+      "GHSA-58f5-hfqc-jgch",
+      "GHSA-hhhv-q57g-882q",
+      "GHSA-jv3g-j58f-9mq9"
+    ]
+  ],
+  "utility": [
+    0,
+    []
+  ],
+  "enzyme-to-json": [
+    0,
+    []
+  ],
+  "memorystream": [
+    0,
+    []
+  ],
+  "@types/raven": [
+    0,
+    []
+  ],
+  "async-lock": [
+    0,
+    []
+  ],
+  "has-hover": [
+    0,
+    []
+  ],
+  "host-validation-middleware": [
+    0,
+    []
+  ],
+  "react-singleton-hook": [
+    0,
+    []
+  ],
+  "react-autosuggest": [
+    0,
+    []
+  ],
+  "@supercharge/promise-pool": [
+    0,
+    []
+  ],
+  "ollama": [
+    0,
+    []
+  ],
+  "fix-webm-duration": [
+    0,
+    []
+  ],
+  "picture-tuber": [
+    0,
+    []
+  ],
+  "@actions/core": [
+    2,
+    [
+      "GHSA-7r3h-m5j6-3q42",
+      "GHSA-mfwh-5m23-j46w"
+    ]
+  ],
+  "@types/react-color": [
+    0,
+    []
+  ],
+  "superagent": [
+    1,
+    [
+      "GHSA-8225-6cvr-8pqp"
+    ]
+  ],
+  "has-passive-events": [
+    0,
+    []
+  ],
+  "eslint-config-react": [
+    0,
+    []
+  ],
+  "ip-matching": [
+    0,
+    []
+  ],
+  "babel-plugin-prismjs": [
+    0,
+    []
+  ],
+  "algoliasearch": [
+    0,
+    []
+  ],
+  "react-codemirror": [
+    0,
+    []
+  ],
+  "rehype-raw": [
+    0,
+    []
+  ],
+  "react-spinners": [
+    0,
+    []
+  ],
+  "eventproxy": [
+    0,
+    []
+  ],
+  "@actions/github": [
+    0,
+    []
+  ],
+  "sparkline": [
+    0,
+    []
+  ],
+  "@types/react-test-renderer": [
+    0,
+    []
+  ],
+  "is-mobile": [
+    0,
+    []
+  ],
+  "dexie-export-import": [
+    0,
+    []
+  ],
+  "ip-regex": [
+    0,
+    []
+  ],
+  "blueimp-md5": [
+    0,
+    []
+  ],
+  "shadcn": [
+    0,
+    []
+  ],
+  "react-use-measure": [
+    0,
+    []
+  ],
+  "eslint-plugin-node": [
+    0,
+    []
+  ],
+  "@faker-js/faker": [
+    0,
+    []
+  ],
+  "react-composition-input": [
+    0,
+    []
+  ],
+  "term-canvas": [
+    0,
+    []
+  ],
+  "material-design-icons": [
+    0,
+    []
+  ],
+  "ipaddr.js": [
+    0,
+    []
+  ],
+  "element-closest": [
+    0,
+    []
+  ],
+  "@types/react-transition-group": [
+    0,
+    []
+  ],
+  "simplify-js": [
+    0,
+    []
+  ],
+  "maplibre-gl": [
+    0,
+    []
+  ],
+  "tauri-plugin-autostart-api": [
+    1,
+    [
+      "MAL-2024-11180"
+    ]
+  ],
+  "react-debounce-render": [
+    0,
+    []
+  ],
+  "eslint-plugin-prettier": [
+    2,
+    [
+      "GHSA-f29h-pxvx-f335",
+      "MAL-2025-6023"
+    ]
+  ],
+  "x256": [
+    0,
+    []
+  ],
+  "rxjs": [
+    0,
+    []
+  ],
+  "morphdom": [
+    0,
+    []
+  ],
+  "js-worker-search": [
+    0,
+    []
+  ],
+  "@types/reflux": [
+    0,
+    []
+  ],
+  "mouse-change": [
+    0,
+    []
+  ],
+  "storybook": [
+    0,
+    []
+  ],
+  "tauri-plugin-fs-watch-api": [
+    0,
+    []
+  ],
+  "@octokit/graphql": [
+    0,
+    []
+  ],
+  "node-persist": [
+    0,
+    []
+  ],
+  "config-lite": [
+    0,
+    []
+  ],
+  "@types/rimraf": [
+    0,
+    []
+  ],
+  "react-emoji-render": [
+    0,
+    []
+  ],
+  "mouse-event-offset": [
+    0,
+    []
+  ],
+  "update-electron-app": [
+    0,
+    []
+  ],
+  "eslint-plugin-react-hooks": [
+    0,
+    []
+  ],
+  "jss-rtl": [
+    0,
+    []
+  ],
+  "sucrase": [
+    0,
+    []
+  ],
+  "gif.js": [
+    0,
+    []
+  ],
+  "tauri-plugin-log-api": [
+    0,
+    []
+  ],
+  "@primer/css": [
+    0,
+    []
+  ],
+  "react-image-carousel": [
+    0,
+    []
+  ],
+  "png-chunk-text": [
+    0,
+    []
+  ],
+  "vue-cli-plugin-electron-builder": [
+    0,
+    []
+  ],
+  "@types/rx-lite": [
+    0,
+    []
+  ],
+  "mouse-wheel": [
+    0,
+    []
+  ],
+  "connect-flash": [
+    0,
+    []
+  ],
+  "node-require-function": [
+    0,
+    []
+  ],
+  "html-tag-names": [
+    0,
+    []
+  ],
+  "mediabunny": [
+    0,
+    []
+  ],
+  "vue-matomo": [
+    0,
+    []
+  ],
+  "png-chunks-extract": [
+    0,
+    []
+  ],
+  "gl": [
+    0,
+    []
+  ],
+  "react-sortable-hoc": [
+    0,
+    []
+  ],
+  "native-promise-only": [
+    0,
+    []
+  ],
+  "tauri-plugin-sql-api": [
+    1,
+    [
+      "MAL-2024-3081"
+    ]
+  ],
+  "@types/slate": [
+    0,
+    []
+  ],
+  "express-formidable": [
+    0,
+    []
+  ],
+  "path-browserify": [
+    0,
+    []
+  ],
+  "emitter-listener": [
+    0,
+    []
+  ],
+  "@primer/octicons": [
+    0,
+    []
+  ],
+  "plyr": [
+    0,
+    []
+  ],
+  "vue3-shortkey": [
+    0,
+    []
+  ],
+  "parse-svg-path": [
+    0,
+    []
+  ],
+  "proxy-agent": [
+    0,
+    []
+  ],
+  "gl-wiretap": [
+    0,
+    []
+  ],
+  "react-transition-group": [
+    0,
+    []
+  ],
+  "pixi-spine": [
+    0,
+    []
+  ],
+  "tauri-plugin-store-api": [
+    0,
+    []
+  ],
+  "@types/slate-base64-serializer": [
+    0,
+    []
+  ],
+  "express-winston": [
+    0,
+    []
+  ],
+  "@twemoji/parser": [
+    0,
+    []
+  ],
+  "plyr-react": [
+    0,
+    []
+  ],
+  "jest": [
+    0,
+    []
+  ],
+  "mockery": [
+    1,
+    [
+      "GHSA-gmwp-3pwc-3j3g"
+    ]
+  ],
+  "point-in-polygon": [
+    0,
+    []
+  ],
+  "rate-limiter-flexible": [
+    0,
+    []
+  ],
+  "vuex-persist": [
+    0,
+    []
+  ],
+  "pixi.js-legacy": [
+    0,
+    []
+  ],
+  "jsdom": [
+    0,
+    []
+  ],
+  "@types/slate-html-serializer": [
+    0,
+    []
+  ],
+  "sander": [
+    0,
+    []
+  ],
+  "gpu-mock.js": [
+    0,
+    []
+  ],
+  "redux-thunk": [
+    0,
+    []
+  ],
+  "querystring": [
+    0,
+    []
+  ],
+  "jest-environment-jsdom": [
+    0,
+    []
+  ],
+  "mongolass": [
+    0,
+    []
+  ],
+  "@headlessui/vue": [
+    0,
+    []
+  ],
+  "polybooljs": [
+    0,
+    []
+  ],
+  "response-time": [
+    0,
+    []
+  ],
+  "websocket-as-promised": [
+    0,
+    []
+  ],
+  "ordered-read-streams": [
+    0,
+    []
+  ],
+  "linguist-js": [
+    0,
+    []
+  ],
+  "@types/slate-plain-serializer": [
+    0,
+    []
+  ],
+  "async-limiter": [
+    0,
+    []
+  ],
+  "react-advanced-cropper": [
+    0,
+    []
+  ],
+  "posthog-js": [
+    1,
+    [
+      "GHSA-8775-5hwv-wr6v"
+    ]
+  ],
+  "jest-in-case": [
+    0,
+    []
+  ],
+  "objectid-to-timestamp": [
+    0,
+    []
+  ],
+  "striptags": [
+    1,
+    [
+      "GHSA-qxg5-2qff-p49r"
+    ]
+  ],
+  "@medv/finder": [
+    0,
+    []
+  ],
+  "probe-image-size": [
+    0,
+    []
+  ],
+  "@types/hast": [
+    0,
+    []
+  ],
+  "sanitize-filename": [
+    0,
+    []
+  ],
+  "webgpu": [
+    0,
+    []
+  ],
+  "open-graph-scraper": [
+    0,
+    []
+  ],
+  "qr-creator": [
+    0,
+    []
+  ],
+  "fs-extra2": [
+    0,
+    []
+  ],
+  "@types/slate-react": [
+    0,
+    []
+  ],
+  "jest-junit": [
+    0,
+    []
+  ],
+  "@tailwindcss/postcss7-compat": [
+    0,
+    []
+  ],
+  "typo-js": [
+    0,
+    []
+  ],
+  "chmodr": [
+    0,
+    []
+  ],
+  "react-rnd": [
+    0,
+    []
+  ],
+  "@types/mdast": [
+    0,
+    []
+  ],
+  "regl-error2d": [
+    0,
+    []
+  ],
+  "@svgdotjs/svg.draggable.js": [
+    0,
+    []
+  ],
+  "seedrandom": [
+    0,
+    []
+  ],
+  "react-dnd": [
+    0,
+    []
+  ],
+  "hagent": [
+    0,
+    []
+  ],
+  "png-js": [
+    0,
+    []
+  ],
+  "jest-serializer-html": [
+    0,
+    []
+  ],
+  "@types/source-map-support": [
+    0,
+    []
+  ],
+  "react-shadow": [
+    0,
+    []
+  ],
+  "@vueuse/core": [
+    0,
+    []
+  ],
+  "download": [
+    0,
+    []
+  ],
+  "@svgdotjs/svg.filter.js": [
+    0,
+    []
+  ],
+  "sillytavern-transformers": [
+    0,
+    []
+  ],
+  "regl-line2d": [
+    0,
+    []
+  ],
+  "purgecss": [
+    0,
+    []
+  ],
+  "react-dnd-html5-backend": [
+    0,
+    []
+  ],
+  "hparser": [
+    0,
+    []
+  ],
+  "unique-slug": [
+    0,
+    []
+  ],
+  "jest-watch-typeahead": [
+    0,
+    []
+  ],
+  "rsync": [
+    0,
+    []
+  ],
+  "@types/temp": [
+    0,
+    []
+  ],
+  "@svgdotjs/svg.js": [
+    0,
+    []
+  ],
+  "react-svg": [
+    1,
+    [
+      "GHSA-8xqr-4cpm-wx7g"
+    ]
+  ],
+  "slidetoggle": [
+    0,
+    []
+  ],
+  "regl-scatter2d": [
+    0,
+    []
+  ],
+  "css-selector-generator": [
+    0,
+    []
+  ],
+  "react-dnd-multi-backend": [
+    0,
+    []
+  ],
+  "lint-staged": [
+    0,
+    []
+  ],
+  "rss-parser": [
+    0,
+    []
+  ],
+  "multer2": [
+    0,
+    []
+  ],
+  "@types/underscore": [
+    0,
+    []
+  ],
+  "@svgdotjs/svg.resize.js": [
+    0,
+    []
+  ],
+  "@ampproject/animations": [
+    0,
+    []
+  ],
+  "tiktoken": [
+    0,
+    []
+  ],
+  "regl-splom": [
+    0,
+    []
+  ],
+  "abbrev": [
+    0,
+    []
+  ],
+  "react-dnd-touch-backend": [
+    0,
+    []
+  ],
+  "ssestream": [
+    0,
+    []
+  ],
+  "multipipe": [
+    0,
+    []
+  ],
+  "wcjs-player": [
+    0,
+    []
+  ],
+  "pinia": [
+    0,
+    []
+  ],
+  "node-pac": [
+    0,
+    []
+  ],
+  "@ampproject/bento-compiler": [
+    0,
+    []
+  ],
+  "@svgdotjs/svg.select.js": [
+    0,
+    []
+  ],
+  "sharp": [
+    2,
+    [
+      "GHSA-54xq-cgqr-rpm3",
+      "GHSA-gp95-ppv5-3jc5"
+    ]
+  ],
+  "@types/underscore.string": [
+    0,
+    []
+  ],
+  "archy": [
+    0,
+    []
+  ],
+  "strongly-connected-components": [
+    0,
+    []
+  ],
+  "react-error-boundary": [
+    0,
+    []
+  ],
+  "wavesurfer.js": [
+    0,
+    []
+  ],
+  "url-join": [
+    0,
+    []
+  ],
+  "@rauschma/stringio": [
+    0,
+    []
+  ],
+  "npm-run-all": [
+    0,
+    []
+  ],
+  "devlop": [
+    0,
+    []
+  ],
+  "vue-tippy": [
+    0,
+    []
+  ],
+  "pfork": [
+    0,
+    []
+  ],
+  "@ampproject/toolbox-cache-url": [
+    0,
+    []
+  ],
+  "@yr/monotone-cubic-spline": [
+    0,
+    []
+  ],
+  "svgo": [
+    0,
+    []
+  ],
+  "react-inner-image-zoom": [
+    0,
+    []
+  ],
+  "@types/uuid": [
+    0,
+    []
+  ],
+  "cardinal": [
+    0,
+    []
+  ],
+  "p-queue": [
+    0,
+    []
+  ],
+  "webm-duration-fix": [
+    0,
+    []
+  ],
+  "superscript-text": [
+    0,
+    []
+  ],
+  "opencollective": [
+    0,
+    []
+  ],
+  "vue3-highlightjs": [
+    0,
+    []
+  ],
+  "vectra": [
+    0,
+    []
+  ],
+  "hast-util-to-jsx-runtime": [
+    0,
+    []
+  ],
+  "pipestream": [
+    0,
+    []
+  ],
+  "complex.js": [
+    0,
+    []
+  ],
+  "@ampproject/viewer-messaging": [
+    0,
+    []
+  ],
+  "vue-prism-component": [
+    0,
+    []
+  ],
+  "react-instantsearch-hooks": [
+    0,
+    []
+  ],
+  "electron-winstaller": [
+    0,
+    []
+  ],
+  "findup-sync": [
+    0,
+    []
+  ],
+  "wavefile": [
+    0,
+    []
+  ],
+  "polished": [
+    0,
+    []
+  ],
+  "html-url-attributes": [
+    0,
+    []
+  ],
+  "fast-csv": [
+    1,
+    [
+      "GHSA-8cv5-p934-3hwp"
+    ]
+  ],
+  "shelljs": [
+    2,
+    [
+      "GHSA-4rq4-32rv-6wp6",
+      "GHSA-64g7-mvw6-v9qj"
+    ]
+  ],
+  "set-global-proxy": [
+    0,
+    []
+  ],
+  "xml-formatter": [
+    0,
+    []
+  ],
+  "@ampproject/worker-dom": [
+    0,
+    []
+  ],
+  "react-json-view": [
+    0,
+    []
+  ],
+  "eslint-plugin-jsx-a11y": [
+    0,
+    []
+  ],
+  "fs-write-stream-atomic": [
+    0,
+    []
+  ],
+  "strftime": [
+    0,
+    []
+  ],
+  "sni": [
+    0,
+    []
+  ],
+  "@riotjs/dom-bindings": [
+    0,
+    []
+  ],
+  "mdast-util-to-hast": [
+    0,
+    []
+  ],
+  "webpack": [
+    2,
+    [
+      "GHSA-4vvj-4cpr-p986",
+      "GHSA-hc6q-2mpp-qw7j"
+    ]
+  ],
+  "@webcomponents/webcomponentsjs": [
+    0,
+    []
+  ],
+  "unzipper": [
+    1,
+    [
+      "GHSA-884w-698f-927f"
+    ]
+  ],
+  "react-measure": [
+    0,
+    []
+  ],
+  "react-native": [
+    1,
+    [
+      "GHSA-7f53-fmmv-mfjv"
+    ]
+  ],
+  "@huggingface/jinja": [
+    0,
+    []
+  ],
+  "fstream-ignore": [
+    0,
+    []
+  ],
+  "gitbook-cli": [
+    0,
+    []
+  ],
+  "requires-port": [
+    0,
+    []
+  ],
+  "sockx": [
+    0,
+    []
+  ],
+  "react-monaco-editor": [
+    0,
+    []
+  ],
+  "react-primitives": [
+    0,
+    []
+  ],
+  "onnxruntime-node": [
+    0,
+    []
+  ],
+  "google-closure-library": [
+    2,
+    [
+      "GHSA-r9q4-w3fm-wrm2",
+      "GHSA-vh5w-fg69-rc8m"
+    ]
+  ],
+  "svg-path-sdf": [
+    0,
+    []
+  ],
+  "@hapi/accept": [
+    1,
+    [
+      "GHSA-9vrw-m88g-w75q"
+    ]
+  ],
+  "is-root": [
+    0,
+    []
+  ],
+  "corser": [
+    0,
+    []
+  ],
+  "starting": [
+    0,
+    []
+  ],
+  "escape-latex": [
+    0,
+    []
+  ],
+  "react-test-renderer": [
+    0,
+    []
+  ],
+  "react-mosaic-component": [
+    0,
+    []
+  ],
+  "onnxruntime-web": [
+    0,
+    []
+  ],
+  "intersection-observer": [
+    0,
+    []
+  ],
+  "tinycolor2": [
+    0,
+    []
+  ],
+  "remark-rehype": [
+    0,
+    []
+  ],
+  "weinre2": [
+    0,
+    []
+  ],
+  "javascript-natural-sort": [
+    0,
+    []
+  ],
+  "@hapi/ammo": [
+    1,
+    [
+      "GHSA-gjph-xf5q-6mfq"
+    ]
+  ],
+  "react-share": [
+    0,
+    []
+  ],
+  "fast-sha256": [
+    0,
+    []
+  ],
+  "ecstatic": [
+    4,
+    [
+      "GHSA-9q64-mpxx-87fg",
+      "GHSA-jc84-3g44-wf2q",
+      "GHSA-pm9p-9926-w68m",
+      "GHSA-vwjc-q9px-r9vq"
+    ]
+  ],
+  "jss": [
+    0,
+    []
+  ],
+  "react18": [
+    1,
+    [
+      "MAL-2022-5682"
+    ]
+  ],
+  "to-px": [
+    0,
+    []
+  ],
+  "unist-util-visit": [
+    0,
+    []
+  ],
+  "yauzl": [
+    0,
+    []
+  ],
+  "ws-parser": [
+    0,
+    []
+  ],
+  "junk": [
+    0,
+    []
+  ],
+  "react-sortable-tree": [
+    0,
+    []
+  ],
+  "assert": [
+    0,
+    []
+  ],
+  "typed-function": [
+    1,
+    [
+      "GHSA-3qh4-r86r-grvm"
+    ]
+  ],
+  "jss-preset-default": [
+    0,
+    []
+  ],
+  "@hapi/boom": [
+    1,
+    [
+      "GHSA-2ggq-vfcp-gwhj"
+    ]
+  ],
+  "vfile": [
+    0,
+    []
+  ],
+  "topojson-client": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-decorators": [
+    0,
+    []
+  ],
+  "lockfile": [
+    0,
+    []
+  ],
+  "@nuxt/opencollective": [
+    0,
+    []
+  ],
+  "http-proxy": [
+    2,
+    [
+      "GHSA-6x33-pw7p-hmpq",
+      "GHSA-9xw9-pvgv-6p76"
+    ]
+  ],
+  "remark-gfm": [
+    0,
+    []
+  ],
+  "@cesium/engine": [
+    0,
+    []
+  ],
+  "browser-pack": [
+    0,
+    []
+  ],
+  "listr2": [
+    0,
+    []
+  ],
+  "obj-str": [
+    0,
+    []
+  ],
+  "@hapi/bounce": [
+    0,
+    []
+  ],
+  "webgl-context": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-export-namespace-from": [
+    0,
+    []
+  ],
+  "portal-vue": [
+    0,
+    []
+  ],
+  "md5-hex": [
+    0,
+    []
+  ],
+  "opener": [
+    0,
+    []
+  ],
+  "@cesium/widgets": [
+    0,
+    []
+  ],
+  "slugs": [
+    0,
+    []
+  ],
+  "react18-dom": [
+    0,
+    []
+  ],
+  "nano-spawn": [
+    0,
+    []
+  ],
+  "@hapi/call": [
+    0,
+    []
+  ],
+  "browser-resolve": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-function-sent": [
+    0,
+    []
+  ],
+  "world-calendars": [
+    0,
+    []
+  ],
+  "vue-functional-data-merge": [
+    0,
+    []
+  ],
+  "preact": [
+    1,
+    [
+      "GHSA-cg48-9hh2-x6mx"
+    ]
+  ],
+  "code-prettify": [
+    0,
+    []
+  ],
+  "mout": [
+    2,
+    [
+      "GHSA-pc58-wgmc-hfjr",
+      "GHSA-vvv8-xw5f-3f88"
+    ]
+  ],
+  "react18-test-renderer": [
+    0,
+    []
+  ],
+  "pidtree": [
+    0,
+    []
+  ],
+  "@hapi/catbox": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-json-strings": [
+    0,
+    []
+  ],
+  "inspectpack": [
+    0,
+    []
+  ],
+  "optimist": [
+    0,
+    []
+  ],
+  "gitbook-plugin-anchors": [
+    0,
+    []
+  ],
+  "@babel/node": [
+    0,
+    []
+  ],
+  "react-day-picker": [
+    0,
+    []
+  ],
+  "cached-path-relative": [
+    2,
+    [
+      "GHSA-hc9w-4p87-j549",
+      "GHSA-wg6g-ppvx-927h"
+    ]
+  ],
+  "css-doodle": [
+    0,
+    []
+  ],
+  "p-throttler": [
+    0,
+    []
+  ],
+  "svg-tag-names": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-numeric-separator": [
+    0,
+    []
+  ],
+  "neo-blessed": [
+    0,
+    []
+  ],
+  "@hapi/catbox-memory": [
+    0,
+    []
+  ],
+  "@babel/preset-flow": [
+    0,
+    []
+  ],
+  "gitbook-plugin-editlink": [
+    0,
+    []
+  ],
+  "react-jss": [
+    0,
+    []
+  ],
+  "portfinder": [
+    0,
+    []
+  ],
+  "mark.js": [
+    0,
+    []
+  ],
+  "concat-stream": [
+    1,
+    [
+      "GHSA-g74r-ffvr-5q9f"
+    ]
+  ],
+  "through": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-throw-expressions": [
+    0,
+    []
+  ],
+  "@hapi/heavy": [
+    0,
+    []
+  ],
+  "@babel/template": [
+    0,
+    []
+  ],
+  "rrule": [
+    0,
+    []
+  ],
+  "union": [
+    0,
+    []
+  ],
+  "@adactive/bootstrap-tagsinput": [
+    0,
+    []
+  ],
+  "gitbook-plugin-favicon": [
+    0,
+    []
+  ],
+  "whatwg-fetch": [
+    0,
+    []
+  ],
+  "source-map-explorer": [
+    0,
+    []
+  ],
+  "console-browserify": [
+    0,
+    []
+  ],
+  "eve": [
+    0,
+    []
+  ],
+  "request-progress": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-dynamic-import": [
+    0,
+    []
+  ],
+  "node-zip": [
+    0,
+    []
+  ],
+  "@hapi/mimos": [
+    0,
+    []
+  ],
+  "webpack-bundle-analyzer": [
+    1,
+    [
+      "GHSA-pgr8-jg6h-8gw6"
+    ]
+  ],
+  "timeago.js": [
+    0,
+    []
+  ],
+  "wordwrap": [
+    0,
+    []
+  ],
+  "crc32": [
+    0,
+    []
+  ],
+  "@fontsource-utils/scss": [
+    0,
+    []
+  ],
+  "url-search-params": [
+    0,
+    []
+  ],
+  "gitbook-plugin-github": [
+    0,
+    []
+  ],
+  "secure-compare": [
+    1,
+    [
+      "GHSA-h9x2-5rm7-x4gm"
+    ]
+  ],
+  "constants-browserify": [
+    0,
+    []
+  ],
+  "requireg": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-import-meta": [
+    0,
+    []
+  ],
+  "queue-fifo": [
+    0,
+    []
+  ],
+  "dblite": [
+    0,
+    []
+  ],
+  "electron-packager": [
+    1,
+    [
+      "GHSA-q43m-ffwr-rpcc"
+    ]
+  ],
+  "@fontsource/inter": [
+    0,
+    []
+  ],
+  "cliff": [
+    0,
+    []
+  ],
+  "web-activities": [
+    0,
+    []
+  ],
+  "xxhashjs": [
+    0,
+    []
+  ],
+  "idx": [
+    0,
+    []
+  ],
+  "@hapi/podium": [
+    0,
+    []
+  ],
+  "@google-cloud/translate": [
+    0,
+    []
+  ],
+  "gitbook-plugin-theme-api": [
+    0,
+    []
+  ],
+  "defined": [
+    0,
+    []
+  ],
+  "@babel/plugin-transform-object-assign": [
+    0,
+    []
+  ],
+  "nan": [
+    0,
+    []
+  ],
+  "vscode-debugadapter": [
+    0,
+    []
+  ],
+  "@fontsource/poppins": [
+    0,
+    []
+  ],
+  "flatiron": [
+    0,
+    []
+  ],
+  "web-animations-js": [
+    0,
+    []
+  ],
+  "discord-rich-presence": [
+    0,
+    []
+  ],
+  "@hapi/shot": [
+    0,
+    []
+  ],
+  "react-native-deprecated-custom-components": [
+    0,
+    []
+  ],
+  "globule": [
+    0,
+    []
+  ],
+  "retry": [
+    0,
+    []
+  ],
+  "nconf": [
+    1,
+    [
+      "GHSA-6xwr-q98w-rvg7"
+    ]
+  ],
+  "deps-sort": [
+    0,
+    []
+  ],
+  "telegraf": [
+    0,
+    []
+  ],
+  "vscode-debugprotocol": [
+    0,
+    []
+  ],
+  "forever-monitor": [
+    0,
+    []
+  ],
+  "asyncdi": [
+    0,
+    []
+  ],
+  "@slack/client": [
+    0,
+    []
+  ],
+  "grunt": [
+    3,
+    [
+      "GHSA-j383-35pm-c5h4",
+      "GHSA-m5pj-vjjf-4m3h",
+      "GHSA-rm36-94g8-835r"
+    ]
+  ],
+  "@hapi/somever": [
+    0,
+    []
+  ],
+  "electron-editor-context-menu": [
+    0,
+    []
+  ],
+  "react-native-fbsdk": [
+    0,
+    []
+  ],
+  "pinyin": [
+    0,
+    []
+  ],
+  "semver-utils": [
+    0,
+    []
+  ],
+  "@isaacs/ttlcache": [
+    0,
+    []
+  ],
+  "domain-browser": [
+    0,
+    []
+  ],
+  "googleapis": [
+    1,
+    [
+      "GHSA-7543-mr7h-6v86"
+    ]
+  ],
+  "@craco/craco": [
+    0,
+    []
+  ],
+  "zip-dir": [
+    0,
+    []
+  ],
+  "adbkit": [
+    0,
+    []
+  ],
+  "babelify": [
+    0,
+    []
+  ],
+  "nssocket": [
+    0,
+    []
+  ],
+  "live-server": [
+    0,
+    []
+  ],
+  "grunt-cli": [
+    0,
+    []
+  ],
+  "@hapi/statehood": [
+    0,
+    []
+  ],
+  "react-native-hyperlink": [
+    0,
+    []
+  ],
+  "@nodebb/spider-detector": [
+    0,
+    []
+  ],
+  "duplexer2": [
+    0,
+    []
+  ],
+  "emojione": [
+    1,
+    [
+      "GHSA-46m8-42hm-wvvw"
+    ]
+  ],
+  "netlify-auth-providers": [
+    0,
+    []
+  ],
+  "gulp-util": [
+    0,
+    []
+  ],
+  "adbkit-apkreader": [
+    0,
+    []
+  ],
+  "shell-quote": [
+    2,
+    [
+      "GHSA-g4rg-993r-mgx7",
+      "GHSA-qg8p-v9q4-gh34"
+    ]
+  ],
+  "steamworks.js": [
+    0,
+    []
+  ],
+  "prettyjson": [
+    0,
+    []
+  ],
+  "babyparse": [
+    0,
+    []
+  ],
+  "react-native-keyboard-aware-scroll-view": [
+    0,
+    []
+  ],
+  "jasmine": [
+    0,
+    []
+  ],
+  "gitbook": [
+    2,
+    [
+      "GHSA-5h5r-23r4-m87h",
+      "GHSA-hwgp-c653-6684"
+    ]
+  ],
+  "@textcomplete/contenteditable": [
+    0,
+    []
+  ],
+  "hasown": [
+    0,
+    []
+  ],
+  "electron-localshortcut": [
+    0,
+    []
+  ],
+  "@hapi/subtext": [
+    1,
+    [
+      "GHSA-4rgj-8mq3-hggj"
+    ]
+  ],
+  "handlebars-helpers": [
+    0,
+    []
+  ],
+  "stringify-object": [
+    0,
+    []
+  ],
+  "react-swipeable": [
+    0,
+    []
+  ],
+  "adbkit-monkey": [
+    0,
+    []
+  ],
+  "electron-is": [
+    0,
+    []
+  ],
+  "bcrypt-nodejs": [
+    0,
+    []
+  ],
+  "shush": [
+    0,
+    []
+  ],
+  "react-native-linear-gradient": [
+    0,
+    []
+  ],
+  "binary-search-tree": [
+    0,
+    []
+  ],
+  "@textcomplete/core": [
+    0,
+    []
+  ],
+  "joanna": [
+    0,
+    []
+  ],
+  "@hapi/teamwork": [
+    0,
+    []
+  ],
+  "is-xfce": [
+    0,
+    []
+  ],
+  "react-use": [
+    0,
+    []
+  ],
+  "user-home": [
+    0,
+    []
+  ],
+  "htmlescape": [
+    0,
+    []
+  ],
+  "jsdoc": [
+    0,
+    []
+  ],
+  "android-device-list": [
+    0,
+    []
+  ],
+  "blacklist": [
+    0,
+    []
+  ],
+  "jsan": [
+    0,
+    []
+  ],
+  "react-native-native-video-player": [
+    0,
+    []
+  ],
+  "@textcomplete/textarea": [
+    0,
+    []
+  ],
+  "license-extractor": [
+    0,
+    []
+  ],
+  "@google-cloud/trace-agent": [
+    0,
+    []
+  ],
+  "mdast-util-to-string": [
+    0,
+    []
+  ],
+  "rebound": [
+    0,
+    []
+  ],
+  "https-browserify": [
+    0,
+    []
+  ],
+  "@hapi/validate": [
+    0,
+    []
+  ],
+  "baseline-browser-mapping": [
+    0,
+    []
+  ],
+  "bufferutil": [
+    0,
+    []
+  ],
+  "react-json-tree": [
+    0,
+    []
+  ],
+  "react-native-photo-view": [
+    0,
+    []
+  ],
+  "load-grunt-parent-tasks": [
+    0,
+    []
+  ],
+  "ace-builds": [
+    0,
+    []
+  ],
+  "@parse/node-apn": [
+    0,
+    []
+  ],
+  "parse-diff": [
+    0,
+    []
+  ],
+  "brfs": [
+    0,
+    []
+  ],
+  "@lokesh.dhakar/quantize": [
+    0,
+    []
+  ],
+  "workerize-loader": [
+    0,
+    []
+  ],
+  "electron-to-chromium": [
+    0,
+    []
+  ],
+  "csurf": [
+    0,
+    []
+  ],
+  "react-native-push-notification": [
+    0,
+    []
+  ],
+  "inherits": [
+    0,
+    []
+  ],
+  "redux-devtools": [
+    0,
+    []
+  ],
+  "meta-marked": [
+    0,
+    []
+  ],
+  "benchpressjs": [
+    0,
+    []
+  ],
+  "@slack/webhook": [
+    0,
+    []
+  ],
+  "remark": [
+    0,
+    []
+  ],
+  "node-releases": [
+    0,
+    []
+  ],
+  "ndarray-pixels": [
+    0,
+    []
+  ],
+  "express-validator": [
+    0,
+    []
+  ],
+  "color-convert": [
+    2,
+    [
+      "GHSA-pxx3-g568-hxr4",
+      "MAL-2025-46971"
+    ]
+  ],
+  "react-native-tab-navigator": [
+    0,
+    []
+  ],
+  "insert-module-globals": [
+    0,
+    []
+  ],
+  "redux-devtools-instrument": [
+    0,
+    []
+  ],
+  "node-gyp": [
+    0,
+    []
+  ],
+  "browserify-shim": [
+    3,
+    [
+      "GHSA-866w-wm4h-95c6",
+      "GHSA-cfgr-75jx-h88g",
+      "GHSA-r737-347m-wqc7"
+    ]
+  ],
+  "amazon-payments": [
+    0,
+    []
+  ],
+  "update-browserslist-db": [
+    0,
+    []
+  ],
+  "bootbox": [
+    2,
+    [
+      "GHSA-87mg-h5r3-hw88",
+      "GHSA-m4ch-4m5f-2gp6"
+    ]
+  ],
+  "country-code-lookup": [
+    0,
+    []
+  ],
+  "@codekraft-studio/vue-record": [
+    0,
+    []
+  ],
+  "nanotimer": [
+    0,
+    []
+  ],
+  "remark-html": [
+    1,
+    [
+      "GHSA-9q5w-79cv-947m"
+    ]
+  ],
+  "react-relay": [
+    0,
+    []
+  ],
+  "gm": [
+    1,
+    [
+      "GHSA-pjh3-jv7w-9jpr"
+    ]
+  ],
+  "JSONStream": [
+    0,
+    []
+  ],
+  "caller-id": [
+    0,
+    []
+  ],
+  "targz": [
+    0,
+    []
+  ],
+  "remotedev-app": [
+    0,
+    []
+  ],
+  "amplitude": [
+    0,
+    []
+  ],
+  "bootswatch": [
+    0,
+    []
+  ],
+  "echarts": [
+    0,
+    []
+  ],
+  "postinstall-postinstall": [
+    0,
+    []
+  ],
+  "electron-settings": [
+    0,
+    []
+  ],
+  "temporal": [
+    0,
+    []
+  ],
+  "hipchatter": [
+    0,
+    []
+  ],
+  "labeled-stream-splicer": [
+    0,
+    []
+  ],
+  "remote-git-tags": [
+    0,
+    []
+  ],
+  "redux-logger": [
+    0,
+    []
+  ],
+  "apidoc": [
+    0,
+    []
+  ],
+  "remotedev-monitor-components": [
+    0,
+    []
+  ],
+  "world-atlas": [
+    0,
+    []
+  ],
+  "cli-graph": [
+    0,
+    []
+  ],
+  "nsfwjs": [
+    0,
+    []
+  ],
+  "in-publish": [
+    0,
+    []
+  ],
+  "redux-persist": [
+    0,
+    []
+  ],
+  "apple-auth": [
+    0,
+    []
+  ],
+  "remotedev-serialize": [
+    0,
+    []
+  ],
+  "@fluentui/react-component-event-listener": [
+    0,
+    []
+  ],
+  "stream": [
+    0,
+    []
+  ],
+  "jpeg-turbo": [
+    0,
+    []
+  ],
+  "relay-runtime": [
+    0,
+    []
+  ],
+  "babel-preset-env": [
+    0,
+    []
+  ],
+  "angular": [
+    14,
+    [
+      "GHSA-28hp-fgcr-2r4h",
+      "GHSA-2qqx-w9hr-q5gx",
+      "GHSA-2vrf-hf26-jrp5",
+      "GHSA-4w4v-5hc9-xrr2",
+      "GHSA-5cp4-xmrw-59wf",
+      "GHSA-89mq-4x47-5v83",
+      "GHSA-j58c-ww9w-pwp5",
+      "GHSA-m2h2-264f-f486",
+      "GHSA-m9gf-397r-hwpg",
+      "GHSA-mhp6-pxh8-r675",
+      "GHSA-mqm9-c95h-x2p6",
+      "GHSA-prc3-vjfx-vhm9",
+      "GHSA-qwqh-hm9m-p5hr",
+      "GHSA-r5fx-8r73-v86c"
+    ]
+  ],
+  "remotedev-slider": [
+    0,
+    []
+  ],
+  "@semantic-ui-react/event-stack": [
+    0,
+    []
+  ],
+  "v-click-outside": [
+    0,
+    []
+  ],
+  "cloudinary": [
+    1,
+    [
+      "GHSA-g4mf-96x5-5m2c"
+    ]
+  ],
+  "markdown-serve": [
+    0,
+    []
+  ],
+  "angular-loader": [
+    0,
+    []
+  ],
+  "@electerm/electerm-locales": [
+    0,
+    []
+  ],
+  "remotedev-utils": [
+    0,
+    []
+  ],
+  "keyboard-key": [
+    0,
+    []
+  ],
+  "bcrypt": [
+    1,
+    [
+      "GHSA-5wg4-74h6-q47v"
+    ]
+  ],
+  "us-atlas": [
+    0,
+    []
+  ],
+  "verte": [
+    0,
+    []
+  ],
+  "cloudinary-microurl": [
+    0,
+    []
+  ],
+  "angular-route": [
+    0,
+    []
+  ],
+  "linebreak": [
+    0,
+    []
+  ],
+  "@electerm/electerm-themes": [
+    0,
+    []
+  ],
+  "react-is": [
+    0,
+    []
+  ],
+  "display-name": [
+    0,
+    []
+  ],
+  "connect-pg-simple": [
+    1,
+    [
+      "GHSA-xqh8-5j36-4556"
+    ]
+  ],
+  "canonical-json": [
+    0,
+    []
+  ],
+  "html5-boilerplate": [
+    0,
+    []
+  ],
+  "@electerm/nedb": [
+    0,
+    []
+  ],
+  "scroller": [
+    0,
+    []
+  ],
+  "react-popper": [
+    0,
+    []
+  ],
+  "coupon-code": [
+    0,
+    []
+  ],
+  "dumb-passwords": [
+    0,
+    []
+  ],
+  "vue-apexcharts": [
+    0,
+    []
+  ],
+  "isemail": [
+    0,
+    []
+  ],
+  "connect-redis": [
+    0,
+    []
+  ],
+  "@electerm/rdpjs": [
+    0,
+    []
+  ],
+  "shallowequal": [
+    0,
+    []
+  ],
+  "csv-stringify": [
+    0,
+    []
+  ],
+  "loopback-connector-remote": [
+    0,
+    []
+  ],
+  "mkdirp-classic": [
+    0,
+    []
+  ],
+  "elemental": [
+    0,
+    []
+  ],
+  "run-sequence": [
+    0,
+    []
+  ],
+  "vue-chartjs": [
+    0,
+    []
+  ],
+  "minicap-prebuilt-beta": [
+    0,
+    []
+  ],
+  "@electerm/ssh2": [
+    0,
+    []
+  ],
+  "cron": [
+    0,
+    []
+  ],
+  "@mswjs/interceptors": [
+    0,
+    []
+  ],
+  "cwait": [
+    0,
+    []
+  ],
+  "loopback-datasource-juggler": [
+    0,
+    []
+  ],
+  "embedly": [
+    0,
+    []
+  ],
+  "unist-util-generated": [
+    0,
+    []
+  ],
+  "vue-click-outside": [
+    0,
+    []
+  ],
+  "module-deps": [
+    0,
+    []
+  ],
+  "minitouch-prebuilt-beta": [
+    0,
+    []
+  ],
+  "json": [
+    1,
+    [
+      "GHSA-3c6g-pvg8-gqw2"
+    ]
+  ],
+  "@electerm/strip-ansi": [
+    0,
+    []
+  ],
+  "domain-middleware": [
+    0,
+    []
+  ],
+  "cropperjs": [
+    0,
+    []
+  ],
+  "loopback-filters": [
+    0,
+    []
+  ],
+  "express-request-language": [
+    0,
+    []
+  ],
+  "vue-inline-svg": [
+    0,
+    []
+  ],
+  "@citeproc-rs/wasm": [
+    0,
+    []
+  ],
+  "diffie-hellman": [
+    0,
+    []
+  ],
+  "eslint-config-habitrpg": [
+    0,
+    []
+  ],
+  "my-local-ip": [
+    0,
+    []
+  ],
+  "daemon": [
+    0,
+    []
+  ],
+  "loopback-phase": [
+    0,
+    []
+  ],
+  "chromedriver": [
+    2,
+    [
+      "GHSA-hm92-vgmw-qfmx",
+      "GHSA-jh5w-6964-x5cf"
+    ]
+  ],
+  "@bull-board/express": [
+    0,
+    []
+  ],
+  "expression-match": [
+    0,
+    []
+  ],
+  "vue-spinner": [
+    0,
+    []
+  ],
+  "csl-validator-wasm": [
+    0,
+    []
+  ],
+  "electerm-sync": [
+    0,
+    []
+  ],
+  "express-useragent": [
+    0,
+    []
+  ],
+  "openid": [
+    0,
+    []
+  ],
+  "nodemailer-direct-transport": [
+    0,
+    []
+  ],
+  "eslint-plugin-mocha": [
+    0,
+    []
+  ],
+  "glamor": [
+    0,
+    []
+  ],
+  "@casl/ability": [
+    0,
+    []
+  ],
+  "vue-toast-notification": [
+    0,
+    []
+  ],
+  "proxy": [
+    1,
+    [
+      "GHSA-mj6p-3pc9-wf5m"
+    ]
+  ],
+  "monacopilot": [
+    0,
+    []
+  ],
+  "express-ws": [
+    0,
+    []
+  ],
+  "@patternfly/patternfly": [
+    0,
+    []
+  ],
+  "os-browserify": [
+    0,
+    []
+  ],
+  "file-loader": [
+    0,
+    []
+  ],
+  "nvm": [
+    0,
+    []
+  ],
+  "nodemailer-stub-transport": [
+    0,
+    []
+  ],
+  "grappling-hook": [
+    0,
+    []
+  ],
+  "passport-oauth2": [
+    1,
+    [
+      "GHSA-f794-r6xc-hf3v"
+    ]
+  ],
+  "firebase-admin": [
+    0,
+    []
+  ],
+  "vue-unicons": [
+    0,
+    []
+  ],
+  "gatsby": [
+    1,
+    [
+      "GHSA-c6f8-8r25-c4gc"
+    ]
+  ],
+  "@langchain/langgraph": [
+    0,
+    []
+  ],
+  "react-select": [
+    0,
+    []
+  ],
+  "rhea": [
+    0,
+    []
+  ],
+  "parents": [
+    0,
+    []
+  ],
+  "@patternfly/react-core": [
+    0,
+    []
+  ],
+  "find-free-port": [
+    0,
+    []
+  ],
+  "imagesloaded": [
+    0,
+    []
+  ],
+  "stable": [
+    0,
+    []
+  ],
+  "gulp-babel": [
+    0,
+    []
+  ],
+  "vue-web-cam": [
+    0,
+    []
+  ],
+  "gatsby-image": [
+    0,
+    []
+  ],
+  "greenlock-express": [
+    0,
+    []
+  ],
+  "passport-saml": [
+    3,
+    [
+      "GHSA-4mxg-3p6v-xgq3",
+      "GHSA-5379-r78w-42h2",
+      "GHSA-m974-647v-whv7"
+    ]
+  ],
+  "querystring-es3": [
+    0,
+    []
+  ],
+  "@node-saml/passport-saml": [
+    2,
+    [
+      "GHSA-4mxg-3p6v-xgq3",
+      "GHSA-m974-647v-whv7"
+    ]
+  ],
+  "xmlhttprequest": [
+    1,
+    [
+      "GHSA-h4j5-c7cj-74xg"
+    ]
+  ],
+  "font-list": [
+    0,
+    []
+  ],
+  "@patternfly/react-icons": [
+    0,
+    []
+  ],
+  "jquery-deserialize": [
+    0,
+    []
+  ],
+  "strong-globalize": [
+    0,
+    []
+  ],
+  "gulp-filter": [
+    0,
+    []
+  ],
+  "biased-opener": [
+    0,
+    []
+  ],
+  "please-update-dependencies": [
+    0,
+    []
+  ],
+  "gatsby-plugin-google-analytics": [
+    0,
+    []
+  ],
+  "read-only-stream": [
+    0,
+    []
+  ],
+  "amqplib": [
+    0,
+    []
+  ],
+  "i": [
+    1,
+    [
+      "GHSA-x55w-vjjp-222r"
+    ]
+  ],
+  "strong-remoting": [
+    0,
+    []
+  ],
+  "@patternfly/react-styles": [
+    0,
+    []
+  ],
+  "jquery-form": [
+    0,
+    []
+  ],
+  "path-is-absolute": [
+    0,
+    []
+  ],
+  "gist-wrapper": [
+    0,
+    []
+  ],
+  "gulp-imagemin": [
+    0,
+    []
+  ],
+  "shasum-object": [
+    0,
+    []
+  ],
+  "gatsby-plugin-manifest": [
+    0,
+    []
+  ],
+  "@discoveryjs/json-ext": [
+    0,
+    []
+  ],
+  "rethinkdb": [
+    0,
+    []
+  ],
+  "admin-lte": [
+    0,
+    []
+  ],
+  "keystone-storage-namefunctions": [
+    0,
+    []
+  ],
+  "@patternfly/react-table": [
+    0,
+    []
+  ],
+  "jquery-serializeobject": [
+    0,
+    []
+  ],
+  "uid2": [
+    0,
+    []
+  ],
+  "strong-data-uri": [
+    0,
+    []
+  ],
+  "gitee-client": [
+    0,
+    []
+  ],
+  "gulp.spritesmith": [
+    0,
+    []
+  ],
+  "stream-http": [
+    0,
+    []
+  ],
+  "gatsby-plugin-offline": [
+    0,
+    []
+  ],
+  "debounce": [
+    0,
+    []
+  ],
+  "split": [
+    0,
+    []
+  ],
+  "keystone-tinymce": [
+    0,
+    []
+  ],
+  "angular-animate": [
+    0,
+    []
+  ],
+  "@patternfly/react-tokens": [
+    0,
+    []
+  ],
+  "v8-debug": [
+    0,
+    []
+  ],
+  "json2csv": [
+    0,
+    []
+  ],
+  "json-deep-copy": [
+    0,
+    []
+  ],
+  "habitica-markdown": [
+    0,
+    []
+  ],
+  "underscore.string": [
+    1,
+    [
+      "GHSA-v2p6-4mp7-3r9v"
+    ]
+  ],
+  "string_decoder": [
+    0,
+    []
+  ],
+  "gatsby-plugin-postcss": [
+    0,
+    []
+  ],
+  "stf-appstore-db": [
+    0,
+    []
+  ],
+  "@d2-projects/vue-table-export": [
+    0,
+    []
+  ],
+  "@rudderstack/rudder-sdk-node": [
+    0,
+    []
+  ],
+  "angular-bittorrent-peerid": [
+    0,
+    []
+  ],
+  "keystone-utils": [
+    0,
+    []
+  ],
+  "v8-profiler": [
+    0,
+    []
+  ],
+  "logrotate-stream": [
+    0,
+    []
+  ],
+  "node-bash": [
+    0,
+    []
+  ],
+  "in-app-purchase": [
+    0,
+    []
+  ],
+  "es6-error": [
+    0,
+    []
+  ],
+  "subarg": [
+    0,
+    []
+  ],
+  "@d2-projects/vue-table-import": [
+    0,
+    []
+  ],
+  "@sentry/tracing": [
+    0,
+    []
+  ],
+  "stf-browser-db": [
+    0,
+    []
+  ],
+  "gatsby-plugin-react-helmet": [
+    0,
+    []
+  ],
+  "angular-busy": [
+    0,
+    []
+  ],
+  "knox-s3": [
+    0,
+    []
+  ],
+  "@segment/react-tiny-virtual-list": [
+    0,
+    []
+  ],
+  "nodebb-plugin-2factor": [
+    0,
+    []
+  ],
+  "node-pty": [
+    0,
+    []
+  ],
+  "js2xmlparser": [
+    0,
+    []
+  ],
+  "stf-device-db": [
+    0,
+    []
+  ],
+  "accounting": [
+    0,
+    []
+  ],
+  "syntax-error": [
+    1,
+    [
+      "GHSA-5726-g6r9-5f22"
+    ]
+  ],
+  "less-middleware": [
+    0,
+    []
+  ],
+  "fuzzaldrin-plus": [
+    0,
+    []
+  ],
+  "nodebb-plugin-composer-default": [
+    0,
+    []
+  ],
+  "os-locale-s": [
+    0,
+    []
+  ],
+  "gatsby-plugin-sharp": [
+    1,
+    [
+      "GHSA-h2pm-378c-pcxx"
+    ]
+  ],
+  "angular-clipboard": [
+    0,
+    []
+  ],
+  "timers-browserify": [
+    0,
+    []
+  ],
+  "list-to-array": [
+    0,
+    []
+  ],
+  "axios-mock-adapter": [
+    0,
+    []
+  ],
+  "nodebb-plugin-dbsearch": [
+    0,
+    []
+  ],
+  "humanize-plus": [
+    0,
+    []
+  ],
+  "method-override": [
+    1,
+    [
+      "GHSA-qx2f-477c-35rq"
+    ]
+  ],
+  "stf-syrup": [
+    0,
+    []
+  ],
+  "gatsby-source-filesystem": [
+    0,
+    []
+  ],
+  "serialport": [
+    0,
+    []
+  ],
+  "angular-cookies": [
+    0,
+    []
+  ],
+  "tty-browserify": [
+    0,
+    []
+  ],
+  "lodash.differencewith": [
+    0,
+    []
+  ],
+  "nodebb-plugin-emoji": [
+    0,
+    []
+  ],
+  "bullmq": [
+    0,
+    []
+  ],
+  "stf-wiki": [
+    0,
+    []
+  ],
+  "moment-recur": [
+    0,
+    []
+  ],
+  "gatsby-transformer-json": [
+    0,
+    []
+  ],
+  "socks": [
+    0,
+    []
+  ],
+  "util": [
+    0,
+    []
+  ],
+  "lodash.isempty": [
+    0,
+    []
+  ],
+  "esm-module-alias": [
+    0,
+    []
+  ],
+  "better-scroll": [
+    0,
+    []
+  ],
+  "nodebb-plugin-emoji-android": [
+    0,
+    []
+  ],
+  "socksv5-electron": [
+    0,
+    []
+  ],
+  "gatsby-transformer-sharp": [
+    0,
+    []
+  ],
+  "node-gcm": [
+    0,
+    []
+  ],
+  "vm-browserify": [
+    0,
+    []
+  ],
+  "clipboard-polyfill": [
+    0,
+    []
+  ],
+  "@fortawesome/fontawesome-pro": [
+    0,
+    []
+  ],
+  "dequal": [
+    0,
+    []
+  ],
+  "@lobehub/icons": [
+    0,
+    []
+  ],
+  "lodash.merge": [
+    2,
+    [
+      "GHSA-2m96-9w4j-wgv7",
+      "GHSA-h726-x36v-rx45"
+    ]
+  ],
+  "ssh-config": [
+    0,
+    []
+  ],
+  "react-bootstrap": [
+    0,
+    []
+  ],
+  "angular-input-dropdown": [
+    0,
+    []
+  ],
+  "isolated-vm": [
+    2,
+    [
+      "GHSA-2jjq-x548-rhpv",
+      "GHSA-mmhj-4w6j-76h7"
+    ]
+  ],
+  "passport-google-oauth2": [
+    0,
+    []
+  ],
+  "nodebb-plugin-markdown": [
+    1,
+    [
+      "GHSA-9g4f-5rpg-4948"
+    ]
+  ],
+  "xtend": [
+    0,
+    []
+  ],
+  "babel-polyfill": [
+    0,
+    []
+  ],
+  "throttle-debounce": [
+    0,
+    []
+  ],
+  "lodash.omit": [
+    0,
+    []
+  ],
+  "angular-local-storage": [
+    0,
+    []
+  ],
+  "libphonenumber-js": [
+    0,
+    []
+  ],
+  "react-star-rating-component": [
+    0,
+    []
+  ],
+  "passport-google-oauth20": [
+    0,
+    []
+  ],
+  "countup.js": [
+    0,
+    []
+  ],
+  "nodebb-plugin-mentions": [
+    0,
+    []
+  ],
+  "country-flag-icons": [
+    0,
+    []
+  ],
+  "babel": [
+    0,
+    []
+  ],
+  "babel-preset-es2015": [
+    0,
+    []
+  ],
+  "@xterm/xterm": [
+    0,
+    []
+  ],
+  "lodash.uniqby": [
+    0,
+    []
+  ],
+  "lodash.get": [
+    0,
+    []
+  ],
+  "angular-messages": [
+    0,
+    []
+  ],
+  "react-star-ratings": [
+    0,
+    []
+  ],
+  "nodebb-plugin-spam-be-gone": [
+    0,
+    []
+  ],
+  "babel-cli": [
+    0,
+    []
+  ],
+  "swagger-express-mw": [
+    0,
+    []
+  ],
+  "paypal-rest-sdk": [
+    0,
+    []
+  ],
+  "qrcode.react": [
+    0,
+    []
+  ],
+  "url-search-params-polyfill": [
+    0,
+    []
+  ],
+  "@xterm/addon-canvas": [
+    0,
+    []
+  ],
+  "faker": [
+    1,
+    [
+      "GHSA-5w9c-rv96-fr7g"
+    ]
+  ],
+  "ui-box": [
+    0,
+    []
+  ],
+  "babel-loader": [
+    0,
+    []
+  ],
+  "angular-moment": [
+    0,
+    []
+  ],
+  "node-html-markdown": [
+    0,
+    []
+  ],
+  "slugify": [
+    0,
+    []
+  ],
+  "babel-preset-stage-3": [
+    0,
+    []
+  ],
+  "nodebb-plugin-web-push": [
+    0,
+    []
+  ],
+  "swagger-tools": [
+    0,
+    []
+  ],
+  "rehype-highlight": [
+    0,
+    []
+  ],
+  "pp-ipn": [
+    0,
+    []
+  ],
+  "queryfilter": [
+    0,
+    []
+  ],
+  "v-viewer": [
+    0,
+    []
+  ],
+  "dateformat": [
+    0,
+    []
+  ],
+  "compute-scroll-into-view": [
+    0,
+    []
+  ],
+  "flex.css": [
+    0,
+    []
+  ],
+  "angular-promise-buttons": [
+    0,
+    []
+  ],
+  "oauth-1.0a": [
+    0,
+    []
+  ],
+  "babel-plugin-add-module-exports": [
+    0,
+    []
+  ],
+  "babel-register": [
+    0,
+    []
+  ],
+  "nodebb-rewards-essentials": [
+    0,
+    []
+  ],
+  "transliteration": [
+    0,
+    []
+  ],
+  "@icons/material": [
+    0,
+    []
+  ],
+  "rehype-katex": [
+    0,
+    []
+  ],
+  "ps-tree": [
+    0,
+    []
+  ],
+  "viewerjs": [
+    0,
+    []
+  ],
+  "exit": [
+    0,
+    []
+  ],
+  "hotkeys-js": [
+    0,
+    []
+  ],
+  "range_check": [
+    0,
+    []
+  ],
+  "airbnb-prop-types": [
+    0,
+    []
+  ],
+  "babel-plugin-transform-decorators-legacy": [
+    0,
+    []
+  ],
+  "material-colors": [
+    0,
+    []
+  ],
+  "captchapng": [
+    0,
+    []
+  ],
+  "remark-breaks": [
+    0,
+    []
+  ],
+  "nodebb-theme-harmony": [
+    0,
+    []
+  ],
+  "utf-8-validate": [
+    0,
+    []
+  ],
+  "objection": [
+    1,
+    [
+      "GHSA-r659-8xfp-j327"
+    ]
+  ],
+  "angular-sanitize": [
+    1,
+    [
+      "GHSA-4p4w-6hg8-63wx"
+    ]
+  ],
+  "short-uuid": [
+    0,
+    []
+  ],
+  "react-addons-css-transition-group": [
+    0,
+    []
+  ],
+  "vue-text-highlight": [
+    0,
+    []
+  ],
+  "grunt-known-options": [
+    0,
+    []
+  ],
+  "color2k": [
+    0,
+    []
+  ],
+  "babel-plugin-transform-react-display-name": [
+    0,
+    []
+  ],
+  "quill": [
+    2,
+    [
+      "GHSA-4943-9vgg-gr5r",
+      "GHSA-588m-9qg5-35pq"
+    ]
+  ],
+  "nodebb-theme-lavender": [
+    0,
+    []
+  ],
+  "use-debounce": [
+    0,
+    []
+  ],
+  "zmq": [
+    0,
+    []
+  ],
+  "angular-sweetalert": [
+    0,
+    []
+  ],
+  "xmlrpc": [
+    0,
+    []
+  ],
+  "connect-history-api-fallback": [
+    0,
+    []
+  ],
+  "reactcss": [
+    0,
+    []
+  ],
+  "vuedraggable": [
+    0,
+    []
+  ],
+  "react-alt-text": [
+    0,
+    []
+  ],
+  "grunt-legacy-log": [
+    0,
+    []
+  ],
+  "consolidated-events": [
+    0,
+    []
+  ],
+  "useragent": [
+    2,
+    [
+      "GHSA-mgfv-m47x-4wqp",
+      "GHSA-pjmx-9xr3-82qr"
+    ]
+  ],
+  "babel-plugin-transform-runtime": [
+    0,
+    []
+  ],
+  "nodebb-theme-peace": [
+    0,
+    []
+  ],
+  "fast-levenshtein": [
+    0,
+    []
+  ],
+  "angular-touch": [
+    0,
+    []
+  ],
+  "zod-to-json-schema": [
+    0,
+    []
+  ],
+  "qiniu": [
+    0,
+    []
+  ],
+  "alt": [
+    0,
+    []
+  ],
+  "@types/rbush": [
+    0,
+    []
+  ],
+  "vant": [
+    1,
+    [
+      "GHSA-9xr8-8hmc-389f"
+    ]
+  ],
+  "watermark-dom": [
+    0,
+    []
+  ],
+  "grunt-legacy-util": [
+    0,
+    []
+  ],
+  "react-domify": [
+    0,
+    []
+  ],
+  "enzyme-shallow-equal": [
+    0,
+    []
+  ],
+  "babel-preset-react": [
+    0,
+    []
+  ],
+  "nodebb-theme-persona": [
+    0,
+    []
+  ],
+  "time-formater": [
+    0,
+    []
+  ],
+  "ansi-to-html": [
+    0,
+    []
+  ],
+  "angular-translate": [
+    0,
+    []
+  ],
+  "winston-loggly-bulk": [
+    0,
+    []
+  ],
+  "earcut": [
+    0,
+    []
+  ],
+  "pdfkit": [
+    0,
+    []
+  ],
+  "loader-utils": [
+    3,
+    [
+      "GHSA-3rfm-jhwj-7488",
+      "GHSA-76p3-8jx3-jpfq",
+      "GHSA-hhq3-ff78-jv3g"
+    ]
+  ],
+  "jmespath": [
+    0,
+    []
+  ],
+  "vue-grid-layout": [
+    0,
+    []
+  ],
+  "swagger-ui-dist": [
+    2,
+    [
+      "GHSA-6c9x-mj3g-h47x",
+      "GHSA-qrmm-w75w-3wpx"
+    ]
+  ],
+  "is-touch-device": [
+    0,
+    []
+  ],
+  "babel-preset-stage-0": [
+    0,
+    []
+  ],
+  "nodebb-widget-essentials": [
+    0,
+    []
+  ],
+  "time-stamp": [
+    0,
+    []
+  ],
+  "any-promise": [
+    0,
+    []
+  ],
+  "geotiff": [
+    0,
+    []
+  ],
+  "vfile-matter": [
+    0,
+    []
+  ],
+  "react-images": [
+    0,
+    []
+  ],
+  "feather-icons": [
+    0,
+    []
+  ],
+  "xmldoc": [
+    0,
+    []
+  ],
+  "angular-ui-notification": [
+    1,
+    [
+      "GHSA-mrcj-5qxr-vhp2"
+    ]
+  ],
+  "vitepress-openapi": [
+    0,
+    []
+  ],
+  "vue-json-tree-view": [
+    0,
+    []
+  ],
+  "json-source-map": [
+    0,
+    []
+  ],
+  "object.assign": [
+    0,
+    []
+  ],
+  "less": [
+    0,
+    []
+  ],
+  "@ffmpeg/ffmpeg": [
+    0,
+    []
+  ],
+  "pg-cursor": [
+    0,
+    []
+  ],
+  "bugsnag-js": [
+    0,
+    []
+  ],
+  "pbf": [
+    0,
+    []
+  ],
+  "focus-visible": [
+    0,
+    []
+  ],
+  "angular-utf8-base64": [
+    0,
+    []
+  ],
+  "micro": [
+    0,
+    []
+  ],
+  "vue-splitpane": [
+    0,
+    []
+  ],
+  "object.values": [
+    0,
+    []
+  ],
+  "less-loader": [
+    0,
+    []
+  ],
+  "picomodal": [
+    0,
+    []
+  ],
+  "postcss-clean": [
+    0,
+    []
+  ],
+  "@mlc-ai/web-llm": [
+    0,
+    []
+  ],
+  "rbush": [
+    0,
+    []
+  ],
+  "cached-request": [
+    0,
+    []
+  ],
+  "angular-websocket": [
+    0,
+    []
+  ],
+  "@casl/react": [
+    0,
+    []
+  ],
+  "vue-ueditor-wrap": [
+    0,
+    []
+  ],
+  "hyperapp": [
+    0,
+    []
+  ],
+  "lru-memoize": [
+    0,
+    []
+  ],
+  "vanilla-picker": [
+    0,
+    []
+  ],
+  "react-moment-proptypes": [
+    0,
+    []
+  ],
+  "pretty": [
+    0,
+    []
+  ],
+  "@monaco-editor/loader": [
+    0,
+    []
+  ],
+  "browser-split": [
+    0,
+    []
+  ],
+  "@hookform/resolvers": [
+    0,
+    []
+  ],
+  "markdown-builder": [
+    0,
+    []
+  ],
+  "angularjs-dragula": [
+    0,
+    []
+  ],
+  "bl": [
+    2,
+    [
+      "GHSA-pp7h-53gx-mx7r",
+      "GHSA-wrw9-m778-g6mc"
+    ]
+  ],
+  "map-props": [
+    0,
+    []
+  ],
+  "react-outside-click-handler": [
+    0,
+    []
+  ],
+  "progress-webpack-plugin": [
+    0,
+    []
+  ],
+  "@types/webxr": [
+    0,
+    []
+  ],
+  "braces": [
+    3,
+    [
+      "GHSA-cwfw-4gq5-mrqx",
+      "GHSA-g95f-p29q-9xw4",
+      "GHSA-grv7-fg5c-xmjg"
+    ]
+  ],
+  "@panzoom/panzoom": [
+    0,
+    []
+  ],
+  "error": [
+    0,
+    []
+  ],
+  "@mui/joy": [
+    0,
+    []
+  ],
+  "tinymce": [
+    16,
+    [
+      "GHSA-27gm-ghr9-4v95",
+      "GHSA-438c-3975-5x3f",
+      "GHSA-5359-pvf2-pw78",
+      "GHSA-5h9g-x5rv-25wg",
+      "GHSA-5vm8-hhgr-jcjp",
+      "GHSA-9hcv-j9pv-qmph",
+      "GHSA-c78w-2gw7-gjv3",
+      "GHSA-gg8r-xjwq-4w92",
+      "GHSA-h96f-fc7c-9r55",
+      "GHSA-hgqx-r2hp-jr38",
+      "GHSA-r8hm-w5f7-wj39",
+      "GHSA-v626-r774-j7f8",
+      "GHSA-v65r-p3vv-jjfv",
+      "GHSA-vrv8-v4w8-f95h",
+      "GHSA-w7jx-j77m-wp65",
+      "GHSA-w9jx-4g6g-rp7x"
+    ]
+  ],
+  "modern-normalize": [
+    0,
+    []
+  ],
+  "multireducer": [
+    0,
+    []
+  ],
+  "install": [
+    0,
+    []
+  ],
+  "awesome-bootstrap-checkbox": [
+    0,
+    []
+  ],
+  "@webgpu/types": [
+    0,
+    []
+  ],
+  "di": [
+    0,
+    []
+  ],
+  "react-portal": [
+    0,
+    []
+  ],
+  "rss": [
+    0,
+    []
+  ],
+  "@prettier/plugin-xml": [
+    0,
+    []
+  ],
+  "ev-store": [
+    0,
+    []
+  ],
+  "@xyflow/react": [
+    0,
+    []
+  ],
+  "scmp": [
+    0,
+    []
+  ],
+  "prettier-eslint": [
+    0,
+    []
+  ],
+  "piping": [
+    0,
+    []
+  ],
+  "mixpanel": [
+    0,
+    []
+  ],
+  "bootstrap-contextmenu": [
+    0,
+    []
+  ],
+  "dom-serialize": [
+    0,
+    []
+  ],
+  "react-with-direction": [
+    0,
+    []
+  ],
+  "rtlcss": [
+    0,
+    []
+  ],
+  "@wasmer/wasm-transformer": [
+    0,
+    []
+  ],
+  "is-object": [
+    0,
+    []
+  ],
+  "clipboard-copy": [
+    0,
+    []
+  ],
+  "string-to-stream": [
+    0,
+    []
+  ],
+  "react-inline-css": [
+    0,
+    []
+  ],
+  "jquery-slimscroll": [
+    0,
+    []
+  ],
+  "react-with-styles": [
+    0,
+    []
+  ],
+  "isbinaryfile": [
+    0,
+    []
+  ],
+  "satori": [
+    0,
+    []
+  ],
+  "ani-cursor": [
+    0,
+    []
+  ],
+  "elkjs": [
+    0,
+    []
+  ],
+  "node-uuid": [
+    1,
+    [
+      "GHSA-265q-28rp-chq5"
+    ]
+  ],
+  "vkey": [
+    0,
+    []
+  ],
+  "next-tick": [
+    0,
+    []
+  ],
+  "react-with-styles-interface-css": [
+    0,
+    []
+  ],
+  "sweetalert": [
+    0,
+    []
+  ],
+  "react-router-bootstrap": [
+    0,
+    []
+  ],
+  "sbd": [
+    0,
+    []
+  ],
+  "osx-release": [
+    0,
+    []
+  ],
+  "browserfs": [
+    0,
+    []
+  ],
+  "log4js": [
+    1,
+    [
+      "GHSA-82v2-mx6x-wq7q"
+    ]
+  ],
+  "mui-color-input": [
+    0,
+    []
+  ],
+  "watchify": [
+    0,
+    []
+  ],
+  "x-is-array": [
+    0,
+    []
+  ],
+  "redux-async-connect": [
+    0,
+    []
+  ],
+  "parseUri": [
+    0,
+    []
+  ],
+  "sitemap": [
+    0,
+    []
+  ],
+  "react-hook-form": [
+    0,
+    []
+  ],
+  "butterchurn-presets": [
+    0,
+    []
+  ],
+  "xhr": [
+    0,
+    []
+  ],
+  "x-is-string": [
+    0,
+    []
+  ],
+  "qjobs": [
+    0,
+    []
+  ],
+  "redux-form": [
+    0,
+    []
+  ],
+  "@socket.io/redis-adapter": [
+    0,
+    []
+  ],
+  "react-retina-image": [
+    0,
+    []
+  ],
+  "slate": [
+    0,
+    []
+  ],
+  "canvas-confetti": [
+    0,
+    []
+  ],
+  "scroll-behavior": [
+    0,
+    []
+  ],
+  "spdx-license-list": [
+    0,
+    []
+  ],
+  "slate-history": [
+    0,
+    []
+  ],
+  "decode-ico": [
+    0,
+    []
+  ],
+  "textcomplete": [
+    0,
+    []
+  ],
+  "slate-react": [
+    0,
+    []
+  ],
+  "exif-js": [
+    0,
+    []
+  ],
+  "textcomplete.contenteditable": [
+    0,
+    []
+  ],
+  "isomorphic-git": [
+    1,
+    [
+      "GHSA-fgxq-p49f-qw99"
+    ]
+  ],
+  "timeago": [
+    0,
+    []
+  ],
+  "url-loader": [
+    0,
+    []
+  ],
+  "libheif-js": [
+    0,
+    []
+  ],
+  "tinycon": [
+    0,
+    []
+  ],
+  "violet-paginator": [
+    0,
+    []
+  ],
+  "mediainfo.js": [
+    0,
+    []
+  ],
+  "toobusy-js": [
+    0,
+    []
+  ],
+  "warning": [
+    0,
+    []
+  ],
+  "multiformats": [
+    0,
+    []
+  ],
+  "webpack-merge": [
+    0,
+    []
+  ],
+  "webpack-isomorphic-tools": [
+    0,
+    []
+  ],
+  "zxcvbn": [
+    0,
+    []
+  ],
+  "music-metadata-browser": [
+    0,
+    []
+  ],
+  "opentype.js": [
+    0,
+    []
+  ],
+  "playlist-parser": [
+    0,
+    []
+  ],
+  "web-vitals": [
+    0,
+    []
+  ],
+  "print-js": [
+    0,
+    []
+  ],
+  "@reduxjs/toolkit": [
+    0,
+    []
+  ],
+  "quickjs-emscripten": [
+    0,
+    []
+  ],
+  "@tinymce/tinymce-react": [
+    0,
+    []
+  ],
+  "resedit": [
+    0,
+    []
+  ],
+  "appwrite": [
+    0,
+    []
+  ],
+  "rtf.js": [
+    0,
+    []
+  ],
+  "utif": [
+    0,
+    []
+  ],
+  "bindings": [
+    0,
+    []
+  ],
+  "wasi-js": [
+    0,
+    []
+  ],
+  "node-addon-api": [
+    0,
+    []
+  ],
+  "source-map-js": [
+    0,
+    []
+  ],
+  "@vue/shared": [
+    0,
+    []
+  ],
+  "negotiator": [
+    1,
+    [
+      "GHSA-7mc5-chhp-fmc3"
+    ]
+  ],
+  "asynckit": [
+    0,
+    []
+  ],
+  "util-deprecate": [
+    0,
+    []
+  ],
+  "buffer-alloc-unsafe": [
+    0,
+    []
+  ],
+  "fbr": [
+    0,
+    []
+  ],
+  "buffer-fill": [
+    0,
+    []
+  ],
+  "websocket": [
+    0,
+    []
+  ],
+  "ylru": [
+    0,
+    []
+  ],
+  "node-static": [
+    2,
+    [
+      "GHSA-5g97-whc9-8g7j",
+      "GHSA-8r4g-cg4m-x23c"
+    ]
+  ],
+  "color-name": [
+    2,
+    [
+      "GHSA-5fvm-p68v-5wmh",
+      "MAL-2025-46972"
+    ]
+  ],
+  "canvas-designer": [
+    0,
+    []
+  ],
+  "is-fullwidth-code-point": [
+    0,
+    []
+  ],
+  "ansi-regex": [
+    2,
+    [
+      "GHSA-93q8-gq69-wqmw",
+      "MAL-2025-46966"
+    ]
+  ],
+  "detectrtc": [
+    0,
+    []
+  ],
+  "mimic-response": [
+    0,
+    []
+  ],
+  "getstats": [
+    0,
+    []
+  ],
+  "delayed-stream": [
+    0,
+    []
+  ],
+  "keygrip": [
+    0,
+    []
+  ],
+  "multistreamsmixer": [
+    0,
+    []
+  ],
+  "recordrtc": [
+    0,
+    []
+  ],
+  "locate-path": [
+    0,
+    []
+  ],
+  "shell-path": [
+    0,
+    []
+  ],
+  "rtcmulticonnection-server": [
+    0,
+    []
+  ],
+  "jsonfile": [
+    0,
+    []
+  ],
+  "webrtc-adapter": [
+    0,
+    []
+  ],
+  "reliable-signaler": [
+    0,
+    []
+  ],
+  "universalify": [
+    0,
+    []
+  ],
+  "defer-to-connect": [
+    0,
+    []
+  ],
+  "clone-response": [
+    0,
+    []
+  ],
+  "http-cache-semantics": [
+    1,
+    [
+      "GHSA-rc47-6667-2j5j"
+    ]
+  ],
+  "keyv": [
+    0,
+    []
+  ],
+  "lowercase-keys": [
+    0,
+    []
+  ],
+  "responselike": [
+    0,
+    []
+  ],
+  "json-buffer": [
+    0,
+    []
+  ],
+  "@sindresorhus/is": [
+    0,
+    []
+  ],
+  "@szmarczak/http-timer": [
+    0,
+    []
+  ],
+  "cacheable-request": [
+    0,
+    []
+  ],
+  "decompress-response": [
+    0,
+    []
+  ],
+  "duplexer3": [
+    0,
+    []
+  ],
+  "p-cancelable": [
+    0,
+    []
+  ],
+  "to-readable-stream": [
+    0,
+    []
+  ],
+  "url-parse-lax": [
+    0,
+    []
+  ],
+  "setprototypeof": [
+    0,
+    []
+  ],
+  "toidentifier": [
+    0,
+    []
+  ],
+  "tsscmp": [
+    0,
+    []
+  ],
+  "ee-first": [
+    0,
+    []
+  ],
+  "cache-content-type": [
+    0,
+    []
+  ],
+  "is-generator-function": [
+    0,
+    []
+  ],
+  "koa-convert": [
+    0,
+    []
+  ],
+  "only": [
+    0,
+    []
+  ],
+  "p-locate": [
+    0,
+    []
+  ],
+  "path-exists": [
+    0,
+    []
+  ],
+  "pseudomap": [
+    0,
+    []
+  ],
+  "yallist": [
+    0,
+    []
+  ],
+  "mime-db": [
+    0,
+    []
+  ],
+  "thenify-all": [
+    0,
+    []
+  ],
+  "wrappy": [
+    0,
+    []
+  ],
+  "pinkie": [
+    0,
+    []
+  ],
+  "end-of-stream": [
+    0,
+    []
+  ],
+  "buffer-alloc": [
+    0,
+    []
+  ],
+  "buffer-from": [
+    0,
+    []
+  ],
+  "dijkstrajs": [
+    0,
+    []
+  ],
+  "isarray": [
+    0,
+    []
+  ],
+  "mz": [
+    0,
+    []
+  ],
+  "npm-run-path": [
+    0,
+    []
+  ],
+  "p-finally": [
+    0,
+    []
+  ],
+  "strip-eof": [
+    0,
+    []
+  ],
+  "pinkie-promise": [
+    0,
+    []
+  ],
+  "path-key": [
+    0,
+    []
+  ],
+  "default-shell": [
+    0,
+    []
+  ],
+  "shell-env": [
+    0,
+    []
+  ],
+  "fs-constants": [
+    0,
+    []
+  ],
+  "thenify": [
+    1,
+    [
+      "GHSA-29xr-v42j-r956"
+    ]
+  ],
+  "prepend-http": [
+    0,
+    []
+  ],
+  "@vue/compiler-sfc": [
+    0,
+    []
+  ],
+  "csstype": [
+    0,
+    []
+  ],
+  "isexe": [
+    0,
+    []
+  ],
+  "cliui": [
+    0,
+    []
+  ],
+  "get-caller-file": [
+    0,
+    []
+  ],
+  "require-directory": [
+    0,
+    []
+  ],
+  "require-main-filename": [
+    0,
+    []
+  ],
+  "set-blocking": [
+    0,
+    []
+  ],
+  "which-module": [
+    0,
+    []
+  ],
+  "y18n": [
+    1,
+    [
+      "GHSA-c4w7-xm78-47vh"
+    ]
+  ],
+  "@fndroid/network-interface": [
+    0,
+    []
+  ],
+  "@vscode/sudo-prompt": [
+    0,
+    []
+  ],
+  "@vue/reactivity": [
+    0,
+    []
+  ],
+  "dhcp": [
+    0,
+    []
+  ],
+  "electron-window-bounds": [
+    0,
+    []
+  ],
+  "fix-path": [
+    0,
+    []
+  ],
+  "node-diff3": [
+    0,
+    []
+  ],
+  "original-fs": [
+    0,
+    []
+  ],
+  "qrcode": [
+    0,
+    []
+  ],
+  "read-last-lines": [
+    0,
+    []
+  ],
+  "tunnel": [
+    0,
+    []
+  ],
+  "unix-cron": [
+    0,
+    []
+  ],
+  "velocity-animate": [
+    0,
+    []
+  ],
+  "@isaacs/brace-expansion": [
+    0,
+    []
+  ],
+  "@isaacs/balanced-match": [
+    0,
+    []
+  ],
+  "eastasianwidth": [
+    0,
+    []
+  ],
+  "string-width-cjs": [
+    0,
+    []
+  ],
+  "strip-ansi-cjs": [
+    0,
+    []
+  ],
+  "wrap-ansi-cjs": [
+    0,
+    []
+  ],
+  "minipass": [
+    0,
+    []
+  ],
+  "agent-base": [
+    0,
+    []
+  ],
+  "@isaacs/string-locale-compare": [
+    0,
+    []
+  ],
+  "@npmcli/fs": [
+    0,
+    []
+  ],
+  "@npmcli/installed-package-contents": [
+    0,
+    []
+  ],
+  "@npmcli/map-workspaces": [
+    0,
+    []
+  ],
+  "@npmcli/metavuln-calculator": [
+    0,
+    []
+  ],
+  "@npmcli/name-from-folder": [
+    0,
+    []
+  ],
+  "@npmcli/node-gyp": [
+    0,
+    []
+  ],
+  "@npmcli/package-json": [
+    0,
+    []
+  ],
+  "@npmcli/query": [
+    0,
+    []
+  ],
+  "@npmcli/redact": [
+    0,
+    []
+  ],
+  "@npmcli/run-script": [
+    0,
+    []
+  ],
+  "bin-links": [
+    3,
+    [
+      "GHSA-2mj8-pj3j-h362",
+      "GHSA-gqf6-75v8-vr26",
+      "GHSA-v45m-2wcp-gg98"
+    ]
+  ],
+  "cacache": [
+    0,
+    []
+  ],
+  "common-ancestor-path": [
+    0,
+    []
+  ],
+  "json-stringify-nice": [
+    0,
+    []
+  ],
+  "npm-install-checks": [
+    0,
+    []
+  ],
+  "npm-package-arg": [
+    0,
+    []
+  ],
+  "npm-pick-manifest": [
+    0,
+    []
+  ],
+  "npm-registry-fetch": [
+    1,
+    [
+      "GHSA-jmqm-f2gx-4fjv"
+    ]
+  ],
+  "pacote": [
+    0,
+    []
+  ],
+  "parse-conflict-json": [
+    0,
+    []
+  ],
+  "proc-log": [
+    0,
+    []
+  ],
+  "proggy": [
+    0,
+    []
+  ],
+  "promise-all-reject-late": [
+    0,
+    []
+  ],
+  "promise-call-limit": [
+    0,
+    []
+  ],
+  "treeverse": [
+    0,
+    []
+  ],
+  "walk-up-path": [
+    0,
+    []
+  ],
+  "@npmcli/promise-spawn": [
+    0,
+    []
+  ],
+  "promise-retry": [
+    0,
+    []
+  ],
+  "npm-bundled": [
+    0,
+    []
+  ],
+  "npm-normalize-package-bin": [
+    0,
+    []
+  ],
+  "@npmcli/git": [
+    1,
+    [
+      "GHSA-hxwm-x553-x359"
+    ]
+  ],
+  "@sigstore/protobuf-specs": [
+    0,
+    []
+  ],
+  "@sigstore/bundle": [
+    0,
+    []
+  ],
+  "@sigstore/core": [
+    0,
+    []
+  ],
+  "make-fetch-happen": [
+    0,
+    []
+  ],
+  "tuf-js": [
+    0,
+    []
+  ],
+  "brace-expansion": [
+    2,
+    [
+      "GHSA-832h-xg76-4gv6",
+      "GHSA-v6h2-p8h4-qcjw"
+    ]
+  ],
+  "@tufjs/canonical-json": [
+    0,
+    []
+  ],
+  "cmd-shim": [
+    0,
+    []
+  ],
+  "read-cmd-shim": [
+    0,
+    []
+  ],
+  "balanced-match": [
+    0,
+    []
+  ],
+  "fs-minipass": [
+    0,
+    []
+  ],
+  "minipass-collect": [
+    0,
+    []
+  ],
+  "minipass-flush": [
+    0,
+    []
+  ],
+  "minipass-pipeline": [
+    0,
+    []
+  ],
+  "unique-filename": [
+    0,
+    []
+  ],
+  "shebang-command": [
+    0,
+    []
+  ],
+  "foreground-child": [
+    0,
+    []
+  ],
+  "jackspeak": [
+    0,
+    []
+  ],
+  "package-json-from-dist": [
+    0,
+    []
+  ],
+  "path-scurry": [
+    0,
+    []
+  ],
+  "safer-buffer": [
+    0,
+    []
+  ],
+  "promzard": [
+    0,
+    []
+  ],
+  "validate-npm-package-name": [
+    0,
+    []
+  ],
+  "cidr-regex": [
+    0,
+    []
+  ],
+  "@isaacs/cliui": [
+    0,
+    []
+  ],
+  "@npmcli/arborist": [
+    2,
+    [
+      "GHSA-2h3h-q99f-3fhc",
+      "GHSA-gmw6-94gg-2rc2"
+    ]
+  ],
+  "binary-extensions": [
+    0,
+    []
+  ],
+  "aproba": [
+    0,
+    []
+  ],
+  "sigstore": [
+    0,
+    []
+  ],
+  "@npmcli/agent": [
+    0,
+    []
+  ],
+  "minipass-fetch": [
+    0,
+    []
+  ],
+  "minipass-sized": [
+    0,
+    []
+  ],
+  "exponential-backoff": [
+    0,
+    []
+  ],
+  "ignore-walk": [
+    0,
+    []
+  ],
+  "jsonparse": [
+    0,
+    []
+  ],
+  "npm-packlist": [
+    0,
+    []
+  ],
+  "just-diff": [
+    0,
+    []
+  ],
+  "just-diff-apply": [
+    0,
+    []
+  ],
+  "cssesc": [
+    0,
+    []
+  ],
+  "err-code": [
+    0,
+    []
+  ],
+  "mute-stream": [
+    0,
+    []
+  ],
+  "shebang-regex": [
+    0,
+    []
+  ],
+  "@sigstore/sign": [
+    0,
+    []
+  ],
+  "@sigstore/tuf": [
+    0,
+    []
+  ],
+  "@sigstore/verify": [
+    0,
+    []
+  ],
+  "ip-address": [
+    0,
+    []
+  ],
+  "smart-buffer": [
+    0,
+    []
+  ],
+  "spdx-exceptions": [
+    0,
+    []
+  ],
+  "spdx-license-ids": [
+    0,
+    []
+  ],
+  "spdx-expression-parse": [
+    0,
+    []
+  ],
+  "@isaacs/fs-minipass": [
+    0,
+    []
+  ],
+  "chownr": [
+    1,
+    [
+      "GHSA-c6rq-rjc2-86v2"
+    ]
+  ],
+  "fdir": [
+    0,
+    []
+  ],
+  "@tufjs/models": [
+    0,
+    []
+  ],
+  "spdx-correct": [
+    0,
+    []
+  ],
+  "@npmcli/config": [
+    0,
+    []
+  ],
+  "cli-columns": [
+    0,
+    []
+  ],
+  "init-package-json": [
+    0,
+    []
+  ],
+  "is-cidr": [
+    0,
+    []
+  ],
+  "libnpmaccess": [
+    0,
+    []
+  ],
+  "libnpmdiff": [
+    0,
+    []
+  ],
+  "libnpmexec": [
+    0,
+    []
+  ],
+  "libnpmfund": [
+    0,
+    []
+  ],
+  "libnpmorg": [
+    0,
+    []
+  ],
+  "libnpmpack": [
+    0,
+    []
+  ],
+  "libnpmpublish": [
+    0,
+    []
+  ],
+  "libnpmsearch": [
+    0,
+    []
+  ],
+  "libnpmteam": [
+    0,
+    []
+  ],
+  "libnpmversion": [
+    0,
+    []
+  ],
+  "npm-audit-report": [
+    0,
+    []
+  ],
+  "npm-profile": [
+    0,
+    []
+  ],
+  "npm-user-validate": [
+    2,
+    [
+      "GHSA-pw54-mh39-w3hc",
+      "GHSA-xgh6-85xh-479p"
+    ]
+  ],
+  "qrcode-terminal": [
+    0,
+    []
+  ],
+  "text-table": [
+    0,
+    []
+  ],
+  "tiny-relative-date": [
+    0,
+    []
+  ],
+  "dir-compare": [
+    0,
+    []
+  ],
+  "globals": [
+    0,
+    []
+  ],
+  "tempfile": [
+    0,
+    []
+  ],
+  "tempy": [
+    0,
+    []
+  ],
+  "local-web-server": [
+    0,
+    []
+  ],
+  "@types/d3": [
+    0,
+    []
+  ],
+  "rollup-plugin-node-resolve": [
+    0,
+    []
+  ],
+  "rollup-plugin-typescript2": [
+    0,
+    []
+  ],
+  "asn1.js": [
+    0,
+    []
+  ],
+  "asn1.js-rfc5280": [
+    0,
+    []
+  ],
+  "postject": [
+    0,
+    []
+  ],
+  "clang-format": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-import-attributes": [
+    0,
+    []
+  ],
+  "@babel/plugin-syntax-import-source": [
+    0,
+    []
+  ],
+  "@babel/plugin-proposal-explicit-resource-management": [
+    0,
+    []
+  ],
+  "@stylistic/eslint-plugin": [
+    0,
+    []
+  ],
+  "eslint-formatter-tap": [
+    0,
+    []
+  ],
+  "eslint-plugin-jsdoc": [
+    0,
+    []
+  ],
+  "eslint-plugin-markdown": [
+    0,
+    []
+  ],
+  "remark-preset-lint-node": [
+    0,
+    []
+  ],
+  "remark-stringify": [
+    0,
+    []
+  ],
+  "to-vfile": [
+    0,
+    []
+  ],
+  "vfile-reporter": [
+    0,
+    []
+  ],
+  "version": [
+    0,
+    []
+  ],
+  "description": [
+    0,
+    []
+  ],
+  "author": [
+    0,
+    []
+  ],
+  "canvas": [
+    2,
+    [
+      "GHSA-73rg-x683-m3qw",
+      "GHSA-vpq5-4rc8-c222"
+    ]
+  ],
+  "test": [
+    0,
+    []
+  ],
+  "cfonts": [
+    0,
+    []
+  ],
+  "lint": [
+    0,
+    []
+  ],
+  "pack-dxt": [
+    0,
+    []
+  ],
+  "test:accessibility": [
+    0,
+    []
+  ],
+  "vite": [
+    16,
+    [
+      "GHSA-353f-5xf4-qw67",
+      "GHSA-356w-63v5-8wf4",
+      "GHSA-4r4m-qw57-chr8",
+      "GHSA-64vr-g452-qvp3",
+      "GHSA-859w-5945-r5v3",
+      "GHSA-8jhw-289h-jh2g",
+      "GHSA-92r3-m2mg-pj97",
+      "GHSA-93m4-6634-74q7",
+      "GHSA-9cwx-2883-4wfx",
+      "GHSA-c24v-8rfc-w8vw",
+      "GHSA-g4jq-h2w9-997c",
+      "GHSA-jqfw-vq24-v9c3",
+      "GHSA-mv48-hcvh-8jj8",
+      "GHSA-vg6x-rcgg-rjx6",
+      "GHSA-x574-m823-4x7w",
+      "GHSA-xcj6-pq6g-qj4x"
+    ]
+  ],
+  "vitest": [
+    1,
+    [
+      "GHSA-9crc-q9x8-hgqq"
+    ]
+  ],
+  "test:i18n-packs": [
+    0,
+    []
+  ],
+  "ci:test:only": [
+    0,
+    []
+  ],
+  "docs:build": [
+    0,
+    []
+  ],
+  "depcheck": [
+    0,
+    []
+  ],
+  "lint:fix": [
+    0,
+    []
+  ],
+  "main": [
+    0,
+    []
+  ],
+  "teen_process": [
+    0,
+    []
+  ],
+  "format": [
+    0,
+    []
+  ],
+  "karma-firefox-launcher": [
+    0,
+    []
+  ],
+  "build-css": [
+    0,
+    []
+  ],
+  "gulp-connect": [
+    0,
+    []
+  ],
+  "bundle": [
+    0,
+    []
+  ],
+  "homepage": [
+    0,
+    []
+  ],
+  "@vitejs/plugin-react": [
+    0,
+    []
+  ],
+  "node": [
+    0,
+    []
+  ],
+  "madge:circular": [
+    0,
+    []
+  ],
+  "@shopify:registry": [
+    0,
+    []
+  ],
+  "rollup": [
+    1,
+    [
+      "GHSA-gcx4-mw62-g8wm"
+    ]
+  ],
+  "eslint-plugin-svelte": [
+    0,
+    []
+  ],
+  "test-lint": [
+    0,
+    []
+  ],
+  "release": [
+    0,
+    []
+  ],
+  "name": [
+    0,
+    []
+  ],
+  "*.{js,ts,vue,jsx.tsx}": [
+    0,
+    []
+  ],
+  "start": [
+    0,
+    []
+  ],
+  "push": [
+    0,
+    []
+  ],
+  "grunt-contrib-connect": [
+    0,
+    []
+  ],
+  "update-appendix-c": [
+    0,
+    []
+  ],
+  "bootstrap-icons": [
+    0,
+    []
+  ],
+  "build": [
+    0,
+    []
+  ],
+  "copy-libs": [
+    0,
+    []
+  ],
+  "test:integration:query": [
+    0,
+    []
+  ],
+  "nw": [
+    1,
+    [
+      "GHSA-hv96-xxx2-5v7w"
+    ]
+  ],
+  "generate-changelog": [
+    0,
+    []
+  ],
+  "markdownlint": [
+    0,
+    []
+  ],
+  "astro": [
+    9,
+    [
+      "GHSA-49w6-73cw-chjr",
+      "GHSA-5ff5-9fcw-vg88",
+      "GHSA-c4pw-33h3-35xw",
+      "GHSA-cq8c-xv66-36gw",
+      "GHSA-hr2q-hp5q-x767",
+      "GHSA-m85w-3h95-hcf9",
+      "GHSA-qcpr-679q-rhm2",
+      "GHSA-w2vj-39qv-7vh7",
+      "GHSA-xf8x-j4p2-f749"
+    ]
+  ],
+  "nx_test_karma_profile": [
+    0,
+    []
+  ],
+  "jquery-test-runner": [
+    0,
+    []
+  ]
+}

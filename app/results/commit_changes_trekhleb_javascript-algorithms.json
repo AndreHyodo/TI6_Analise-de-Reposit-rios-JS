@@ -1,0 +1,16 @@
+[
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "commit": "5ff0b40f7c287e15b87e831a0bd44f75ccf61b88",
+    "parent": "8d832ca5f27f6d584e833e6d3a4a1fe0b9ae970a",
+    "removed_dep": "npm",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 5628,
+      "avg_complexity": 1.9914
+    }
+  }
+]

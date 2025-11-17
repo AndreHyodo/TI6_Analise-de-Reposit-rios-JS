@@ -1,0 +1,170 @@
+[
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "@ampproject/remapping",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "@jridgewell/sourcemap-codec",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "acorn",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "aria-query",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "axobject-query",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "code-red",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "css-tree",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "estree-walker",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "is-reference",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "locate-character",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "magic-string",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  },
+  {
+    "repo": "sveltejs/svelte",
+    "commit": "ddfff4df8c29a959dda463239d4122ea8d542828",
+    "parent": "1c581bc56f7a359c9c523bab4c7352a29720f2e1",
+    "removed_dep": "periscopic",
+    "metrics_before": {
+      "lines_of_code": 0,
+      "avg_complexity": 0.0
+    },
+    "metrics_after": {
+      "lines_of_code": 80034,
+      "avg_complexity": 2.8375
+    }
+  }
+]
